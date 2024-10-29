@@ -15,6 +15,7 @@ logger = logging.getLogger(__name__)
 httpx_logger = logging.getLogger("httpx")
 httpx_logger.setLevel(logging.WARNING)
 
+CHECK_INTERVAL = 3600*6
 
 def check_job_exists(name: str, context: ContextTypes.DEFAULT_TYPE) -> bool:
     """Remove job with given name. Returns whether job was removed."""
@@ -36,7 +37,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
     context.job_queue.run_repeating(
         launch_scraping, 
-        interval=10, 
+        interval=CHECK_INTERVAL, 
         first=3, 
         name=f"{update.effective_chat.username} looking for real estate", 
         chat_id=chat_id
