@@ -51,10 +51,14 @@ async def launch_scraping(context: ContextTypes.DEFAULT_TYPE) -> None:
     job = context.job
 
     new_listings = scrape_listings(url=url, listings_dir=listings_dir)
-    for l in new_listings:
-        human_desc = json_to_human(l)
-        listing_url = l["url"]
-        await context.bot.send_message(job.chat_id, text=f'{human_desc}\n\nLink: {listing_url}')
+    if new_listings:
+        for l in new_listings:
+            human_desc = json_to_human(l)
+            listing_url = l["url"]
+            await context.bot.send_message(job.chat_id, text=f'{human_desc}\n\nLink: {listing_url}')
+    else:
+        logger.info(f"No new listings")
+
 
 
 
