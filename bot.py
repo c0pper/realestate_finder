@@ -34,17 +34,17 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
     if check_job_exists(f"{update.effective_chat.username} looking for real estate", context):
         await update.effective_message.reply_text("Bot già avviato")
-
-    context.job_queue.run_repeating(
-        launch_scraping, 
-        interval=CHECK_INTERVAL, 
-        first=3, 
-        name=f"{update.effective_chat.username} looking for real estate", 
-        chat_id=chat_id
-    )
-    
-    text = (f"Bot avviato.")
-    await update.effective_message.reply_text(text)
+    else:
+        context.job_queue.run_repeating(
+            launch_scraping, 
+            interval=CHECK_INTERVAL, 
+            first=3, 
+            name=f"{update.effective_chat.username} looking for real estate", 
+            chat_id=chat_id
+        )
+        
+        text = (f"Bot avviato.")
+        await update.effective_message.reply_text(text)
 
 
 async def launch_scraping(context: ContextTypes.DEFAULT_TYPE) -> None:
