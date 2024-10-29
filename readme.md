@@ -1,0 +1,2 @@
+# Docker
+docker stop real-estate-finder && docker rm real-estate-finder && docker build --network=host -t real-estate-finder . && docker run -d --network=host --env-file .env --name real-estate-finder real-estate-finder
