@@ -1,0 +1,56 @@
+{
+    "date_scraped": "2024-10-29",
+    "url": "https://www.immobiliare.it/annunci/112802197/",
+    "main_info": {
+        "title": "Appartamento all'asta via Francesco Crispi 80/15, Napoli",
+        "location": "",
+        "price": "da € 237.750,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "74 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1980",
+            "Piani edificio": "5",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 123 - Particella 456 - Subalterno 45",
+            "Altri dati catastali": "SubParticella 879"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "74,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "74,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Impianto tv singolo"
+    ],
+    "cost_details": null
+}

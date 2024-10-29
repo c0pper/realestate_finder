@@ -1,0 +1,46 @@
+{
+    "date_scraped": "2024-10-29",
+    "url": "https://www.immobiliare.it/annunci/115540905/",
+    "main_info": {
+        "title": "Trilocale via San Mandato 67, Piazza Canneto - Salvator Rosa, Napoli",
+        "location": "",
+        "price": "€ 185.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "75 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "4",
+            "Ascensore": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "75,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "75,0 m²"
+    },
+    "badges": [
+        "Porta blindata"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

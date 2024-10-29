@@ -1,0 +1,59 @@
+{
+    "date_scraped": "2024-10-29",
+    "url": "https://www.immobiliare.it/annunci/112178865/",
+    "main_info": {
+        "title": "Quadrilocale salita San Raffaele 44, Stella - Materdei, Napoli",
+        "location": "",
+        "price": "€ 240.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "133 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1800",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a gas",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "133,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "133,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Fibra ottica",
+        "Impianto di allarme",
+        "Infissi esterni in doppio vetro / metallo",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

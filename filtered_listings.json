@@ -1,0 +1,348 @@
+[
+    {
+        "date_scraped": "2024-10-29",
+        "url": "https://www.immobiliare.it/annunci/114587623/",
+        "main_info": {
+            "title": "Trilocale via Piazzi 61, San Carlo All'Arena, Napoli",
+            "location": "",
+            "price": "\u20ac 230.000"
+        },
+        "detailed_features": {
+            "Generale": {
+                "Tipologia": "Appartamento | Intera propriet\u00e0",
+                "Contratto": "Vendita",
+                "Stato": "Buono / Abitabile",
+                "Disponibilit\u00e0": "Libero",
+                "Arredato": "S\u00ec"
+            },
+            "Panoramica": {
+                "Piano": "4",
+                "Superficie": "110 m\u00b2",
+                "Locali": "3"
+            },
+            "Composizione dell'immobile": {
+                "Camere da letto": "2",
+                "Cucina": "Cucina angolo cottura",
+                "Bagni": "1",
+                "Balcone": "S\u00ec",
+                "Terrazzo": "S\u00ec",
+                "Giardino": "Nessun giardino",
+                "Cantina": "No"
+            },
+            "Informazioni edificio": {
+                "Anno di costruzione": "1950",
+                "Piani edificio": "4",
+                "Ascensore": "No",
+                "Accesso disabili": "No"
+            }
+        },
+        "surface_details": {
+            "Piano": "4",
+            "Superficie": "110,0 m\u00b2",
+            "Coefficiente": "100%",
+            "Tipo superficie": "Principale",
+            "Sup. commerciale": "110,0 m\u00b2"
+        },
+        "badges": [
+            "Esposizione doppia",
+            "Infissi esterni in vetro / PVC"
+        ],
+        "cost_details": {
+            "Spese condominio": "\u20ac 40/mese"
+        }
+    },
+    {
+        "date_scraped": "2024-10-29",
+        "url": "https://www.immobiliare.it/annunci/115299739/",
+        "main_info": {
+            "title": "Quadrilocale Vico dei Maiorani 19n, Centro Storico, Napoli",
+            "location": "",
+            "price": "\u20ac 235.000"
+        },
+        "detailed_features": {
+            "Generale": {
+                "Tipologia": "Appartamento | Intera propriet\u00e0 | Classe immobile media",
+                "Contratto": "Vendita",
+                "Stato": "Buono / Abitabile",
+                "Disponibilit\u00e0": "Libero",
+                "Arredato": "No"
+            },
+            "Panoramica": {
+                "Piano": "3",
+                "Superficie": "130 m\u00b2",
+                "Locali": "4"
+            },
+            "Composizione dell'immobile": {
+                "Camere da letto": "2",
+                "Cucina": "Cucina angolo cottura",
+                "Bagni": "2",
+                "Balcone": "S\u00ec",
+                "Terrazzo": "S\u00ec",
+                "Giardino": "Nessun giardino",
+                "Cantina": "No"
+            },
+            "Informazioni edificio": {
+                "Anno di costruzione": "1900",
+                "Piani edificio": "3",
+                "Ascensore": "No",
+                "Accesso disabili": "No"
+            },
+            "Riscaldamento": {
+                "Climatizzazione": "Autonomo, freddo/caldo"
+            }
+        },
+        "surface_details": {
+            "Piano": "3",
+            "Superficie": "130,0 m\u00b2",
+            "Coefficiente": "100%",
+            "Tipo superficie": "Principale",
+            "Sup. commerciale": "130,0 m\u00b2"
+        },
+        "badges": [
+            "Esposizione doppia",
+            "Infissi esterni in doppio vetro / metallo",
+            "Porta blindata",
+            "Cancello elettrico",
+            "Impianto tv centralizzato"
+        ],
+        "cost_details": {
+            "Spese condominio": "Nessuna spesa condominiale"
+        }
+    },
+    {
+        "date_scraped": "2024-10-29",
+        "url": "https://www.immobiliare.it/annunci/113424579/",
+        "main_info": {
+            "title": "Quadrilocale via Annunziata, Tribunali, Napoli",
+            "location": "",
+            "price": "\u20ac 260.000"
+        },
+        "detailed_features": {
+            "Generale": {
+                "Tipologia": "Appartamento | Intera propriet\u00e0 | Classe immobile signorile",
+                "Contratto": "Vendita",
+                "Stato": "Buono / Abitabile",
+                "Disponibilit\u00e0": "Libero",
+                "Arredato": "No"
+            },
+            "Panoramica": {
+                "Piano": "4",
+                "Superficie": "130 m\u00b2",
+                "Locali": "4"
+            },
+            "Composizione dell'immobile": {
+                "Camere da letto": "3",
+                "Cucina": "Cucina abitabile",
+                "Bagni": "1",
+                "Balcone": "S\u00ec",
+                "Terrazzo": "No",
+                "Giardino": "Nessun giardino",
+                "Cantina": "No"
+            },
+            "Informazioni edificio": {
+                "Anno di costruzione": "1900",
+                "Piani edificio": "14",
+                "Ascensore": "S\u00ec",
+                "Accesso disabili": "S\u00ec"
+            },
+            "Riscaldamento": {
+                "Riscaldamento": "Autonomo, a radiatori, alimentato a metano"
+            }
+        },
+        "surface_details": {
+            "Piano": "4",
+            "Superficie": "130,0 m\u00b2",
+            "Coefficiente": "100%",
+            "Tipo superficie": "Principale",
+            "Sup. commerciale": "130,0 m\u00b2"
+        },
+        "badges": [
+            "Esposizione esterna",
+            "Infissi esterni in vetro / metallo",
+            "Porta blindata",
+            "Impianto tv singolo"
+        ],
+        "cost_details": {
+            "Spese condominio": "\u20ac 50/mese"
+        }
+    },
+    {
+        "date_scraped": "2024-10-29",
+        "url": "https://www.immobiliare.it/annunci/114605183/",
+        "main_info": {
+            "title": "Quadrilocale Vico Soprammuro 89, Mercato, Napoli",
+            "location": "",
+            "price": "\u20ac 210.000"
+        },
+        "detailed_features": {
+            "Generale": {
+                "Tipologia": "Appartamento | Intera propriet\u00e0 | Classe immobile economica",
+                "Contratto": "Vendita",
+                "Stato": "Ottimo / Ristrutturato",
+                "Disponibilit\u00e0": "Libero",
+                "Arredato": "S\u00ec"
+            },
+            "Panoramica": {
+                "Piano": "4",
+                "Superficie": "160 m\u00b2",
+                "Locali": "4"
+            },
+            "Composizione dell'immobile": {
+                "Camere da letto": "3",
+                "Cucina": "Cucina angolo cottura",
+                "Bagni": "3",
+                "Balcone": "S\u00ec",
+                "Terrazzo": "S\u00ec",
+                "Giardino": "Nessun giardino",
+                "Cantina": "No"
+            },
+            "Informazioni edificio": {
+                "Anno di costruzione": "1967",
+                "Piani edificio": "5",
+                "Ascensore": "No",
+                "Accesso disabili": "No"
+            },
+            "Riscaldamento": {
+                "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+                "Climatizzazione": "Autonomo, freddo/caldo"
+            }
+        },
+        "surface_details": {
+            "Piano": "4",
+            "Superficie": "160,0 m\u00b2",
+            "Coefficiente": "100%",
+            "Tipo superficie": "Principale",
+            "Sup. commerciale": "160,0 m\u00b2"
+        },
+        "badges": [
+            "Esposizione esterna",
+            "Fibra ottica",
+            "Impianto di allarme",
+            "Infissi esterni in vetro / PVC",
+            "Porta blindata",
+            "Impianto tv centralizzato"
+        ],
+        "cost_details": {
+            "Spese condominio": "\u20ac 20/mese"
+        }
+    },
+    {
+        "date_scraped": "2024-10-29",
+        "url": "https://www.immobiliare.it/annunci/111184401/",
+        "main_info": {
+            "title": "Trilocale Vico Santi Filippo e Giacomo 5, Centro Storico, Napoli",
+            "location": "",
+            "price": "\u20ac 245.000"
+        },
+        "detailed_features": {
+            "Generale": {
+                "Tipologia": "Appartamento | Intera propriet\u00e0 | Classe immobile media",
+                "Contratto": "Vendita",
+                "Stato": "Buono / Abitabile",
+                "Disponibilit\u00e0": "Libero",
+                "Arredato": "Parzialmente Arredato"
+            },
+            "Panoramica": {
+                "Piano": "2",
+                "Superficie": "81 m\u00b2",
+                "Locali": "3"
+            },
+            "Composizione dell'immobile": {
+                "Camere da letto": "2",
+                "Cucina": "Cucina cucinotto",
+                "Bagni": "1",
+                "Balcone": "S\u00ec",
+                "Terrazzo": "No",
+                "Giardino": "Nessun giardino",
+                "Cantina": "No"
+            },
+            "Informazioni edificio": {
+                "Anno di costruzione": "1900",
+                "Piani edificio": "3",
+                "Ascensore": "No",
+                "Accesso disabili": "No"
+            },
+            "Riscaldamento": {
+                "Climatizzazione": "Autonomo, freddo/caldo"
+            }
+        },
+        "surface_details": {
+            "Piano": "2",
+            "Superficie": "4,0 m\u00b2",
+            "Coefficiente": "30%",
+            "Tipo superficie": "Principale",
+            "Sup. commerciale": "1,0 m\u00b2"
+        },
+        "badges": [
+            "Armadio a muro",
+            "Esposizione interna",
+            "Fibra ottica",
+            "Infissi esterni in doppio vetro / PVC",
+            "Porta blindata",
+            "Cancello elettrico",
+            "Impianto tv singolo"
+        ],
+        "cost_details": {
+            "Spese condominio": "\u20ac 20/mese"
+        }
+    },
+    {
+        "date_scraped": "2024-10-29",
+        "url": "https://www.immobiliare.it/annunci/112178865/",
+        "main_info": {
+            "title": "Quadrilocale salita San Raffaele 44, Stella - Materdei, Napoli",
+            "location": "",
+            "price": "\u20ac 240.000"
+        },
+        "detailed_features": {
+            "Generale": {
+                "Tipologia": "Appartamento | Intera propriet\u00e0 | Classe immobile media",
+                "Contratto": "Vendita",
+                "Stato": "Ottimo / Ristrutturato",
+                "Disponibilit\u00e0": "Libero",
+                "Arredato": "No"
+            },
+            "Panoramica": {
+                "Piano": "3",
+                "Superficie": "133 m\u00b2",
+                "Locali": "4"
+            },
+            "Composizione dell'immobile": {
+                "Camere da letto": "3",
+                "Cucina": "Cucina abitabile",
+                "Bagni": "1",
+                "Balcone": "S\u00ec",
+                "Terrazzo": "No",
+                "Giardino": "Nessun giardino",
+                "Cantina": "No"
+            },
+            "Informazioni edificio": {
+                "Anno di costruzione": "1800",
+                "Piani edificio": "3",
+                "Ascensore": "No",
+                "Accesso disabili": "No"
+            },
+            "Riscaldamento": {
+                "Riscaldamento": "Autonomo, a radiatori, alimentato a gas",
+                "Climatizzazione": "Autonomo, freddo/caldo"
+            }
+        },
+        "surface_details": {
+            "Piano": "3",
+            "Superficie": "133,0 m\u00b2",
+            "Coefficiente": "100%",
+            "Tipo superficie": "Principale",
+            "Sup. commerciale": "133,0 m\u00b2"
+        },
+        "badges": [
+            "Armadio a muro",
+            "Fibra ottica",
+            "Impianto di allarme",
+            "Infissi esterni in doppio vetro / metallo",
+            "Impianto tv centralizzato"
+        ],
+        "cost_details": {
+            "Spese condominio": "\u20ac 30/mese"
+        }
+    }
+]
