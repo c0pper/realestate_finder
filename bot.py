@@ -32,7 +32,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     chat_id = update.effective_message.chat_id
     logger.info(f"{update.message.from_user.name} started the task")
 
-    if check_job_exists(str(chat_id), context):
+    if check_job_exists(f"{update.effective_chat.username} looking for real estate", context):
         await update.effective_message.reply_text("Bot già avviato")
 
     context.job_queue.run_repeating(
