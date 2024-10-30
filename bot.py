@@ -53,6 +53,7 @@ async def launch_scraping(context: ContextTypes.DEFAULT_TYPE) -> None:
 
     new_listings = scrape_listings(url=url, listings_dir=listings_dir)
     if new_listings:
+        logger.info(f"New listings: {new_listings}")
         for l in new_listings:
             human_desc = json_to_human(l)
             listing_url = l["url"]

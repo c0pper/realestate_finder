@@ -246,10 +246,11 @@ def scrape_listings(url, listings_dir):
         listing_file = listings_dir / f"{listing_id}.json"
 
         if not listing_file.exists():
+            logger.info(f"Scraping listing data for {listing_url}")
             listing_data = scrape_listing(listing_url)
             with open(listing_file, 'w', encoding='utf-8') as f:
                 json.dump(listing_data, f, ensure_ascii=False, indent=4)
-                logger.info(f"Saved listing data for {listing_id} to {listing_file}")
+                logger.info(f"\tSaved listing data for {listing_id} to {listing_file}")
         else:
             logger.info(f"Listing data for {listing_id} already exists, skipping.")
 
