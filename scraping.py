@@ -12,10 +12,13 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.service import Service
 import json
 from pathlib import Path
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
-
-url = "https://www.immobiliare.it/vendita-case/napoli/con-piani-intermedi/?prezzoMinimo=160000&prezzoMassimo=260000&superficieMinima=60&localiMinimo=3&balconeOterrazzo%5B0%5D=balcone&fasciaPiano%5B0%5D=30&idMZona%5B0%5D=78&idMZona%5B1%5D=10324&idMZona%5B2%5D=10323&idMZona%5B3%5D=79&idMZona%5B4%5D=81&idQuartiere%5B0%5D=12824&idQuartiere%5B1%5D=261&idQuartiere%5B2%5D=270&idQuartiere%5B3%5D=12814&idQuartiere%5B4%5D=273&idQuartiere%5B5%5D=283&idQuartiere%5B6%5D=12825&idQuartiere%5B7%5D=294&id=121783439&imm_source=bookmarkricerche"
+PREZZO_MASSIMO = os.getenv("PREZZO_MASSIMO")
+url = f"https://www.immobiliare.it/vendita-case/napoli/con-piani-intermedi/?prezzoMinimo=160000&prezzoMassimo={PREZZO_MASSIMO}&superficieMinima=60&localiMinimo=3&balconeOterrazzo%5B0%5D=balcone&fasciaPiano%5B0%5D=30&idMZona%5B0%5D=78&idMZona%5B1%5D=10324&idMZona%5B2%5D=10323&idMZona%5B3%5D=79&idMZona%5B4%5D=81&idQuartiere%5B0%5D=12824&idQuartiere%5B1%5D=261&idQuartiere%5B2%5D=270&idQuartiere%5B3%5D=12814&idQuartiere%5B4%5D=273&idQuartiere%5B5%5D=283&idQuartiere%5B6%5D=12825&idQuartiere%5B7%5D=294&id=121783439&imm_source=bookmarkricerche"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -264,7 +267,5 @@ def scrape_listings(url, listings_dir):
 
 
 if __name__ == "__main__":
-
-
     scrape_listings(url, listings_dir)
     
