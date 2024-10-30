@@ -37,7 +37,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     else:
         context.job_queue.run_repeating(
             launch_scraping, 
-            interval=CHECK_INTERVAL, 
+            interval=int(CHECK_INTERVAL), 
             first=3, 
             name=f"{update.effective_chat.username} looking for real estate", 
             chat_id=chat_id
