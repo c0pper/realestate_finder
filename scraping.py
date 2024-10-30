@@ -14,8 +14,17 @@ import json
 from pathlib import Path
 from dotenv import load_dotenv
 import os
+import logging
 
 load_dotenv()
+
+
+logging.basicConfig(
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
+)
+logger = logging.getLogger(__name__)
+httpx_logger = logging.getLogger("httpx")
+httpx_logger.setLevel(logging.WARNING)
 
 PREZZO_MASSIMO = os.getenv("PREZZO_MASSIMO")
 url = f"https://www.immobiliare.it/vendita-case/napoli/con-piani-intermedi/?prezzoMinimo=160000&prezzoMassimo={PREZZO_MASSIMO}&superficieMinima=60&localiMinimo=3&balconeOterrazzo%5B0%5D=balcone&fasciaPiano%5B0%5D=30&idMZona%5B0%5D=78&idMZona%5B1%5D=10324&idMZona%5B2%5D=10323&idMZona%5B3%5D=79&idMZona%5B4%5D=81&idQuartiere%5B0%5D=12824&idQuartiere%5B1%5D=261&idQuartiere%5B2%5D=270&idQuartiere%5B3%5D=12814&idQuartiere%5B4%5D=273&idQuartiere%5B5%5D=283&idQuartiere%5B6%5D=12825&idQuartiere%5B7%5D=294&id=121783439&imm_source=bookmarkricerche"
@@ -88,7 +97,7 @@ def extract_main_info(soup):
             "price": price
         }
     except AttributeError as e:
-        print(f"Failed to extract main info: {e}")
+        logger.info(f"Failed to extract main info: {e}")
         return None
 
 # Extract detailed features
@@ -106,7 +115,7 @@ def extract_detailed_features(announcement_url):
         accept_cookies_button.click()
         time.sleep(0.5)  # Wait for the action to complete
     except Exception as e:
-        print("No cookies consent button found")
+        logger.info("No cookies consent button found")
 
     all_features = driver.find_element(By.CSS_SELECTOR, ".re-primaryFeatures__openDialogButton")
     # Find the button to open the dialog
@@ -164,7 +173,7 @@ def extract_surface_details(soup):
         
         return details
     except AttributeError as e:
-        print(f"Failed to extract surface details: {e}")
+        logger.info(f"Failed to extract surface details: {e}")
         return None
 
 # Extract badges
@@ -177,7 +186,7 @@ def extract_badges(soup):
         
         return badge_list
     except AttributeError as e:
-        print(f"Failed to extract badges: {e}")
+        logger.info(f"Failed to extract badges: {e}")
         return None
 
 # Extract cost details
@@ -194,7 +203,7 @@ def extract_cost_details(soup):
         
         return cost_details
     except AttributeError as e:
-        print(f"Failed to extract cost details: {e}")
+        logger.info(f"Failed to extract cost details: {e}")
         return None
 
 
@@ -240,9 +249,9 @@ def scrape_listings(url, listings_dir):
             listing_data = scrape_listing(listing_url)
             with open(listing_file, 'w', encoding='utf-8') as f:
                 json.dump(listing_data, f, ensure_ascii=False, indent=4)
-                print(f"Saved listing data for {listing_id} to {listing_file}")
+                logger.info(f"Saved listing data for {listing_id} to {listing_file}")
         else:
-            print(f"Listing data for {listing_id} already exists, skipping.")
+            logger.info(f"Listing data for {listing_id} already exists, skipping.")
 
     # Filter the listings
     filtered_data = filter_listings(listings_dir)
