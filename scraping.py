@@ -235,24 +235,41 @@ def scrape_listing(url):
 
 
 def scrape_listings(url, listings_dir):
+    page_num = 8  # Start from the first page
 
-    response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-    soup = BeautifulSoup(response.content, "html.parser")
-    listings = soup.find_all("div", class_="in-listingCard")
-    for listing in listings:
-        title_tag = listing.find("a", class_="in-listingCardTitle")
-        listing_url = title_tag['href'] if title_tag else "N/A"
-        listing_id = listing_url.split('annunci/')[1].replace("/", "")  # Extract the listing ID from the URL
-        listing_file = listings_dir / f"{listing_id}.json"
+    while True:
+        # Update the URL with the current page number
+        paginated_url = f"{url}&pag={page_num}"
 
-        if not listing_file.exists():
-            logger.info(f"Scraping listing data for {listing_url}")
-            listing_data = scrape_listing(listing_url)
-            with open(listing_file, 'w', encoding='utf-8') as f:
-                json.dump(listing_data, f, ensure_ascii=False, indent=4)
-                logger.info(f"\tSaved listing data for {listing_id} to {listing_file}")
-        else:
-            logger.info(f"Listing data for {listing_id} already exists, skipping.")
+        response = requests.get(paginated_url, headers={"User-Agent": "Mozilla/5.0"})
+
+        if response.status_code != 200:
+            logger.error(f"Failed to fetch page {page_num}. Status code: {response.status_code}")
+            break
+
+        soup = BeautifulSoup(response.content, "html.parser")
+        listings = soup.find_all("div", class_="in-listingCard")
+        if not listings:
+            logger.info("No more listings found. Exiting pagination.")
+            break
+
+        for listing in listings:
+            title_tag = listing.find("a", class_="in-listingCardTitle")
+            listing_url = title_tag['href'] if title_tag else "N/A"
+            listing_id = listing_url.split('annunci/')[1].replace("/", "")  # Extract the listing ID from the URL
+            listing_file = listings_dir / f"{listing_id}.json"
+
+            if not listing_file.exists():
+                logger.info(f"Scraping listing data for {listing_url}")
+                listing_data = scrape_listing(listing_url)
+
+                with open(listing_file, 'w', encoding='utf-8') as f:
+                    json.dump(listing_data, f, ensure_ascii=False, indent=4)
+                    logger.info(f"\tSaved listing data for {listing_id} to {listing_file}")
+            else:
+                logger.info(f"Listing data for {listing_id} already exists, skipping.")
+        
+        page_num += 1
 
     # Filter the listings
     filtered_data = filter_listings(listings_dir)
