@@ -69,7 +69,7 @@ def filter_listings(directory_path):
             # Get 'disponibilità' and 'stato' from 'Generale' section in 'detailed_features'
             disponibilita = data.get("detailed_features", {}).get("Generale", {}).get("Disponibilità", "").lower()
             stato = data.get("detailed_features", {}).get("Generale", {}).get("Stato", "").lower()
-            piano = int(data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", ""))
+            piano = int(data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0"))
             balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
             
             # Check if 'disponibilità' is 'libero' and 'stato' is not 'da ristrutturare'
