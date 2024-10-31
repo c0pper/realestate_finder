@@ -261,14 +261,14 @@ def scrape_listings(url, listings_dir):
             logger.info("No more listings found. Exiting pagination.")
             break
 
-        for listing in listings:
+        for idx, listing in enumerate(listings, start=1):
             title_tag = listing.find("a", class_="in-listingCardTitle")
             listing_url = title_tag['href'] if title_tag else "N/A"
             listing_id = listing_url.split('annunci/')[1].replace("/", "")  # Extract the listing ID from the URL
             listing_file = listings_dir / f"{listing_id}.json"
 
             if not listing_file.exists():
-                logger.info(f"Scraping listing data for {listing_url} [Page {page_num}]")
+                logger.info(f"Scraping listing data for {listing_url} [{idx}/{len(listings)} listings on page {page_num}]")
                 listing_data = scrape_listing(listing_url)
 
                 with open(listing_file, 'w', encoding='utf-8') as f:
