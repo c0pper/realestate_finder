@@ -105,6 +105,12 @@ def extract_main_info(soup):
         location_parts = soup.select("a.re-title__link span.re-title__location")
         location = " - ".join([loc.text.strip() for loc in location_parts])
         
+        last_update_element = soup.select_one(".re-lastUpdate__text")
+        if last_update_element:
+            last_update_text = last_update_element.get_text(strip=True)
+        else:
+            last_update_text = "N/A"
+
         # Extract price
         price = soup.find("div", class_="re-overview__price").span.text.strip()
         
@@ -116,7 +122,8 @@ def extract_main_info(soup):
                 "reference": reference,
                 "title": desc_title,
                 "text": desc_text
-            }
+            },
+            "last_update": last_update_text
         }
     except AttributeError as e:
         logger.info(f"Failed to extract main info: {e}")
