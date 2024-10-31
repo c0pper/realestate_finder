@@ -10,6 +10,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.service import Service
+from selenium.common.exceptions import NoSuchElementException
 import json
 from pathlib import Path
 from dotenv import load_dotenv
@@ -101,7 +102,8 @@ def extract_main_info(soup):
         return None
 
 # Extract detailed features
-def extract_detailed_features(announcement_url):   
+def extract_detailed_features(announcement_url):  
+    features = {} 
     driver = get_driver()
     driver.get(announcement_url)
 
@@ -117,41 +119,47 @@ def extract_detailed_features(announcement_url):
     except Exception as e:
         logger.info("No cookies consent button found")
 
-    all_features = driver.find_element(By.CSS_SELECTOR, ".re-primaryFeatures__openDialogButton")
-    # Find the button to open the dialog
+    try:
+        all_features = driver.find_element(By.CSS_SELECTOR, ".re-primaryFeatures__openDialogButton")
+        # Find the button to open the dialog
 
-    # Scroll the button into view
-    driver.execute_script("arguments[0].scrollIntoView(true);", all_features)
-    time.sleep(0.5)
-    # Then, scroll an additional 100 pixels down
-    driver.execute_script("window.scrollBy(0, -300);")
+        # Scroll the button into view
+        driver.execute_script("arguments[0].scrollIntoView(true);", all_features)
+        time.sleep(0.5)
+        # Then, scroll an additional 100 pixels down
+        driver.execute_script("window.scrollBy(0, -300);")
 
-    # Wait a moment for the scroll to finish
-    time.sleep(0.5)
+        # Wait a moment for the scroll to finish
+        time.sleep(0.5)
 
-    # Click the button to open the dialog
-    open_dialog_button = driver.find_element(By.CSS_SELECTOR, ".nd-button.re-primaryFeatures__openDialogButton")
-    open_dialog_button.click()
+        # Click the button to open the dialog
+        open_dialog_button = driver.find_element(By.CSS_SELECTOR, ".nd-button.re-primaryFeatures__openDialogButton")
+        open_dialog_button.click()
 
-    # Wait for the dialog to appear
-    time.sleep(0.5)  # Adjust as needed
+        # Wait for the dialog to appear
+        time.sleep(0.5)  # Adjust as needed
 
-    # Access the dialog content
-    dialog_content = driver.find_element(By.CSS_SELECTOR, ".nd-dialogFrame__content")
+        # Access the dialog content
+        dialog_content = driver.find_element(By.CSS_SELECTOR, ".nd-dialogFrame__content")
 
-    # Extract features
-    features = {}
-    sections = dialog_content.find_elements(By.CLASS_NAME, "re-primaryFeaturesDialogSection")
+        # Extract features
+        sections = dialog_content.find_elements(By.CLASS_NAME, "re-primaryFeaturesDialogSection")
+    except NoSuchElementException:
+        sections = []
+        logger.warning(f"\t[!] No detailed features found for {announcement_url}")
     
-    for section in sections:
-        title = section.find_element(By.CLASS_NAME, "re-primaryFeaturesDialogSection__title").text
-        features[title] = {}
-        feature_items = section.find_elements(By.CLASS_NAME, "re-primaryFeaturesDialogSection__feature")
-        
-        for feature in feature_items:
-            feature_title = feature.find_element(By.TAG_NAME, "dt").text
-            feature_description = feature.find_element(By.TAG_NAME, "dd").text
-            features[title][feature_title] = feature_description
+    if sections:
+        for section in sections:
+            title = section.find_element(By.CLASS_NAME, "re-primaryFeaturesDialogSection__title").text
+            features[title] = {}
+            feature_items = section.find_elements(By.CLASS_NAME, "re-primaryFeaturesDialogSection__feature")
+            
+            for feature in feature_items:
+                feature_title = feature.find_element(By.TAG_NAME, "dt").text
+                feature_description = feature.find_element(By.TAG_NAME, "dd").text
+                features[title][feature_title] = feature_description
+    else:
+        features["error"] = "no features found"
 
     driver.quit()
 
@@ -186,7 +194,7 @@ def extract_badges(soup):
         
         return badge_list
     except AttributeError as e:
-        logger.info(f"Failed to extract badges: {e}")
+        logger.info(f"No badges found: {e}")
         return None
 
 # Extract cost details
