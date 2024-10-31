@@ -85,6 +85,7 @@ def filter_listings(directory_path):
             if disponibilita == "libero" and stato != "da ristrutturare" and int(piano) > 1 and balcone == "sì":
                 if not any(word in description for word in ["nuda", "soppalco", "asta"]):
                     filtered_listings.append(data)
+                else:
                     logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is asta')
             else:
                 logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
