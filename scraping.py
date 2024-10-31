@@ -243,7 +243,7 @@ def scrape_listing(url):
 
 
 def scrape_listings(url, listings_dir):
-    page_num = 8  # Start from the first page
+    page_num = 1  # Start from the first page
 
     while True:
         # Update the URL with the current page number
