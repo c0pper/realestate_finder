@@ -71,10 +71,16 @@ def filter_listings(directory_path):
             stato = data.get("detailed_features", {}).get("Generale", {}).get("Stato", "").lower()
             piano = int(data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0"))
             balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
+
+            description = data.get("main_info").get("description").get("title") + "\n" + data.get("main_info").get("description").get("text")
             
             # Check if 'disponibilità' is 'libero' and 'stato' is not 'da ristrutturare'
             if disponibilita == "libero" and stato != "da ristrutturare" and piano > 1 and balcone == "sì":
-                filtered_listings.append(data)
+                if not any(word in description for word in ["nuda", "soppalco", "asta"]):
+                    filtered_listings.append(data)
+                    logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is asta')
+            else:
+                logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
     
     return filtered_listings
 
@@ -84,7 +90,17 @@ def extract_main_info(soup):
     try:
         # Extract title
         title = soup.find("h1", class_="re-title__title").text.strip()
-        
+
+        # Find the reference, title, and description text if they exist
+        reference_tag = soup.select_one(".re-contentDescriptionHeading__reference span")
+        title_tag = soup.select_one(".re-contentDescriptionHeading__title")
+        description_tag = soup.select_one(".in-readAll--lessContent div")
+
+        # Extract text from the tags if they are found
+        reference = reference_tag.text if reference_tag else "N/A"
+        desc_title = title_tag.text if title_tag else "N/A"
+        desc_text = description_tag.get_text(separator=" ", strip=True) if description_tag else "N/A"
+
         # Extract location
         location_parts = soup.select("a.re-title__link span.re-title__location")
         location = " - ".join([loc.text.strip() for loc in location_parts])
@@ -95,7 +111,12 @@ def extract_main_info(soup):
         return {
             "title": title,
             "location": location,
-            "price": price
+            "price": price,
+            "description": {
+                "reference": reference,
+                "title": desc_title,
+                "text": desc_text
+            }
         }
     except AttributeError as e:
         logger.info(f"Failed to extract main info: {e}")
