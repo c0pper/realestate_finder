@@ -69,7 +69,7 @@ def filter_listings(directory_path):
             # Get 'disponibilità' and 'stato' from 'Generale' section in 'detailed_features'
             disponibilita = data.get("detailed_features", {}).get("Generale", {}).get("Disponibilità", "").lower()
             stato = data.get("detailed_features", {}).get("Generale", {}).get("Stato", "").lower()
-            piano = data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0")
+            piano = data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0").split(",")[0]
             if "rialzato" in piano:
                 piano = "1"
             balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
