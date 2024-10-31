@@ -268,7 +268,7 @@ def scrape_listings(url, listings_dir):
             listing_file = listings_dir / f"{listing_id}.json"
 
             if not listing_file.exists():
-                logger.info(f"Scraping listing data for {listing_url}")
+                logger.info(f"Scraping listing data for {listing_url} [Page {page_num}]")
                 listing_data = scrape_listing(listing_url)
 
                 with open(listing_file, 'w', encoding='utf-8') as f:
