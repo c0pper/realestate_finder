@@ -71,13 +71,13 @@ def filter_listings(directory_path):
             stato = data.get("detailed_features", {}).get("Generale", {}).get("Stato", "").lower()
             piano = data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0")
             if "rialzato" in piano:
-                piano = 1
+                piano = "1"
             balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
 
             description = data.get("main_info", {}).get("description", {}).get("title", "") + "\n" + data.get("main_info", {}).get("description", {}).get("text", "")
             
             # Check if 'disponibilità' is 'libero' and 'stato' is not 'da ristrutturare'
-            if disponibilita == "libero" and stato != "da ristrutturare" and piano > 1 and balcone == "sì":
+            if disponibilita == "libero" and stato != "da ristrutturare" and int(piano) > 1 and balcone == "sì":
                 if not any(word in description for word in ["nuda", "soppalco", "asta"]):
                     filtered_listings.append(data)
                     logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is asta')
