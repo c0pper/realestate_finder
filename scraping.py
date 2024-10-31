@@ -1,4 +1,5 @@
 from datetime import date, datetime
+import re
 import time
 import requests
 
@@ -72,6 +73,11 @@ def filter_listings(directory_path):
             piano = data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0").split(",")[0]
             if "rialzato" in piano:
                 piano = "1"
+            match = re.search(r'\d+', piano)
+            if match:
+                piano = match.group(0)
+            else:
+                piano = 0  # or handle cases where no number is found
             balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
 
             description = data.get("main_info", {}).get("description", {}).get("title", "") + "\n" + data.get("main_info", {}).get("description", {}).get("text", "")
