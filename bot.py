@@ -1,7 +1,7 @@
 import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
-from scraping import scrape_listings, url, listings_dir
+from immobiliare import ImmobiliareScraper
 from dotenv import load_dotenv
 import os
 from llm import json_to_human
@@ -16,6 +16,12 @@ httpx_logger = logging.getLogger("httpx")
 httpx_logger.setLevel(logging.WARNING)
 
 CHECK_INTERVAL = os.getenv("INTERVAL")
+
+immo_scraper = ImmobiliareScraper(
+    search_url=os.getenv("SEARCH_URL_IMMOBILIARE"),
+    listings_dir="listings"
+)
+
 
 def check_job_exists(name: str, context: ContextTypes.DEFAULT_TYPE) -> bool:
     """Remove job with given name. Returns whether job was removed."""
@@ -51,7 +57,7 @@ async def launch_scraping(context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send the alarm message."""
     job = context.job
 
-    new_listings = scrape_listings(url=url, listings_dir=listings_dir)
+    new_listings = immo_scraper.scrape_listings()
     if new_listings:
         logger.info(f"New listings: {new_listings}")
         for l in new_listings:
