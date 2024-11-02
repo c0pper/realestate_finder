@@ -1,0 +1,61 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115206291/",
+    "main_info": {
+        "title": "Trilocale via Carriera Grande 23, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 219.888",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento in vendita a Napoli, Ferrovia",
+            "text": "\"Sole, spazio e serenità: il tuo nuovo nido ti aspetta!\" Immagina di svegliarti ogni mattina baciato dal sole, in un appartamento che si illumina di luce naturale da ogni angolo. Questo luminoso appartamento al quarto e ultimo piano, con esposizione a sud, è come un girasole che segue il sole durante tutto il giorno. Le due camere da letto, la cucina, il soggiorno accogliente e il bagno, finemente rifinito, offrono tutto lo spazio necessario per vivere comodamente. Ma la vera chicca è il terrazzo a livello, perfetto per rilassarsi all'aria aperta, fare colazione, mangiare e godersi la vita. E per chi ama i lavori manuali o semplicemente desidera un angolo tutto per sé, c'è anche il terrazzo di copertura, di proprietà. Nessun ascensore? Nessun problema! Salire qualche scalino in più ti regalerà una forma fisica invidiabile e ti permetterà di apprezzare ancora di più la tua nuova casa. Non perdere l'opportunità di visitare questo gioiello immobiliare, il girasole."
+        },
+        "last_update": "Annuncio aggiornato il 10/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "4",
+            "Superficie": "110 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina a vista",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1965",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "4",
+        "Superficie": "110,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "110,0 m²"
+    },
+    "badges": [
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 50/mese"
+    }
+}

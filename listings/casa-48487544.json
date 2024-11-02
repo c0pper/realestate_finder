@@ -1,0 +1,34 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/48487544/",
+    "main_info": {
+        "title": "Quadrilocale in Vendita in zona Centro Storico a Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "VENDITA NAPOLI GARIBALDINelle vicinanze della centralissima Via Foria, proponiamo in vendita un appartamento di 120 mq, composto da 4 vani e doppi accessori, divisi nel seguente modo: ingresso in ampia zona salone e cucina con doppio balcone su strada principale, camera da letto con balcone, primo bagno con doccia, ulteriore camera da letto e ulteriore bagno di ampia quadratura.Il tutto servito da una tripla esposizione con quattro balconi. La proprietà è provvista di posto moto."
+        },
+        "last_update": "Data ultimo aggiornamento 16 Settembre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "120mq",
+            "Locali": "4",
+            "Bagni": "2",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Stato": "abitabile",
+            "Riscaldamento": "autonomo",
+            "Classe energetica": "Non indicata"
+        },
+        "cost_details": {
+            "Prezzo": "€220.000Calcola mutuoprezzo al mq calcolato € 1.834"
+        }
+    }
+}

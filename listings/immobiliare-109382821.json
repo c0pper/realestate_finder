@@ -1,0 +1,59 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/109382821/",
+    "main_info": {
+        "title": "Trilocale Vico Vicaria 3, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 220.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Disponibile dal 25/01/2025",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "100 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "3",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1950",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "100,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "100,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Infissi esterni in vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo",
+        "VideoCitofono"
+    ],
+    "cost_details": null
+}

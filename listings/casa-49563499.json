@@ -1,0 +1,33 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49563499/",
+    "main_info": {
+        "title": "Quadrilocale in Vendita in Via Vicaria Vecchia 12 a Napoli",
+        "location": "",
+        "price": "€ 250.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Appartamento Luminoso nel Cuore del Centro Storico di Napoli (VIA FORCELLA, ) VIA VICARIA VECCHIAScopri questo ampio appartamento di circa 110 mq situato al 6° piano di un edificio con ascensore, ( in fase di installazione) nel cuore. A due passi dalla cattedrale del Duomo e da Spacca Napoli, la posizione centrale ti permetterà di vivere al meglio la città partenopea.L'appartamento è composto da un ingresso spazioso, quattro camere luminose, una cucina con un piccolo terrazzino e un bagno. Il prezzo di vendita è di €250.000, 00, un'opportunità imperdibile per chi cerca una soluzione abitativa nel cuore pulsante di Napoli. Non perdere questa occasione unica! Contattaci per maggiori informazioni e per organizzare una visita."
+        },
+        "last_update": "Data ultimo aggiornamento 28 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "111mq",
+            "Locali": "4",
+            "Bagni": "1",
+            "Piano": "6°",
+            "Ascensore": "sì",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balconeterrazzo"
+        },
+        "energy": {
+            "Stato": "abitabile",
+            "Classe energetica": "GD.M. 26/06/2015"
+        },
+        "cost_details": {
+            "Prezzo": "€250.000Calcola mutuoprezzo al mq calcolato € 2.253"
+        }
+    }
+}

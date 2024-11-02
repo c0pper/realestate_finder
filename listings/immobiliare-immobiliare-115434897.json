@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.immobiliare.it/annunci/115434897/",
+    "main_info": {
+        "title": "Trilocale via Emanuele De Deo, Quartieri Spagnoli, Napoli",
+        "location": "",
+        "price": "€ 210.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "APPARTAMENTO LOCATO IN VENDITA AD. MURALES DI MARADONA",
+            "text": "Via Emanuele De Deo: a due passi dal murales di Maradona, il secondo sito turistico più visitato in tutta Italia nel periodo 2023/2024, nella zona meglio collegata della città, proponiamo in vendita un appartamento di circa 90 mq, locato con rendita mensile di euro 700,00. Il cespite è in buono stato e si compone di un ingresso che si apre sul salone living, un ampio disimpegno che conduce alla prima camera da letto, al bagno e alla cucina abitabile che dà a sua volta accesso a una cameretta con balconcino. Piano alto, doppia esposizione, prezzo richiesto: euro 210.000,00. CLASSE ENERGETICA: G. L’immobile è sito nel quartiere di Montecalvario, nel centro storico della città, ancora più precisamente nella zona riconosciuta come Quartieri Spagnoli, area di estrema centralità, caratterizzata da vicoletti e stradine che si rincorrono tra portali storici e vie di interesse commerciale e culturale e che conservano ancora lo spirito della città storica. Il quartiere è ampiamente servito dai mezzi pubblici, con le fermate della funicolare e della metropolitana. Informazioni Aggiuntive: L'immobile è visionabile previo appuntamento telefonico. Per maggiori informazioni o per fissare un appuntamento contattaci telefonicamente oppure invia una mail, troverai sempre un agente pronto a rispondere alle tue domande offrendoti, in ogni occasione, servizi di ottimo livello, qualitativo e professionale."
+        },
+        "last_update": "Annuncio aggiornato il 28/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Disponibile dal 02/04/2028",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "90 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "4",
+            "Ascensore": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "90,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "90,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": null
+}

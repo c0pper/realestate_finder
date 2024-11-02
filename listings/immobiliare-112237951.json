@@ -1,0 +1,50 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112237951/",
+    "main_info": {
+        "title": "Mansarda via San Vincenzo 12, Stella - Materdei, Napoli",
+        "location": "",
+        "price": "€ 250.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Mansarda | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "140 m² | commerciale 149 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Bagni": "3",
+            "Terrazzo": "Sì",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "4"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo",
+            "Climatizzazione": "Freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "30,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "9,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Infissi esterni in doppio vetro / metallo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 35/mese"
+    }
+}

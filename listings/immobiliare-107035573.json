@@ -1,0 +1,57 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/107035573/",
+    "main_info": {
+        "title": "Trilocale via Miracoli 55, Sanità, Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Vendesi appartamento in pieno Centro Storico a Napoli. Via Miracoli , a cinque minuti esatti da Piazza Cavour e dalle principali Linee Metropolitane L’immobile si trova al terzo piano senza ascensore di uno stabile signorile e ben tenuto L‘ appartamento di 90 mq affaccia con in ampia balconata sua direttamente su Via Miracoli che in un andito interno con una seconda balconata grande. L’appartamento si compone di ingresso in salotto living, cucina abitabile , bagno, ripostiglio e doppia camera da letto. Ristrutturato L’appartamento e’ attualmente locato con regolare contratto registrato per altri due anni (scadenza ottobre 2025) con una rendita mensile di 575€ . Ottimo come investimento sotto ogni aspetto Prezzo: 220000€ TRATT. anche su whatsapp"
+        },
+        "last_update": "Annuncio aggiornato il 30/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "90 m² | commerciale 92 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1955",
+            "Piani edificio": "5",
+            "Ascensore": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "8,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "2,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Infissi esterni in vetro / PVC",
+        "Esposizione sud"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 55/mese"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49471912/",
+    "main_info": {
+        "title": "Trilocale in Vendita in Via San Sofia a Napoli",
+        "location": "",
+        "price": "€ 169.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "A pochi passi da Via Carbonara, nei pressi del rinomato ''Hotel Caracciolo'', precisamente in Via Santa Sofia, proponiamo in vendita appartamento posto al piano 2°, composto da: ingresso in ampia cucina, salone, due camere da letto di cui una in soppalco, ripostiglio e bagno. L' immobile gode di doppia esposizione e si presenta in buono stato. L'appartamento si presta perfettamente anche per un uso ricettivo, grazie alla sua posizione centrale e alla vicinanza a luoghi di interesse turistico e culturale, l'atmosfera unica del centro storico di Napoli, con i suoi palazzi storici e le piazze vivaci, rende questa zona particolarmente ambita sia per chi cerca una residenza nel cuore della città sia per chi desidera investire in un immobile dal grande potenziale. Il prezzo richiesto è di € 169.000, 00. C. E. =G."
+        },
+        "last_update": "Data ultimo aggiornamento 26 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "105mq",
+            "Locali": "3",
+            "Bagni": "1",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Stato": "abitabile",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "GD.M. 26/06/2015"
+        },
+        "cost_details": {
+            "Prezzo": "€169.000Calcola mutuoprezzo al mq calcolato € 1.610"
+        }
+    }
+}

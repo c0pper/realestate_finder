@@ -1,0 +1,57 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114842389/",
+    "main_info": {
+        "title": "Trilocale via Francesco Saverio Correra 171, Museo, Napoli",
+        "location": "",
+        "price": "€ 169.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "75 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Bagni": "3",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "2",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "75,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "75,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione interna",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "Nessuna spesa condominiale"
+    }
+}

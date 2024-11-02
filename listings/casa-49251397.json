@@ -1,0 +1,39 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49251397/",
+    "main_info": {
+        "title": "Attico, mansarda in Vendita in Via San Vincenzo a Napoli",
+        "location": "",
+        "price": "€ 250.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Bellissima mansarda con due terrazzi e piccola depandace,4 camere da letto,open space,tre bagni Da vedere!No agenzieContattare solo su wathsapp 3339..."
+        },
+        "last_update": "Data ultimo aggiornamento 2 Giugno 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Unità immobiliari": "1",
+            "Superficie": "140mq",
+            "Locali": "3",
+            "Bagni": "3",
+            "Piano": "3°",
+            "Ascensore": "no",
+            "Arredamento": "non arredato",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balconeterrazzo"
+        },
+        "energy": {
+            "Anno di costruzione": "500",
+            "Stato": "ristrutturato",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "predisposizione",
+            "Classe energetica": "A3D.M. 26/06/2015PE fabbricato inverno:MediaPE fabbricato estate:Media"
+        },
+        "cost_details": {
+            "Prezzo": "€250.000Calcola mutuoprezzo al mq calcolato € 1.786",
+            "Spese condominiali": "€35/mese"
+        }
+    }
+}

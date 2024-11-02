@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115698971/",
+    "main_info": {
+        "title": "Trilocale via Domenico Fontana, Arenella, Napoli",
+        "location": "",
+        "price": "€ 275.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "70 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1960",
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a gas"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "70,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "70,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 50/mese"
+    }
+}

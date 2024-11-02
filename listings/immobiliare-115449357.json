@@ -1,0 +1,65 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115449357/",
+    "main_info": {
+        "title": "Trilocale via Luigi Caldieri, Vomero, Napoli",
+        "location": "",
+        "price": "€ 235.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Vomero via Caldieri ad. 3 vani",
+            "text": "Vomero via Caldieri ad. , proponiamo in vendita,  LIBERO appartamento di 80 mq da ristrutturare, in stabile signorile con servizio di portierato. L'immobile posto ad un piano S2 gode di tripla esposizione con affaccio da primo piano ed è composto da: ingresso, soggiorno, cucina con balcone, 2 camere da letto, bagno e ripostiglio. L'ubicazione del cespite è collocata in una zona \"strategica\" in quanto dista a pochi minuti dal centro del Vomero, dalla metropolitana linea 1  \"Quattro Giornate\", inoltre nelle immediate adiacenze del fabbricato sono presenti supermercati, scuole e attività commerciali di vario genere. € 235.000 immobiliare Vomero CasaManager tel. 0815799453 0810168681"
+        },
+        "last_update": "Annuncio aggiornato il 18/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "80 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1965",
+            "Piani edificio": "7",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a gas"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "80,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "80,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Infissi esterni in vetro / legno",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 40/mese"
+    }
+}

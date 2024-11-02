@@ -1,0 +1,45 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112912133/",
+    "main_info": {
+        "title": "Trilocale Vico Solitaria, Santa Lucia, Napoli",
+        "location": "",
+        "price": "€ 260.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "100 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "2",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, ad aria",
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": null,
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 10/mese"
+    }
+}

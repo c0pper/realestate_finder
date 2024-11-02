@@ -1,0 +1,59 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115563463/",
+    "main_info": {
+        "title": "Quadrilocale via Bernardo Celentano 9, Sanità, Napoli",
+        "location": "",
+        "price": "€ 225.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Disponibile dal 16/05/2028",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "80 m² | commerciale 100 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "20,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "20,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione esterna",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115509361/",
+    "main_info": {
+        "title": "Trilocale via Po 1, Vomero, Napoli",
+        "location": "",
+        "price": "€ 255.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Disponibile dal 31/12/2032",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "6",
+            "Superficie": "90 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "Sì"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1965",
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a gas",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "6",
+        "Superficie": "90,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "90,0 m²"
+    },
+    "badges": [
+        "Esposizione interna",
+        "Fibra ottica",
+        "Infissi esterni in vetro / legno",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 150/mese"
+    }
+}

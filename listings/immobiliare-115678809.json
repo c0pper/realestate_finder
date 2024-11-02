@@ -1,0 +1,58 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115678809/",
+    "main_info": {
+        "title": "Trilocale Strada dell'Anticaglia 13, Centro Storico, Napoli",
+        "location": "",
+        "price": "€ 200.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Nuda proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "75 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "1",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1800",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a pompa di calore",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "75,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "75,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Infissi esterni in vetro / metallo",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 20/mese"
+    }
+}

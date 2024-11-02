@@ -1,0 +1,65 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/110054081/",
+    "main_info": {
+        "title": "Mansarda corso Giuseppe Garibaldi 165, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 185.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "MANSARDA IN VENDITA CORSO GARIBALDI",
+            "text": "Proponiamo in vendita mansarda della superficie di 90 mq utili, completamente ristrutturata ed arredata, composta da soggiorno living, tre camere da letto e servizio ignienico con jacuzzi, in stabile signorile con servizio di portineria ed impianto ascensore. L’appartamento è attualmente locato a studenti universitari con un contratto transitorio per un canone annuo pari ad € 10.200,00 Richiesta € 185.000,00 Tires Immobiliare….la strada per la tua casa! Ci troviamo in quel tratto del Corso Garibaldi esattamente tra i quartieri dell’Arenaccia e dei Tribunali, a due passi da piazza Carlo III e Via Foria. Il Corso Garibaldi nasce con il Risanamento e con l'attuazione delle leggi che prevedevano un'espansione verso la zona orientale, le abitazioni sono prevalentemente di carattere popolare e sono state realizzate dalla Società del Risanamento. Siamo oltretutto vicini a Piazza Garibaldi, una delle piazze di Napoli più importanti ed affollate della città in quanto si affaccia su di essa la stazione Napoli centrale (terza in Italia per traffico passeggeri), nonché una stazione della linea 1, una della linea 2 e della Circumvesuviana."
+        },
+        "last_update": "Annuncio aggiornato il 11/03/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Mansarda | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Disponibile dal 01/10/2024",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "5",
+            "Superficie": "130 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina angolo cottura",
+            "Bagni": "1",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "2016",
+            "Piani edificio": "5",
+            "Ascensore": "Sì",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "5",
+        "Superficie": "130,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "130,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Fibra ottica",
+        "Idromassaggio",
+        "Infissi esterni in vetro / legno",
+        "Porta blindata",
+        "VideoCitofono"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 40/mese"
+    }
+}

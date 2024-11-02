@@ -1,0 +1,53 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112257519/",
+    "main_info": {
+        "title": "Quadrilocale Vico Cavaniglia, Sanità, Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento con terrazzo panoramico Centro Storico Napoli",
+            "text": "BOCCUNI IMMOBILIARE PROPONE: VENDESI € 230,000.00 appartamento DA RISTRUTTURARE ubicato al 3 piano senza ascensore sito in Vico Cavaniglia di 110mq più 170mq di terrazzo a livello panoramico, per un totale di 280mq. Nel pieno centro storico di Napoli a due passi dalla linea 1&2 della metro e dai maggiori luoghi di interesse storico e non della città, proponiamo immobile da ristrutturare così composto: disimpegno, 2 o 3 camere da letto ricavabili, sala, 2 bagni ricavabili e ampio terrazzo a livello di 170mq, il terrazzo a livello ha una vista a 360 gradi su Napoli e rende l'immobile molto luminoso. L'immobile è ottimo come investimento (in quanto la zona è ormai presa d'assalto dai turisti e dalle attività ricettive) o per uso abitativo, gli spazi ampi permettono di ricavare diversi ambienti in base alle esigenze. Per info 342 14 54 335"
+        },
+        "last_update": "Annuncio aggiornato il 10/06/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "161 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "3",
+            "Ascensore": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "170,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "51,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 10/mese"
+    }
+}

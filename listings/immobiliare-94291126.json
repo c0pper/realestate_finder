@@ -1,0 +1,55 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/94291126/",
+    "main_info": {
+        "title": "Quadrilocale Vico Conte di Mola 15, Quartieri Spagnoli, Napoli",
+        "location": "",
+        "price": "€ 240.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Appartamento soppalcato immediate adiacenze Piazzetta Augusteo (Vico Conte di Mola 15) in buon palazzo con ascensore. Al primo livello zona living, ampia cucina abitabile, cameretta, veranda e bagno. Al secondo livello camera matrimoniale, bagno, veranda più altra zona attualmente adibita a camera da letto ma che può ripristinarsi come zona studio/living. Tranquillo affaccio interno. Prego astenersi agenti poiché non ho nessuna intenzione di dare mandato!"
+        },
+        "last_update": "Annuncio aggiornato il 07/06/2022"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "90 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Bagni": "2",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "5",
+            "Ascensore": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo",
+            "Climatizzazione": "Freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "90,0 m²",
+        "Coefficiente": "0%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": ""
+    },
+    "badges": [
+        "Cucina"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 36/mese"
+    }
+}

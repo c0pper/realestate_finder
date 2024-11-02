@@ -1,0 +1,61 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/113711453/",
+    "main_info": {
+        "title": "Quadrilocale piazzetta San Carlo All'arena 4, Sanità, Napoli",
+        "location": "",
+        "price": "€ 275.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento in vendita a Napoli, Foria",
+            "text": "L'appartamento in vendita si trova nella zona di Foria, una delle più ricercate e vivaci di Napoli. Situato in un edificio d'epoca di metà '800, servito da ascensore che raggiunge il piano quarto, l'immobile è stato oggetto di una recente ristrutturazione che ha saputo preservare le caratteristiche originali donando al contempo un tocco di modernità e comfort. L'appartamento misura 91 metri quadrati totali, di cui circa 75 calpestabili, si trova all'ultimo di cinque piani ed ha accesso, insieme ad altri tre appartamenti, dalla terrazza condominiale. Esso si compone di un luminoso soggiorno con angolo cottura a vista e due ampie camere da letto. Il bagno, anch'esso completamente ristrutturato, è dotato di tutti i comfort necessari. Gli spazi sono ben distribuiti e sfruttati al massimo, garantendo un'ottima vivibilità. Le spese condominiali ammontano a soli 15 euro mensili, rendendo l'appartamento ancora più conveniente. L'impianto di riscaldamento autonomo, unitamente all'impianto di climatizzazione ed agli infissi a taglio termico, garantiscono un clima sempre piacevole in ogni periodo dell'anno. Grazie alla sua posizione strategica, l'appartamento è ben collegato ai mezzi pubblici e ai servizi di ogni genere, come negozi, supermercati, scuole e centri di interesse culturale. Inoltre, la vicinanza al centro storico e alla Stazione Centrale lo rendono ideale per chi desidera una vita dinamica e vivace. In sintesi, questo appartamento rappresenta un'ottima opportunità per chi cerca una soluzione abitativa elegante, funzionale e ben collegata, in una delle zone più ambite di Napoli. Perfetto per single, coppie o piccole famiglie, è pronto ad accogliere i suoi nuovi proprietari e regalare loro il piacere di vivere nella splendida città partenopea. Se ne consiglia l'acquisto, grazie alla centralità della posizione, sia per uso proprio che per uso ricettivo. PER MAGGIORI INFORMAZIONI CONTATTA GENNARO MIRABELLA 328 485 9934"
+        },
+        "last_update": "Annuncio aggiornato il 23/09/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "5",
+            "Superficie": "91 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina angolo cottura",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1880",
+            "Piani edificio": "5",
+            "Ascensore": "Sì",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "5",
+        "Superficie": "91,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "91,0 m²"
+    },
+    "badges": [
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 15/mese"
+    }
+}

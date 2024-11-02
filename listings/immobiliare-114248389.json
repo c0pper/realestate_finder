@@ -1,0 +1,54 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114248389/",
+    "main_info": {
+        "title": "Trilocale Vico Castrucci 23, Sanità, Napoli",
+        "location": "",
+        "price": "€ 255.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento Vico Castrucci, 23, 80137, Napoli",
+            "text": "[Rif. DV-7030] Nel cuore di Napoli, tra i vicoli caratteristici del centro storico, si trova questo appartamento di 90 mq. L'immobile si trova al secondo piano di un edificio storico ed è stato completamente ristrutturato, offrendo un ambiente moderno e confortevole e prestandosi perfettamente ad essere utilizzato a scopo ricettivo. La sua composizione prevede un ingresso sul soggiorno con cucina a vista, segue un disimpegno molto spazioso e arredabile, un corridoio, una camera da letto matrimoniale con balcone, un bagno finestrato con box doccia, una seconda camera matrimoniale con balcone, bagno privato con finestra e box doccia e, sempre dentro la seconda stanza da letto, si trova una scala interna tramite cui si arriva al piano soppalcato. L'abitazione, luminosa e accogliente, possiede infissi e serramenti in legno e PVC mentre il pavimento è in parquet e ceramica. L'ubicazione di questo appartamento è un vero e proprio tesoro. Si trova in Vico Castrucci, nel cuore del centro storico di Napoli, noto per i suoi vicoli pittoreschi e la sua autentica atmosfera napoletana. La zona è comoda e ben servita, con una varietà di negozi, ristoranti e servizi nelle vicinanze. I trasporti pubblici sono facilmente accessibili, con la stazione di Cavour a soli 5 minuti a piedi. Qui è possibile trovare diverse linee di autobus che ti consentiranno di spostarti comodamente in tutta Napoli. La stazione della metropolitana di Museo è raggiungibile a piedi in soli 15 minuti, offrendo un'ulteriore opzione di trasporto pubblico. La zona è anche ben servita da taxi e servizi di noleggio biciclette, rendendo gli spostamenti ancora più comodi e veloci."
+        }
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "90 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina a vista",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "4",
+            "Ascensore": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, alimentato a metano"
+        }
+    },
+    "surface_details": null,
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 50/mese"
+    }
+}

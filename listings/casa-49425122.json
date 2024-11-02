@@ -1,0 +1,33 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49425122/",
+    "main_info": {
+        "title": "Quadrilocale in Vendita in Via Portacarrese a Montecalvario a Napoli",
+        "location": "",
+        "price": "€ 199.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Napoli, Via Toledo pedonale all’altezza del Ponte di Tappia e più precisamente in Via Portacarrese a Montecalvario, per chi sale da via Toledo è il 1° incrocio;in stabile d’epoca da ristrutturare senza ascensore ma con la possibiltà di installarlo;proponiamo la vendita in esclusiva di un luminoso appartamento di circa 110 mq perfettamente divisibile, composto da: ingresso, salone, camera da pranzo, due camere da letto, cucina abitabile e servizio il tutto in buone condizioni.A caratterizzare la proprietà vi è una quadrupla esposizione, con 7 aperture con balconi e finestre, su Vico Lungo Gelso, Via Portacarrese, Via Speranzella e interno cortile, questa configurazione assicura luminosità e una piacevole ventilazione naturale.Si presta a vari usi, ideale non solo come abitazione principale, casa studio, ma anche come attività ricettiva con ottimi guadagni vista la posizione strategica ove ubicato.  La zona è presa d’assalto da turisti di tutto il mondo, è ideale per chi desidera vivere nel cuore di Napoli, con 2 metropolitane “Montecalvario e Toledo” a portata di mano, ristoranti, non lasciarti sfuggire quest’occasione, l’immobile è regolarmente mutuabile."
+        },
+        "last_update": "Data ultimo aggiornamento 7 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "110mq",
+            "Locali": "4",
+            "Bagni": "1",
+            "Piano": "ultimo",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Stato": "abitabile",
+            "Classe energetica": "GDL 192 del 19/08/05"
+        },
+        "cost_details": {
+            "Prezzo": "€199.000Calcola mutuoprezzo al mq calcolato € 1.810"
+        }
+    }
+}

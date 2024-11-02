@@ -1,0 +1,58 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/110404527/",
+    "main_info": {
+        "title": "Quadrilocale Vico Cavaniglia, Sanità, Napoli",
+        "location": "",
+        "price": "€ 230.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento Panoramico con terrazzo a livello",
+            "text": "Si propone in vendita immobile sito in zona Sanità, in vico Canaviglia. Panoramico. L'appartamento, di 100 mq, si presenta da finire e completare. Si compone di 4 vani e wc. Altezza della casa 4 mt. L'appartamento dispone di finestre, balconi e di un terrazzo a livello di 160 mq. Situato al 3° ed ultimo piano di un palazzo senza ascensore. Non dispone di posto auto. Oneri condominiali mensili €. 20,00 Prezzo di vendita €. 230.000,00 Immobiliare De Chiara Tel: 081 7879020 Cell: 353 3335527 (whatsapp) Rif. : 3504 Sito internet: http://www.dechiaraimmobiliare.it/ Facebook: https://www.facebook.com/dechiaraimm Instagram: https://www.instagram.com/dechimm/"
+        },
+        "last_update": "Annuncio aggiornato il 25/03/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "100 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "1",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "100,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "100,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in vetro / PVC",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 20/mese"
+    }
+}

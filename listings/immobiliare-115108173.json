@@ -1,0 +1,62 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115108173/",
+    "main_info": {
+        "title": "Appartamento all'asta via Giuseppe Orsi   36 - 80128 Napoli 36, Napoli",
+        "location": "",
+        "price": "da € 273.750,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Occupato Senza Titolo",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "183 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina angolo cottura",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1980",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a gas",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 8 - Particella 881 - Subalterno 207"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "183,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "183,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Impianto di allarme",
+        "Infissi esterni in vetro / legno",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": null
+}

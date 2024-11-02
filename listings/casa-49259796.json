@@ -1,0 +1,40 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49259796/",
+    "main_info": {
+        "title": "Bilocale in Vendita in Via Diodato Lioy 14 a Napoli",
+        "location": "",
+        "price": "€ 270.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Nelle immediate adiacenze di via Monteoliveto, precisamente in via Diodato Lioy, proponiamo in vendita appartamento ideale sia per uso proprio che per uso investimento.La soluzione, di 70mq, è composta da ingresso, salone, camera da letto, cucina, ripostiglio e bagno.Il cespite si trova al quarto piano di un edificio senza ascensore con delibera per l'installazione è già approvata.L'appartamento, inoltre, dispone di riscaldamento autonomo ed aria condizionata.Per maggiori informazioni e per visionare l'appartamento contattare l'ufficio Napolimmobiliare al 0814... o via WhatsApp al 3938...."
+        },
+        "last_update": "Data ultimo aggiornamento 20 Giugno 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Unità immobiliari": "1",
+            "Superficie": "70mq",
+            "Locali": "2",
+            "Bagni": "1",
+            "Piano": "4°",
+            "Numero piani edificio": "4",
+            "Ascensore": "sì",
+            "Arredamento": "parzialmente arredato",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Anno di costruzione": "1900",
+            "Stato": "ristrutturato",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "In fase di richiesta"
+        },
+        "cost_details": {
+            "Prezzo": "€270.000Calcola mutuoprezzo al mq calcolato € 3.858",
+            "Spese condominiali": "€40/mesel'immobile ha ascensore"
+        }
+    }
+}

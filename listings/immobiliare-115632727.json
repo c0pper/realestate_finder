@@ -1,0 +1,61 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115632727/",
+    "main_info": {
+        "title": "Trilocale via Salvatore Tommasi 65, Museo, Napoli",
+        "location": "",
+        "price": "€ 280.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Via Salvatore Tommasi, più precisamente Palazzo Solimena, prestigioso edificio del XVII secolo, proponiamo in vendita libero  appartamento/ loft di circa 80 mq catastali, posto ad un primo piano nobile alto. La soluzione, servita da ingresso da ballatoio , risulta così disposta: ingresso in disimpegno con angolo cottura, un ampio unico ambiente diviso da arco ligneo del 700 originale, soppalco,1 bagno. La particolarità dell'immobile, contraddistinto da una splendida tela sul soffitto alto m 4.80, lo rende adatto a vari usi € 280.000,00"
+        },
+        "last_update": "Annuncio aggiornato il 28/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "Piano rialzato",
+            "Superficie": "80 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina angolo cottura",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "3",
+            "Ascensore": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "Piano rialzato",
+        "Superficie": "80,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "80,0 m²"
+    },
+    "badges": [
+        "Infissi esterni in vetro / legno",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 25/mese"
+    }
+}

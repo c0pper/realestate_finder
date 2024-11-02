@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114295135/",
+    "main_info": {
+        "title": "Trilocale salita del Petraio 34, Vomero, Napoli",
+        "location": "",
+        "price": "€ 200.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Salita Petraio lato via Palizzi uso investimento",
+            "text": "Napoli, Salita Petraio, immediate vicinanze della funicolare \"PETRAIO\", nella parte bassa di via Palizzi, in contesto molto tranquillo e fuori dal caos cittadino, si propone ad uso investimento, appartamento ad un primo piano senza ascensore, attualmente locato con regolare contratto, scadenza ultima maggio 2026, ad un canone annuo di 8.000,00 euro, così composto: ingresso in piccolo corridoio, un soggiorno con balcone all'esterno, panoramico, una cameretta ricavata nello stesso soggiorno, con una finestra panoramica, una camera da letto matrimoniale, anche questa con balcone panoramico, una cucina semi abitabile con affaccio nel cortile interno dello stabile, ed un piccolo bagno con affaccio nel cortile interno, l'appartamento è certamente da rimodernare, ma di questo si è tenuto conto nella determinazione del prezzo di vendita, per qualsiasi ulteriore chiarimento non esitate a contattarci. Non sono state inserite le immagini degli interni per una questione di privacy."
+        },
+        "last_update": "Annuncio aggiornato il 05/09/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Da ristrutturare",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "82 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1880",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "5,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "1,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Infissi esterni in vetro / PVC",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 45/mese"
+    }
+}

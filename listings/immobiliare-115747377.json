@@ -1,0 +1,50 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115747377/",
+    "main_info": {
+        "title": "Trilocale salita Sant'Antonio Ai Monti 58, Monte Santo, Napoli",
+        "location": "",
+        "price": "€ 210.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "60 m² | commerciale 150 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina cucinotto",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Giardino privato"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1700",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "Piano rialzato",
+        "Superficie": "300,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "90,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 65/mese"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "date_scraped": "2024-10-30",
+    "url": "https://www.immobiliare.it/annunci/110782849/",
+    "main_info": {
+        "title": "Quadrilocale via dell'Annunziata 30, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 269.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "13",
+            "Superficie": "130 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1958",
+            "Piani edificio": "13",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": {
+        "Piano": "13",
+        "Superficie": "130,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "130,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in vetro / PVC",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 45/mese"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/110997025/",
+    "main_info": {
+        "title": "Trilocale via Pigna 106, Pigna - Omodeo, Napoli",
+        "location": "",
+        "price": "€ 190.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Disponibile dal 01/12/2024",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "Piano rialzato",
+            "Superficie": "72 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina cucinotto",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1960",
+            "Piani edificio": "2",
+            "Ascensore": "Sì",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "Piano rialzato",
+        "Superficie": "7,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "2,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione interna",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Impianto tv centralizzato",
+        "VideoCitofono"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

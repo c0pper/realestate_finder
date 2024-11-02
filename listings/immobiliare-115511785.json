@@ -1,0 +1,59 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115511785/",
+    "main_info": {
+        "title": "Appartamento all'asta corso Vittorio Emanuele 211, Napoli",
+        "location": "",
+        "price": "da € 236.250,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "94 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina angolo cottura",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1967",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentazione elettrica",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 12 - Particella 41",
+            "Altri dati catastali": "Sezione catasto A - SubParticella 41"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "94,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "94,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Esposizione doppia",
+        "Infissi esterni in vetro / legno",
+        "Impianto tv con parabola satellitare"
+    ],
+    "cost_details": null
+}

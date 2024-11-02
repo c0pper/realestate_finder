@@ -1,0 +1,50 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115136729/",
+    "main_info": {
+        "title": "Appartamento all'asta via Giuseppe Orsi 36, Napoli",
+        "location": "",
+        "price": "da € 273.750,00",
+        "description": {
+            "reference": "riferimento",
+            "title": "-ASTA- Napoli Via Giuseppe Orsi36",
+            "text": "Piena proprietà dell'appartamento in Napoli alla via Giuseppe Orsi n. 36, piano secondo oltre l'ammezzato, costituito da ingresso-soggiorno, cucina abitabile, due camere, uno studio e due bagni per una superficie interna calpestabile di circa 135 mq ed una superficie lorda commerciabile di circa 152 mq. La finalità del presente annuncio è la promozione dell’attività di Consulenza ed Assistenza in asta; non sostituisce né integra i documenti ufficiali presenti sul sito del tribunale di riferimento. READ E’ una struttura di advisory e auction real estate italiana che si occupa di consulenza specializzata in esecuzioni immobiliari e procedure concorsuali. Affidandoti alla nostra società garantiamo un team di esperti professionisti in grado di offrire una consulenza professionale a 360° a partire dalla visita immobile fino alla consegna chiavi. I NOSTRI SERVIZI: - Analisi tecnica e legale della procedura - Valutazione metodi alternativi per l’acquisizione del bene - Consulenza nella scelta del finanziamento - Assistenza per gli adempimenti burocratici - Attivazione pec e firma digitale (ove necessario) - Analisi dei costi precisa e trasparente"
+        },
+        "last_update": "Annuncio aggiornato il 08/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "135 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Balcone": "Sì"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "7",
+            "Ascensore": "Sì"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 8 - Particella 881 - Subalterno 207"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "135,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "135,0 m²"
+    },
+    "badges": [
+        "Cucina"
+    ],
+    "cost_details": null
+}

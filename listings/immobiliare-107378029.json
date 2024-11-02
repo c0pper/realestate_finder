@@ -1,0 +1,25 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/107378029/",
+    "main_info": {
+        "title": "Palazzo - Edificio in Vendita",
+        "location": "",
+        "price": "€ 170.000"
+    },
+    "detailed_features": {
+        "error": "no features found"
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "70,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "70,0 m²"
+    },
+    "badges": [
+        "1 balcone",
+        "Esposizione esterna",
+        "Infissi esterni in vetro / metallo"
+    ],
+    "cost_details": null
+}

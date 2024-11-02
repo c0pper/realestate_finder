@@ -1,0 +1,63 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/109767941/",
+    "main_info": {
+        "title": "Trilocale Vico Figurelle a Montecalvario, Quartieri Spagnoli, Napoli",
+        "location": "",
+        "price": "€ 250.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Bilocale ristrutturato - doppia esposizione",
+            "text": "Nelle immediate adiacenze di Via Toledo (tratto pedonale), arteria principale dello shopping Partenopeo, lo Studio di Consulenza Immobiliare propone in vendita centrale appartamento, posto al 5° ed ultimo piano di uno stabile non dotato di ascensore, doppia esposizione, luminoso di ca. 60 mq in buono stato manutentivo, composto da: ingresso in piccolo disimpegno, zona giorno e cucina con uscita sul balcone con affaccio sulla Certosa di San Martino, ampia camere da letto con cabina armadio cameretta, bagno con doccia, il tutto ben disimpegnato e con punti luce in tutte le camere. Il cespite in oggetto è sito in un area di estrema centralità nel quartiere di Montecalvario, nel pieno centro storico della città, riconosciuta come Quartieri Spagnoli, zona ampiamente servita dai dai principali mezzi di trasporto, metropolitana linea 1 Toledo, funicolare di Piazzetta Augusteo, stazione della cumana, funicolare e metropolitana linea 2 di Montesanto, Molo Beverello, nonché vicina a tutti i principali punti di interesse turistici. La posizione è ideale sia per famiglie che preferiscono vivere nel pieno centro della città vicino a tutti i vari tipi di attività sia personali commerciali e storici, o per scopo turistico ( bed &breakfast). Visionabile  previo avviso telefonico chiamando il numero 08117917978 oppure contattandoci via mail all'indirizzo: consulenzaimmobiliarenapoli@gmail.com o tramite WhatsApp al numero 3518469648. Il cespite in oggetto non è mutuabile."
+        },
+        "last_update": "Annuncio aggiornato il 14/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "5",
+            "Superficie": "60 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "1",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1960",
+            "Piani edificio": "5",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, ad aria, alimentazione elettrica",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "5",
+        "Superficie": "60,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "60,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Infissi esterni in doppio vetro / PVC",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 10/mese"
+    }
+}

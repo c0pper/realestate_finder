@@ -1,4 +1,5 @@
 from datetime import date
+import re
 import time
 import requests
 from bs4 import BeautifulSoup
@@ -12,8 +13,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 import os
 import logging
-
-from utils import get_driver, filter_listings
 
 load_dotenv()
 
@@ -33,11 +32,11 @@ headers = {
 
 
 class ImmobiliareScraper():
-    def __init__(self, search_url:str, listings_dir: str) -> None:
+    def __init__(self, search_url:str, listings_dir: str, driver) -> None:
         self.search_url = search_url
         self.listings_dir = Path(listings_dir)
         self.listings_dir.mkdir(exist_ok=True)
-        self.driver = get_driver()
+        self.driver = driver
 
 
     def extract_main_info(self, soup):
@@ -228,11 +227,11 @@ class ImmobiliareScraper():
             # Update the URL with the current page number
             paginated_url = f"{self.search_url}&pag={page_num}"
 
-            response = requests.get(paginated_url, headers={"User-Agent": "Mozilla/5.0"})
+            # response = requests.get(paginated_url, headers={"User-Agent": "Mozilla/5.0"})
+            # if response.status_code != 200:
+            #     logger.error(f"Failed to fetch page {page_num}. Status code: {response.status_code}")
+            #     break
             self.driver.get(paginated_url)
-            if response.status_code != 200:
-                logger.error(f"Failed to fetch page {page_num}. Status code: {response.status_code}")
-                break
 
             soup = BeautifulSoup(self.driver.page_source, "html.parser")
             listings = soup.find_all("div", class_="in-listingCard")
@@ -259,24 +258,63 @@ class ImmobiliareScraper():
             page_num += 1
 
         # Filter the listings
-        filtered_data = filter_listings(self.listings_dir)
+        filtered_data = self.filter_listings()
 
         # Check if there are any new listings
         with open("old_listings.txt", "r") as f:
             old_listings = f.read().splitlines()
 
-        new_listings = [listing for listing in filtered_data if not f"{listing['url'].split('annunci/')[1].replace('/', '')}" in old_listings]
+        new_listings = [listing for listing in filtered_data if not f"immobiliare-{listing['url'].split('annunci/')[1].replace('/', '')}" in old_listings]
 
         # Append new listing IDs to old_listings.txt
         if new_listings:
             with open("old_listings.txt", "a") as f:
                 for listing in new_listings:
-                    listing_id = listing['url'].split('annunci/')[1].replace('/', '')
+                    listing_id = f"immobiliare-{listing['url'].split('annunci/')[1].replace('/', '')}"
                     f.write(f"{listing_id}\n")
 
-        self.driver.quit()
         return new_listings
 
+
+    def filter_listings(self):
+        filtered_listings = []
+        
+        # Iterate through all JSON files in the given directory
+        for file_path in self.listings_dir.glob("*.json"):
+            if file_path.name.startswith("immobiliare"):
+                with open(file_path, "r", encoding="utf-8") as file:
+                    data = json.load(file)
+                    
+                    # Get 'disponibilità' and 'stato' from 'Generale' section in 'detailed_features'
+                    disponibilita = data.get("detailed_features", {}).get("Generale", {}).get("Disponibilità", "").lower()
+                    stato = data.get("detailed_features", {}).get("Generale", {}).get("Stato", "").lower()
+                    piano = data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0").split(",")[0]
+                    if "rialzato" in piano:
+                        piano = "1"
+                    match = re.search(r'\d+', piano)
+                    if match:
+                        piano = match.group(0)
+                    else:
+                        piano = 0  # or handle cases where no number is found
+                    balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
+
+                    description = data.get("main_info", {}).get("description", {}).get("title", "") + "\n" + data.get("main_info", {}).get("description", {}).get("text", "")
+                    
+                
+                    # Define keywords with word boundaries for regex
+                    unwanted_keywords = [r'\bnuda\b', r'\bsoppalco\b', r'\basta\b', r'\bnon mutuabile\b']
+                    pattern = re.compile('|'.join(unwanted_keywords), re.IGNORECASE)
+
+                    # Apply filtering criteria
+                    if disponibilita == "libero" and stato != "da ristrutturare" and int(piano) > 1 and balcone:
+                        if not pattern.search(description):
+                            filtered_listings.append(data)
+                        else:
+                            logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
+                    else:
+                        logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
+            
+        return filtered_listings
 
 
 

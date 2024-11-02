@@ -1,0 +1,62 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115162891/",
+    "main_info": {
+        "title": "Quadrilocale piazza Camillo Benso di Cavour, Sanità, Napoli",
+        "location": "",
+        "price": "€ 250.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Napoli - Piazza Cavour -",
+            "text": "Napoli Piazza Cavour - in palazzo d'epoca - con Ascensore -  a pochi metri dal Museo Nazionale e dalla metropolitana è in vendita appartamento di ca 90 mq - - oltre un  balcone con affaccio su strada. l'appartamento proposto in vendita attualmente è adibito  ad ufficio ed è unificato con altro appartamento con altro sub con una superficie di ca 80 mq.  (superficie catastale mq 216 - superficie utile mq 170) E' possibile, acquistare i due appartamenti unificati oppure separati  x un prezzo complessivo di € 460.000,00. oppure ad € 240.000 uno ed € 220.000 l'altro.  L'immobile è composto, come si evince dalle planimetrie allegate da ingresso, corridoio e varie camere. Per la posizione strategica del fabbricato, oltre per abitazione,  può  anche essere adibito ad attività  ricettiva. - per appuntamento telefonare alla Holding sas Via Girone, 2 Pozzuoli (NA) - tel 0813030001 - Rif. V104."
+        },
+        "last_update": "Annuncio aggiornato il 18/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "92 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1930",
+            "Piani edificio": "4",
+            "Ascensore": "Sì",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a gas"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "5,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "1,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Infissi esterni in vetro / PVC",
+        "Porta blindata",
+        "Cancello elettrico",
+        "VideoCitofono"
+    ],
+    "cost_details": null
+}

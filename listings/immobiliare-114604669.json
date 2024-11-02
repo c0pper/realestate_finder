@@ -1,0 +1,46 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114604669/",
+    "main_info": {
+        "title": "Quadrilocale via Matteo Renato Imbriani, Stella - Materdei, Napoli",
+        "location": "",
+        "price": "€ 230.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "125 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "5",
+            "Ascensore": "Sì",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": null,
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 38/mese"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112891613/",
+    "main_info": {
+        "title": "Quadrilocale via Domenico Fontana 150, Rione Alto, Napoli",
+        "location": "",
+        "price": "€ 255.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento in vendita a Napoli, Arenella",
+            "text": "Vendita  Nuda Propritetà. L'appartamento in vendita si trova nella zona residenziale di Arenella, Attualmente dato in locazione, rappresenta un'ottima opportunità di investimento. Costruito nel 1960, si presenta in discreto stato di conservazione grazie alle costanti manutenzioni effettuate nel corso degli anni. L'immobile si estende su una superficie totale di 98 metri quadrati, di cui circa 85 calpestabili, distribuiti su 4 ampi locali. Luminoso e ben ventilato, è composto da 3 camere da letto, un bagno e una cucina abitabile, perfetta per accogliere famiglie numerose o per ospitare amici. L'arredamento è stato scelto con cura e gli spazi sono ben sfruttati per garantire il massimo comfort. L'impianto di riscaldamento è centralizzato, alimentato a metano, mentre gli ambienti sono dotati di radiatori o pannelli radianti che garantiscono una temperatura sempre gradevole. La presenza di una portineria garantisce un servizio di sicurezza e assistenza ai residenti. Non esitare a contattarci per maggiori informazioni su questo appartamento in vendita in zona Arenella, ."
+        },
+        "last_update": "Annuncio aggiornato il 12/07/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Nuda proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "98 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1960",
+            "Piani edificio": "7",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a metano"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "98,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "98,0 m²"
+    },
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "Nessuna spesa condominiale"
+    }
+}

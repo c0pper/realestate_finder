@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115520271/",
+    "main_info": {
+        "title": "Trilocale buono stato, secondo piano, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 179.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento in vendita nel cuore di Napoli",
+            "text": "Se sei alla ricerca di un immobile dallo charme storico e dalla posizione strategica, questo appartamento è la soluzione perfetta per te. Situato al secondo piano di una corte storica dei primi del '900, l'edificio è dotato di ascensore e un fascino d'altri tempi. All’ingresso dell' appartamento troviamo una cucina funzionale con accesso diretto a un terrazzino, perfetto per colazioni all’aperto o momenti di relax. Un lungo corridoio conduce alle tre camere da letto, tutte dotate di balconcino privato. La camera principale gode inoltre di un comodo bagno in camera. Completano l’immobile un ampio bagno con vasca, ideale per chi cerca un’oasi di benessere in casa. La posizione è imbattibile, infatti si trova nel cuore di Napoli, a pochi passi da Piazza Garibaldi e dalla stazione centrale, l’immobile è perfettamente servito da trasporti pubblici e circondato da tutti i servizi essenziali: negozi, scuole, ristoranti e molto altro. Perfetto sia per chi desidera una casa comoda e centrale, sia per chi vuole investire in una zona di grande richiesta e con alto potenziale di rendita. Attualmente l’appartamento è locato, con una rendita annuale di 4.200 euro, e il contratto di locazione è valido fino a gennaio 2027, offrendo un’opportunità di investimento sicuro e garantito. Non perdere questa occasione unica. Contattaci per maggiori informazioni o per fissare una visita!"
+        },
+        "last_update": "Annuncio aggiornato il 21/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Disponibile dal 16/01/2027"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "130 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì",
+            "Giardino": "Giardino comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "130,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "130,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Cancello elettrico"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 79/mese"
+    }
+}

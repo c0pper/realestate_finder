@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114672385/",
+    "main_info": {
+        "title": "Trilocale via Bernardo Cavallino 38, Arenella, Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Vendesi immobile in parco custodito,  nuda proprietà (57enne) , via Bernardo Cavallino n. 38 Napoli , 4^ piano, 130 mq circa commerciali, di cui 110 mq calpestabili , doppia esposizione con balcone lato cucina e balcone lungo  terrazzato panoramicissimo lato camere.  Ampio ingresso con corridoio, camera da letto, salone doppio, cucina , ripostiglio e due bagni con finestra. Posto auto libero . No agenzie . Contatto voce o whatsApp."
+        },
+        "last_update": "Annuncio aggiornato il 23/09/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Nuda proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "4",
+            "Superficie": "130 m² | commerciale 139 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "1",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "2000",
+            "Piani edificio": "5",
+            "Ascensore": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato",
+            "Climatizzazione": "Freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Superficie": "10,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "3,0 m²",
+        "Piano": "4"
+    },
+    "badges": [
+        "Cucina",
+        "Infissi esterni in vetro / legno",
+        "Esposizione nord, sud"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 150/mese"
+    }
+}

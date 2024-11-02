@@ -1,0 +1,36 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/48565960/",
+    "main_info": {
+        "title": "Attico, mansarda in Vendita in Vico Figurella a Montecalvario 19 a Napoli",
+        "location": "",
+        "price": "€ 250.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Nelle immediate adiacenze di Via Toledo (tratto pedonale), arteria principale dello shopping Partenopeo, lo Studio di Consulenza Immobiliare propone in vendita centrale appartamento, posto al 5° ed ultimo piano di uno stabile non dotato di ascensore, doppia esposizione, luminoso di ca. 60 mq in buono stato manutentivo, composto da: ingresso in piccolo disimpegno, zona giorno e cucina con uscita sul balcone con affaccio sulla Certosa di San Martino, ampia camere da letto con cabina armadio cameretta, bagno con doccia, il tutto ben disimpegnato e con punti luce in tutte le camere. Il cespite in oggetto è sito in un area di estrema centralità nel quartiere di Montecalvario, nel pieno centro storico della città, riconosciuta come Quartieri Spagnoli, zona ampiamente servita dai dai principali mezzi di trasporto, metropolitana linea 1 Toledo, funicolare di Piazzetta Augusteo, stazione della cumana, funicolare e metropolitana linea 2 di Montesanto, Molo Beverello, nonché vicina a tutti i principali punti di interesse turistici.  La posizione è ideale sia per famiglie che preferiscono vivere nel pieno centro della città vicino a tutti i vari tipi di attività sia personali commerciali e storici, o per scopo turistico ( bed &breakfast). Visionabile previo appuntamento.Il cespite in oggetto non è mutuabile."
+        },
+        "last_update": "Data ultimo aggiornamento 28 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "60mq",
+            "Locali": "2",
+            "Bagni": "1",
+            "Piano": "5°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balconeterrazzo"
+        },
+        "energy": {
+            "Anno di costruzione": "1950",
+            "Stato": "ristrutturato",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "A+DL 192 del 19/08/05IPE (indice di prestazione energetica): 175.00 KWh/m2a"
+        },
+        "cost_details": {
+            "Prezzo": "€250.000Calcola mutuoprezzo al mq calcolato € 4.167",
+            "Spese condominiali": "€10/mese"
+        }
+    }
+}

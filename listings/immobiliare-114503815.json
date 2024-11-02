@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114503815/",
+    "main_info": {
+        "title": "Trilocale via Pietro Colletta 100, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 250.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "95 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1800",
+            "Piani edificio": "5",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "95,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "95,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Impianto tv centralizzato",
+        "VideoCitofono"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 70/mese"
+    }
+}

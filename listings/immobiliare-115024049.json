@@ -1,0 +1,51 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115024049/",
+    "main_info": {
+        "title": "Trilocale via Daniele Manin, Fuorigrotta, Napoli",
+        "location": "",
+        "price": "€ 218.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "95 m² | commerciale 97 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Giardino": "Giardino comune",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "2"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo",
+            "Climatizzazione": "Freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "8,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "2,0 m²"
+    },
+    "badges": [
+        "Cucina"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 40/mese"
+    }
+}

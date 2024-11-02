@@ -1,0 +1,63 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/103547130/",
+    "main_info": {
+        "title": "Trilocale via Carlo Cattaneo 21, Arenella, Napoli",
+        "location": "",
+        "price": "€ 280.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via C. Cattaneo (50 mt Via G. Gigante) Arenella",
+            "text": "Vendesi in graziosa e signorile palazzina d'epoca composta da pochi condomini , contesto molto tranquillo , appartamento primo piano composta da ingresso, salone, camera da letto, cameretta ,cucina semiabitabile e 2 bagni , luminosa con affaccio su strada e su villa d'epoca , condizioni interne discrete , La palazzina è servita da un area giardino terrazzata ben tenuta di circa 500 mq in comproprietà . prezzo di richiesta euro 280.000,00"
+        },
+        "last_update": "Annuncio aggiornato il 22/05/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "65 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "2",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Giardino comune",
+            "Cantina": "Sì"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1920",
+            "Piani edificio": "2",
+            "Ascensore": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "65,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "65,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Infissi esterni in vetro / PVC",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 37/mese"
+    }
+}

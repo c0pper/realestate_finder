@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112103337/",
+    "main_info": {
+        "title": "Trilocale Supportico Lopez 16, Sanità, Napoli",
+        "location": "",
+        "price": "€ 245.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2, 4",
+            "Superficie": "102 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1920",
+            "Piani edificio": "2",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": {
+        "Piano": "4",
+        "Superficie": "1,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": ""
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 5/mese"
+    }
+}

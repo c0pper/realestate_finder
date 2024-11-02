@@ -1,0 +1,63 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/102932016/",
+    "main_info": {
+        "title": "Trilocale via Marino e Cotronei 4, Arenella, Napoli",
+        "location": "",
+        "price": "€ 245.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "80 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina cucinotto",
+            "Bagni": "1",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1950",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "80,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "80,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione doppia",
+        "Impianto di allarme",
+        "Infissi esterni in doppio vetro / legno",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv con parabola satellitare",
+        "VideoCitofono"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 48/mese",
+        "Spese riscaldamento": "€ 48/anno"
+    }
+}

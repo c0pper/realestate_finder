@@ -1,0 +1,59 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/111126337/",
+    "main_info": {
+        "title": "Trilocale via Domenico di Gravina 11, Stella - Materdei, Napoli",
+        "location": "",
+        "price": "€ 190.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "129 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "No",
+            "Terrazzo": "Sì",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere mezza giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "129,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "129,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Cancello elettrico"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 42/mese"
+    }
+}

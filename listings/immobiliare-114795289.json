@@ -1,0 +1,51 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114795289/",
+    "main_info": {
+        "title": "Trilocale via Foria, Sanità, Napoli",
+        "location": "",
+        "price": "€ 270.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Parziale proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "90 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "2",
+            "Balcone": "No",
+            "Terrazzo": "Sì",
+            "Giardino": "Nessun giardino"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1860",
+            "Piani edificio": "4",
+            "Ascensore": "Sì",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "90,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "90,0 m²"
+    },
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 20/mese"
+    }
+}

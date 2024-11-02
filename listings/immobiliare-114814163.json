@@ -1,0 +1,55 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114814163/",
+    "main_info": {
+        "title": "Appartamento salita Sant'Antonio a Tarsia, Monte Santo, Napoli",
+        "location": "",
+        "price": "€ 220.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Disponibile dal 01/12/2024",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "121 m²",
+            "Locali": "5"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "4",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1700",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "2,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": ""
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 20/mese"
+    }
+}

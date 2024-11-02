@@ -1,0 +1,65 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114432479/",
+    "main_info": {
+        "title": "Appartamento all'asta via Giuseppe Orsi 36, Napoli",
+        "location": "",
+        "price": "da € 273.750,00",
+        "description": {
+            "reference": "riferimento",
+            "title": "ASTA APPARTAMENTO VOMERO",
+            "text": "Piena proprietà dell'appartamento in Napoli alla via Giuseppe Orsi n. 36, piano secondo con ascensore oltre l'ammezzato, costituito da ingresso-soggiorno, cucina abitabile, due camere, uno studio e due bagni per una superficie interna calpestabile di circa 135 mq ed una superficie lorda commerciabile di circa 152 mq. RIF 77/2021 Prezzo Base    365.000,00 € Offerta Minima 273.750,00 € Ultima data presentazione Asta: 16/12/2024 23:59 Data Asta: 17/12/2024 16:30 * Lo Studio Cipriani fornisce assistenza per tutto l'iter procedurale e post aggiudicazione * Richiesta e prenotazione della visita dell’immobile * Esame della perizia * Verifica fattibilità per l’erogazione del mutuo tramite primari istituti bancari * Partecipazione asta con procura * Per fissare una consulenza gratuita e non vincolante non esitare a contattarci * L'esattezza dei dati pubblicati sarà confermata in sede di consulenza * IL NOSTRO COMPENSO É LEGATO AL SUCCESSO DELL'AGGIUDICAZIONE * SEGUICI E RESTA AGGIORNATO ANCHE SUI NOSTRI CANALI SOCIAL FACEBOOK https://www.facebook.com/profile.php?id=100087886681664 * INSTAGRAM https://www.instagram.com/sc_asteimmobiliari/"
+        }
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "152 m²",
+            "Locali": "5"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1949",
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 652 - Particella 223",
+            "Altri dati catastali": "Sezione catasto u - SubParticella 89"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "152,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "152,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Esposizione esterna",
+        "Infissi esterni in vetro / metallo",
+        "Porta blindata",
+        "Impianto tv centralizzato",
+        "VideoCitofono"
+    ],
+    "cost_details": null
+}

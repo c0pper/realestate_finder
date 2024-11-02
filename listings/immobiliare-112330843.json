@@ -1,0 +1,45 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112330843/",
+    "main_info": {
+        "title": "Quadrilocale Cupa Caiafa 11, Mergellina - Piedigrotta, Napoli",
+        "location": "",
+        "price": "€ 175.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "4",
+            "Superficie": "75 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina cucinotto",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1967",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": null,
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 53/mese"
+    }
+}

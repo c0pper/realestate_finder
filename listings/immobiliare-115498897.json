@@ -1,0 +1,63 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115498897/",
+    "main_info": {
+        "title": "Appartamento all'asta corso Vittorio Emanuele 211, Napoli",
+        "location": "",
+        "price": "da € 236.250,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "118 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "5",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 456 - Particella 126",
+            "Altri dati catastali": "Sezione catasto U - SubParticella 45"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "118,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "118,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Impianto di allarme",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Impianto tv centralizzato",
+        "VideoCitofono"
+    ],
+    "cost_details": null
+}

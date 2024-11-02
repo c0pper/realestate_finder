@@ -1,0 +1,37 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49983422/",
+    "main_info": {
+        "title": "Bilocale in Vendita in Vico Paradiso Alla Salute a Napoli",
+        "location": "",
+        "price": "€ 210.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "L’appartamento si trova nei pressi di Piazza De Leva, in un tranquillo contesto residenziale all'interno di un parco privato. Situato ad un 7° piano (con ascensore), l’abitazione gode di una straordinaria luminosità grazie alla sua esposizione favorevole con finestre e balcone con affaccio vista mare, reggia di Capodimonte e Castel Sant'Elmo. L’immobile è distribuito nel seguente modo: ingresso, corridoio, soggiorno, cucina, camera da letto e bagno.Uno dei principali vantaggi di questa proprietà è la sua ubicazione centrale, che consente di raggiungere i principali luoghi di interesse della città grazie alla vicinanza ai mezzi di trasporto pubblico, come autobus e metropolitane, rendendo particolarmente agevole muoversi sia in città che verso le zone limitrofe.Visionabile previo avviso telefonico al numero WhatsApp sempre allo stesso numero, o tramite email.Per chi avesse l'intenzione di acquistarlo attraverso l'ottenimento del mutuo è possibile inoltre, su richiesta, ricevere una consulenza gratuita grazie ai nostri professionisti della Kiron (società di mediazione creditizia del gruppo), i quali offrono servizi e prodotti su misura per ogni tipo di necessità finanziara."
+        },
+        "last_update": "Data ultimo aggiornamento 4 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "72mq",
+            "Locali": "2",
+            "Bagni": "1",
+            "Piano": "7°",
+            "Ascensore": "sì",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Anno di costruzione": "1960",
+            "Stato": "abitabile",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "GDL 192 del 19/08/05IPE (indice di prestazione energetica): 178.00 KWh/m2a"
+        },
+        "cost_details": {
+            "Prezzo": "€210.000Calcola mutuoprezzo al mq calcolato € 2.917",
+            "Spese condominiali": "€82/mesel'immobile ha ascensore"
+        }
+    }
+}

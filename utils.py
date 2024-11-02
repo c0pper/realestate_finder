@@ -11,6 +11,8 @@ from dotenv import load_dotenv
 import os
 import logging
 
+from selenium import webdriver
+
 load_dotenv()
 
 
@@ -41,12 +43,16 @@ def is_raspberry_pi():
 
 
 def get_driver():
+    options = Options()
     if is_raspberry_pi():
-        options = Options()
+        ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
+        options.profile = ff_profile
         options.headless = True  # Run in headless mode
         driver = webdriver.Firefox(options=options, service=Service(executable_path='/usr/local/bin/geckodriver'))
     else:
-        driver = webdriver.Firefox()
+        ff_profile = "/home/simo/.mozilla/firefox/17ruxrsh.fake_prof"
+        options.profile = ff_profile
+        driver = webdriver.Firefox(options=options)
     return driver
 
 

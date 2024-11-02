@@ -1,0 +1,45 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/110689657/",
+    "main_info": {
+        "title": "Appartamento via a.minichini 33, Sanità, Napoli",
+        "location": "",
+        "price": "€ 259.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "130 m²",
+            "Locali": "5"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "4",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Giardino": "Nessun giardino"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1970",
+            "Piani edificio": "5",
+            "Ascensore": "Sì",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo"
+        }
+    },
+    "surface_details": null,
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 50/mese"
+    }
+}

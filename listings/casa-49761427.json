@@ -1,0 +1,34 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/49761427/",
+    "main_info": {
+        "title": "Trilocale in Vendita in Vico Castrucci 23 a Napoli",
+        "location": "",
+        "price": "€ 255.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "[Rif. DV-7030] Nel cuore di Napoli, tra i vicoli caratteristici del centro storico, si trova questo appartamento di 90 mq. L'immobile si trova al secondo piano di un edificio storico ed è stato completamente ristrutturato, offrendo un ambiente moderno e confortevole e prestandosi perfettamente ad essere utilizzato a scopo ricettivo.La sua composizione prevede un ingresso sul soggiorno con cucina a vista, segue un disimpegno molto spazioso e arredabile, un corridoio, una camera da letto matrimoniale con balcone, un bagno finestrato con box doccia, una seconda camera matrimoniale con balcone, bagno privato con finestra e box doccia e, sempre dentro la seconda stanza da letto, si trova una scala interna tramite cui si arriva al piano soppalcato. L'abitazione, luminosa e accogliente, possiede infissi e serramenti in legno e PVC mentre il pavimento è in parquet e ceramica.L'ubicazione di questo appartamento è un vero e proprio tesoro. Si trova in Vico Castrucci, nel cuore del centro storico di Napoli, noto per i suoi vicoli pittoreschi e la sua autentica atmosfera napoletana. La zona è comoda e ben servita, con una varietà di negozi, ristoranti e servizi nelle vicinanze.I trasporti pubblici sono facilmente accessibili, con la stazione di Cavour a soli 5 minuti a piedi. Qui è possibile trovare diverse linee di autobus che ti consentiranno di spostarti comodamente in tutta Napoli. La stazione della metropolitana di Museo è raggiungibile a piedi in soli 15 minuti, offrendo un'ulteriore opzione di trasporto pubblico. La zona è anche ben servita da taxi e servizi di noleggio biciclette, rendendo gli spostamenti ancora più comodi e veloci."
+        },
+        "last_update": "Data ultimo aggiornamento 3 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "90mq",
+            "Locali": "3",
+            "Bagni": "2",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Stato": "abitabile",
+            "Riscaldamento": "autonomo",
+            "Classe energetica": "GIPE (indice di prestazione energetica): 180.00 KWh/m2a"
+        },
+        "cost_details": {
+            "Prezzo": "€255.000Calcola mutuoprezzo al mq calcolato € 2.834"
+        }
+    }
+}

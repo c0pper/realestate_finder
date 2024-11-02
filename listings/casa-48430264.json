@@ -1,0 +1,40 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/48430264/",
+    "main_info": {
+        "title": "Bilocale in Vendita in Via Domenico Cirillo a Napoli",
+        "location": "",
+        "price": "€ 260.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Appartamento Napoli centro zona Vicaria e più precisamente Via Cirillo. 2° piano senza ascensore di 70 mq. catastali, totalmente e finemente ristrutturato anche con tapparelle elettriche, composto da salone doppio con balcone, ampia camera da letto con finestra, cucina, bagno, ampio ripostiglioL'appartamento con una trattativa separata e riservata si vende anche arredato"
+        },
+        "last_update": "Data ultimo aggiornamento 6 Febbraio 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Unità immobiliari": "1",
+            "Superficie": "70mq",
+            "Locali": "2",
+            "Bagni": "1",
+            "Piano": "2°",
+            "Numero piani edificio": "5",
+            "Ascensore": "no",
+            "Arredamento": "completamente arredato",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Anno di costruzione": "1900",
+            "Stato": "ristrutturato",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "In fase di richiesta"
+        },
+        "cost_details": {
+            "Prezzo": "€260.000Calcola mutuoprezzo al mq calcolato € 3.715",
+            "Spese condominiali": "€20/mese"
+        }
+    }
+}

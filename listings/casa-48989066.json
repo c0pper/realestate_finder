@@ -1,0 +1,36 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/48989066/",
+    "main_info": {
+        "title": "Trilocale in Vendita in Vico SS. Filippo e Giacomo 29 a Napoli",
+        "location": "",
+        "price": "€ 245.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "vendesi Nel cuore del centro storico di Napoli, a pochi passi da piazza San Domenico Maggiore, precisamente Vico Santi Filippo e Giacomo angolo via San Biagio dei Librai.In fabbricato signorile, immobile di circa 80mq posto al secondo piano senza ascensore. Appartamento composto da ingresso in soggiorno con balcone, cucina, camera da letto con disimpegno - cabina armadio, cameretta e bagno. Grazie alla sua centralità e alla posizione strategica essendo a pochi passi dai maggiori siti di interesse storico, artistico e culturale del centro storico (San Gregorio Armeno, Piazza San Domenico, il Cristo Velato, il Duomo, Napoli Sotterranea), l'immobile si presta sia per uso proprio, che per uso investimento (B&B, casa vacanza). prezzo richiesto € 245.000, 00 PER MAGGIORI INFORMAZIONI O PER FISSARE EVENTUALE APPUNTAMENTO TELEFONARE AI SEGUENTI NUMERI 366/... o 081/... PAPACCIO IMMOBILIARE srls."
+        },
+        "last_update": "Data ultimo aggiornamento 29 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "85mq",
+            "Locali": "3",
+            "Bagni": "1",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Anno di costruzione": "1900",
+            "Stato": "abitabile",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "GD.M. 26/06/2015"
+        },
+        "cost_details": {
+            "Prezzo": "€245.000Calcola mutuoprezzo al mq calcolato € 2.883",
+            "Spese condominiali": "€20/mese"
+        }
+    }
+}

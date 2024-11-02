@@ -1,0 +1,63 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112751187/",
+    "main_info": {
+        "title": "Trilocale via della pigna 240, Pigna - Omodeo, Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "VIA DELLA PIGNA AD. MARIO RUTA A breve distanza dal Vomero, proponiamo in VENDITA un appartamento estremamente luminoso situato al terzo e ultimo piano. L'immobile necessita di ristrutturazione, e grazie alla presenza di tutte pareti divisorie, la disposizione degli spazi interni può essere personalizzata in base alle proprie esigenze e preferenze. Attualmente, l'abitazione è composta da: ingresso con disimpegno, cucinotto, bagno, ampia camera da letto con balcone e cameretta. Ogni stanza è dotata di una propria finestra, garantendo così un'ottima illuminazione naturale in tutto l'appartamento. Le visite sono disponibili tutti i giorni previo appuntamento telefonico. Presso la nostra agenzia Tecnorete è possibile su richiesta, grazie ai nostri partner Kìron, ricevere GRATUITAMENTE una consulenza ed accedere ad un'ampia e diversificata gamma di prodotti creditizi come MUTUI, PRESTITI PERSONALI ed ASSICURAZIONI. Potrai trovare soluzioni alle tue necessità di reperimento del finanziamento o della polizza assicurativa più adatta alle tue esigenze attraverso una consulenza personalizzata in grado di offrire risposte efficaci e costruite su misura per te. Per maggiori informazioni e per visionare l'immobile, potete contattarci telefonicamente o tramite WhatsApp al nr. 0815601887 oppure inviarci una mail all'indirizzo: na1l9@tecnorete .it Offriamo un servizio di valutazioni gratuite e siamo specializzati nelle permute. Seguici sui nostri canali social: instagram: tecnorete_vomero_caldieri tiktok: Tecnorete Vomero Caldieri facebook: Tecnorete Napoli Vomero Caldieri"
+        }
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "67 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina cucinotto",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1945",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "67,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "67,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Infissi esterni in vetro / metallo",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 16/mese"
+    }
+}

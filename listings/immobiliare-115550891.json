@@ -1,0 +1,52 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115550891/",
+    "main_info": {
+        "title": "Trilocale corso vittorio emanuele, 211, Vomero, Napoli",
+        "location": "",
+        "price": "€ 236.250",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento",
+            "text": "GRIMALDI IMMOBILIARE VOMERO ALTO -  Offre consulenza ed assistenza per la vendita all’asta dell’immobile in Corso Vittorio Emanuele di mq. 95; gli spazi interni sono così distribuiti: ingresso, Salone , cucina, due camere, due soppalchi, due bagni e ripostiglio. Base d'asta: Euro 315.000 - Offerta minima: Euro 236.250 - Rialzo 5000 Data dell’asta 28/01/2025 Il prezzo indicato è riferito all'offerta minima. Classe Energetica G (133 kWh/mqa) Al fine di garantirti un servizio eccellente, ti proponiamo di passare in ufficio e incontrare il nostro consulente del credito che ti assisterà nell’acquisto della tua casa. Fissa subito il tuo appuntamento al 081.18272241 al 3510083098 l'ufficio vendite in via Antonino D'antona,10/10A a pochi passi dalla Metropolitana stazione \"Vomero alto\", è aperto dal lunedì al venerdì dalle ore 9:30 alle 13:30 e dalle 15:30 alle 19:30; il sabato dalle 9:30 alle 13:00. Metti “mi piace” alla nostra pagina Facebook Agenzia GrimaldiVomeroAlto e sarai continuamente aggiornato sulle nostre proposte immobiliari. Puoi anche seguirci su istagram: Grimaldi_vomeroalto. Invia la tua richiesta, sarà premura del nostro personale qualificato contattarti per sottoporti le migliori offerte selezionate in base alle tue esigenze. Fissa un appuntamento presso la nostra sede, dove troverai un ambiente cordiale e accogliente e professionisti in grado di offrirti una consulenza qualificata, continuamente aggiornata sull’evoluzione del mercato"
+        },
+        "last_update": "Annuncio aggiornato il 22/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "95 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Giardino": "Nessun giardino"
+        },
+        "Informazioni edificio": {
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "95,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "95,0 m²"
+    },
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 73/mese"
+    }
+}

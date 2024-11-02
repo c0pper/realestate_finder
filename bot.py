@@ -2,9 +2,11 @@ import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from immobiliare import ImmobiliareScraper
+from casa import CasaScraper
 from dotenv import load_dotenv
 import os
 from llm import json_to_human
+from utils import get_driver
 
 load_dotenv()
 
@@ -17,10 +19,6 @@ httpx_logger.setLevel(logging.WARNING)
 
 CHECK_INTERVAL = os.getenv("INTERVAL")
 
-immo_scraper = ImmobiliareScraper(
-    search_url=os.getenv("SEARCH_URL_IMMOBILIARE"),
-    listings_dir="listings"
-)
 
 
 def check_job_exists(name: str, context: ContextTypes.DEFAULT_TYPE) -> bool:
@@ -57,7 +55,27 @@ async def launch_scraping(context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send the alarm message."""
     job = context.job
 
-    new_listings = immo_scraper.scrape_listings()
+    driver = get_driver()
+
+    immo_scraper = ImmobiliareScraper(
+        search_url=os.getenv("SEARCH_URL_IMMOBILIARE"),
+        listings_dir="listings",
+        driver=driver
+    )
+
+    casa_scraper = CasaScraper(
+        search_url=os.getenv("SEARCH_URL_CASA"),
+        listings_dir="listings",
+        driver=driver
+    )
+
+
+    new_listings = []
+    new_listings.extend(immo_scraper.scrape_listings())
+    new_listings.extend(casa_scraper.scrape_listings())
+
+    driver.quit()
+    
     if new_listings:
         logger.info(f"New listings: {new_listings}")
         for l in new_listings:

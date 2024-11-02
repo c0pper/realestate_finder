@@ -1,0 +1,56 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114624969/",
+    "main_info": {
+        "title": "Appartamento all'asta traversa Vincenzo Scala, Napoli",
+        "location": "",
+        "price": "da € 273.750,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "152 m²",
+            "Locali": "5"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "5",
+            "Cucina": "Cucina abitabile",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1980",
+            "Piani edificio": "5",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 123 - Particella 456 - Subalterno 78",
+            "Altri dati catastali": "SubParticella 79"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "152,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "152,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Impianto tv singolo"
+    ],
+    "cost_details": null
+}

@@ -1,0 +1,65 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114463067/",
+    "main_info": {
+        "title": "Appartamento via Giuseppe Ribera 5, Vomero, Napoli",
+        "location": "",
+        "price": "€ 225.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Nuda proprietà 5 vani in parco ad. Collana",
+            "text": "Vomero ( Collana) in zona centralissima e strategica per la vicinanza alla metro1, in un parco custodito, proponiamo la vendita di una NUDA PROPRIETA' di un appartamento di 5 vani oltre accessori. L'immobile è posto ad un quinto piano ( non ultimo) con ascensore e gode di una doppia e buona esposizione solare, non avendo palazzi ravvicinati. Si compone di ingresso, 5 vani, cucina e servizio oltre due  balconi. Vi è la possibilità di parcheggio a rotazione nel parco. Usufruttuario 58enne.  Questo tipo di operazione commerciale è rivolta a chi vuole investire in un buon immobile per un figlio piccolo in fase di crescita oppure a chi sa riconoscere un buon investimento con una sicura rivalutazione nel tempo.  Prezzo richiesto € 225.000,00 rif. T505"
+        }
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Nuda proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "5",
+            "Superficie": "100 m²",
+            "Locali": "5"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "4",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1940",
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano"
+        }
+    },
+    "surface_details": {
+        "Piano": "5",
+        "Superficie": "100,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "100,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 90/mese"
+    }
+}

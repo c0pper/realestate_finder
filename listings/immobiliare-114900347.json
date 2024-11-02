@@ -1,0 +1,55 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114900347/",
+    "main_info": {
+        "title": "Trilocale via Santa Maria Ognibene, Quartieri Spagnoli, Napoli",
+        "location": "",
+        "price": "€ 169.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Classe immobile economica",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "90 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1600",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "90,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "90,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in doppio vetro / metallo",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

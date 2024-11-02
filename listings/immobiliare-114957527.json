@@ -1,0 +1,64 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114957527/",
+    "main_info": {
+        "title": "Trilocale Vicoletto Secondo Santa Maria Avvocata, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 170.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Vico II S. Maria Avvocata",
+            "text": "genzia immobiliare Gabetti, sede storica di piazza Gravina 9, propone in vendita in parco custodito con servizio di portierato, un appartamento posto al quinto piano con ascensore di uno stabile in cemento armato. L’unità immobiliare che presentiamo ha una quadratura interna di 80mq ed è così composta: ingresso in disimpegno, tre camere, cucina semiabitabile e bagno. L' esposizione su più lati con con finestre e balcone conferisce agli ambienti un'ottima luminosità. L’appartamento si presenta in buono stato manutentivo ed è dotato di impianto di riscaldamento autonomo e climatizzatori. Posto auto condominiale. Lo stabile si trova nella parte centrale di via Foria, precisamente in vico II Santa Maria Avvocata. La zona è ricca di ogni genere di attività commerciale, scuole, banche e uffici pubblici, ed è servita da autobus e Metro."
+        },
+        "last_update": "Annuncio aggiornato il 18/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "5",
+            "Superficie": "80 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina semi abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Box, posti auto": "1 in parcheggio/garage comune",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "6",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "5",
+        "Superficie": "80,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "80,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": null
+}

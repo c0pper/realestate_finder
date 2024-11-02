@@ -1,0 +1,60 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.immobiliare.it/annunci/114679795/",
+    "main_info": {
+        "title": "Trilocale Vico Giardinetto, Quartieri Spagnoli, Napoli",
+        "location": "",
+        "price": "€ 209.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Quartieri Spagnoli, luminosa soluzione da ristrutturare",
+            "text": "Nel cuore dei Quartieri Spagnoli, a pochi passi dal Murales di Maradona e dalla rinomata via Toledo, e più precisamente in Vico Giardinetto, proponiamo in vendita soluzione completamente da ristrutturare. L'immobile posto al quarto piano di uno stabile privo di ascensore, è composto da: cucinotto, salone, due camere e bagno. Luminoso con affaccio esterno con balcone e finestre. Ideale per uso proprio e/0 investimento. Prezzo richiesto euro 209.000,00. ePr info contattaci allo 081/5571129 o al 379/1354338 anche whatsapp, oppure visita il nostro sito showcasenapoli.it. \"Showcase, assistenza all-inclusive per chi cerca casa\"."
+        },
+        "last_update": "Annuncio aggiornato il 03/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "4",
+            "Superficie": "80 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina cucinotto",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1800",
+            "Piani edificio": "5",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "4",
+        "Superficie": "80,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "80,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 20/mese"
+    }
+}

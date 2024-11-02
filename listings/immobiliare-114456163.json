@@ -1,0 +1,58 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/114456163/",
+    "main_info": {
+        "title": "Appartamento all'asta via Giuseppe Orsi 36, Napoli",
+        "location": "",
+        "price": "da € 273.750,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "155 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1967",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentazione elettrica",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 8 - Particella 881",
+            "Altri dati catastali": "SubParticella 207"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "155,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "155,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Esposizione doppia",
+        "Infissi esterni in vetro / legno",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": null
+}

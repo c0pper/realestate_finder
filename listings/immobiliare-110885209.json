@@ -1,0 +1,47 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/110885209/",
+    "main_info": {
+        "title": "Trilocale via E. A. Mario 15, Arenella, Napoli",
+        "location": "",
+        "price": "€ 270.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "75 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina angolo cottura",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Box, posti auto": "1 in box privato/box in garage"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1962",
+            "Piani edificio": "7",
+            "Ascensore": "Sì",
+            "Servizio portineria": "Portiere intera giornata",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Centralizzato, a radiatori, alimentato a metano"
+        }
+    },
+    "surface_details": null,
+    "badges": null,
+    "cost_details": {
+        "Spese condominio": "€ 80/mese"
+    }
+}

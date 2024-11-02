@@ -1,0 +1,57 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/113027595/",
+    "main_info": {
+        "title": "Trilocale via Santa sofia, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 169.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Santa Sofia  -   Ad. Via Carbonara",
+            "text": "A pochi passi da Via Carbonara, nei pressi del rinomato ''Hotel Caracciolo'', precisamente in Via Santa Sofia, proponiamo in vendita appartamento posto al piano 2°, composto da: ingresso in ampia cucina, salone, due camere da letto di cui una in soppalco, ripostiglio e bagno. L' immobile gode di doppia esposizione e si presenta in buono stato. L'appartamento si presta perfettamente anche per un uso ricettivo, grazie alla sua posizione centrale e alla vicinanza a luoghi di interesse turistico e culturale, l'atmosfera unica del centro storico di Napoli, con i suoi  palazzi storici e le piazze vivaci, rende questa zona particolarmente ambita sia per chi cerca una residenza nel cuore della città sia per chi desidera investire in un immobile dal grande potenziale. Il prezzo richiesto è di € 169.000,00. C.E.=G."
+        },
+        "last_update": "Annuncio aggiornato il 30/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "105 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "105,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "105,0 m²"
+    },
+    "badges": [
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Porta blindata"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 35/mese"
+    }
+}

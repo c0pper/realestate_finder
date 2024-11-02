@@ -1,0 +1,64 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/112540391/",
+    "main_info": {
+        "title": "Trilocale salita Tarsia, Monte Santo, Napoli",
+        "location": "",
+        "price": "€ 190.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Trilocale centro storico",
+            "text": "Zona centro storico, precisamente in salita Tarsia, proponiamo in vendita appartamento ristrutturato di 70mq. La soluzione, posta ad un primo piano senza ascensore, si divide in ingresso, salone, due camere da letto, cucina abitabile e bagno. Il cespite, inoltre, dispone di riscaldamento autonomo, balcone molto luminoso e posto moto interno cortile. Per maggiori informazioni e per visionare l'appartamento contattare l'ufficio al 081403114 o via WhatsApp al 3938913172."
+        }
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita | Affitto con riscatto",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "70 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "5",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a gas",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "70,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "70,0 m²"
+    },
+    "badges": [
+        "Esposizione interna",
+        "Impianto di allarme",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 41/mese"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.immobiliare.it/annunci/115777119/",
+    "main_info": {
+        "title": "Trilocale Gradoni Santa Maria Apparente, Vomero, Napoli",
+        "location": "",
+        "price": "€ 258.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "CENTRO – Gradoni Santa Maria Apparente, 3 vani con piccolo",
+            "text": "a 50mt dal Corso Vittorio Emanuele, precisamente Gradoni di Santa Maria Apparente, perfettamente inserito nella suggestiva cornice della “Napoli antica” e, soprattutto, in uno dei contesti (quello del Petraio) più amati dai Napoletani e dai Turisti. In fabbricato in stile liberty con scale in piperno e cortiletti interni, proponiamo in vendita un grazioso appartamento composto da ingresso in soggiorno living, camera da letto con piccolo bagnetto privato, camera da letto matrimoniale, sala da bagno e cucina abitabile con accesso diretto al terrazzo a livello (con particolare vista su Capri). Internamente l’immobile si presenta in ottimo stato di manutenzione. Interessante soluzione anche per uso “casa vacanza”."
+        },
+        "last_update": "Annuncio aggiornato il 31/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "85 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "Sì",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a gas",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "15,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "4,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo",
+        "VideoCitofono"
+    ],
+    "cost_details": null
+}

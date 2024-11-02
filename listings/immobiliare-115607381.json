@@ -1,0 +1,58 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115607381/",
+    "main_info": {
+        "title": "Appartamento all'asta piazza Santa Maria degli Angeli, Napoli",
+        "location": "",
+        "price": "da € 176.500,00"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "5",
+            "Superficie": "93 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina angolo cottura",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1967",
+            "Piani edificio": "6",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentazione elettrica",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        },
+        "Altro": {
+            "Dati catastali": "Foglio 3 - Particella 50",
+            "Altri dati catastali": "SubParticella 40"
+        }
+    },
+    "surface_details": {
+        "Piano": "5",
+        "Superficie": "93,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "93,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Esposizione doppia",
+        "Infissi esterni in vetro / legno",
+        "Impianto tv con parabola satellitare"
+    ],
+    "cost_details": null
+}

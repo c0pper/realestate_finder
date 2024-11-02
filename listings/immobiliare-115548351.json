@@ -1,0 +1,67 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115548351/",
+    "main_info": {
+        "title": "Trilocale via Pigna 178, Pigna - Omodeo, Napoli",
+        "location": "",
+        "price": "€ 260.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Napoli - Via Pigna ( nelle immediate adiacenze del Liceo",
+            "text": "Napoli - Via Pigna ( nelle immediate adiacenze del Liceo  Alberti e a pochi passi da via Simone Martini ) proponiamo in vendita , in un tranquillo e silenzioso contesto d’epoca , un appartamento di 70 mq posto al primo piano (no ascensore ma con una sola rampa di scale) così composto: Ingresso in soggiorno- cucina abitabile- camera matrimoniale- cameretta su soppalco - bagno - angolo lavanderia L’immobile si presenta in ottime condizioni manutentive grazie ad una recente ristrutturazione Richiesta euro 260.000 Per informazioni contattare: Reale & Morra 347 3843040 Luigi Reale 3396709088"
+        },
+        "last_update": "Annuncio aggiornato il 22/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "70 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "No",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1950",
+            "Piani edificio": "2",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "70,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "70,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Impianto di allarme",
+        "Infissi esterni in vetro / legno",
+        "Porta blindata",
+        "Impianto tv centralizzato"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 50/mese"
+    }
+}

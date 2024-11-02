@@ -1,0 +1,52 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/110725049/",
+    "main_info": {
+        "title": "Trilocale via San Paolo, Centro Storico, Napoli",
+        "location": "",
+        "price": "€ 230.000"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "75 m² | commerciale 76 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1912",
+            "Piani edificio": "4"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo",
+            "Climatizzazione": "Freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "5,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Accessoria",
+        "Sup. commerciale": "1,0 m²"
+    },
+    "badges": [
+        "Cucina",
+        "Infissi esterni in doppio vetro / metallo",
+        "Esposizione nord"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

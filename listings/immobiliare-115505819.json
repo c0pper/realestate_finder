@@ -1,0 +1,57 @@
+{
+    "date_scraped": "2024-10-31",
+    "url": "https://www.immobiliare.it/annunci/115505819/",
+    "main_info": {
+        "title": "Trilocale via sant' antonio abate, Tribunali, Napoli",
+        "location": "",
+        "price": "€ 169.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Ad. C.so G. Garibaldi  - ampia quadratura doppio ingresso",
+            "text": "In zona strategica, a pochi passi da Piazza Carlo III e Corso Garibaldi, precisamente in Via Sant' Antonio Abate, proponiamo in vendita in stabile d' epoca al secondo piano,  ampio appartamento di mq commerciali 146, composto da: ingresso in disimpegno, cucina abitabile, soggiorno, due camere da letto, cabina armadio, due bagni e ripostiglio. Il cespite è dotato di balconi, oltre finestre con doppia esposizione che lo rendono piacevolmente luminoso. La particolare disposizione dell'appartamento, con doppio ingresso che consente di dividerlo in due unità abitative separate, lo rende anche ideale per un uso investimento, ricettivo o per chi desidera avere uno spazio aggiuntivo da destinare a studio o ufficio oltre che un'opportunità unica per chi desidera vivere in zona centrale, ricca di attività commerciali e ben collegata  consentendo di raggiungere facilmente mezzi di trasporto pubblici come metro e bus. Il prezzo richiesto è di € 169.000,00."
+        },
+        "last_update": "Annuncio aggiornato il 31/10/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "146 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Piani edificio": "4",
+            "Ascensore": "No"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "146,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "146,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Porta blindata"
+    ],
+    "cost_details": null
+}

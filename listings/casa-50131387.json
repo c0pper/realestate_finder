@@ -1,0 +1,33 @@
+{
+    "date_scraped": "2024-11-02",
+    "url": "https://www.casa.it/immobili/50131387/",
+    "main_info": {
+        "title": "Bilocale in Vendita in Via San Giovanni a Mare 28 a Napoli",
+        "location": "",
+        "price": "€ 195.000",
+        "description": {
+            "reference": "N/A",
+            "title": "N/A",
+            "text": "Appartamento composto di ingresso + salone + angolo cottura + servizio + due camere + ripostiglio – c/a 90 mq – Piano secondo."
+        },
+        "last_update": "Data ultimo aggiornamento 24 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "90mq",
+            "Locali": "2",
+            "Bagni": "1",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone"
+        },
+        "energy": {
+            "Stato": "abitabile",
+            "Classe energetica": "A4D.M. 26/06/2015"
+        },
+        "cost_details": {
+            "Prezzo": "€195.000Calcola mutuoprezzo al mq calcolato € 2.167"
+        }
+    }
+}
