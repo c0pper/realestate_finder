@@ -222,6 +222,7 @@ class ImmobiliareScraper():
 
     def scrape_listings(self):
         page_num = 1  # Start from the first page
+        logger.info(f"Checking page {page_num}")
 
         while True:
             # Update the URL with the current page number
