@@ -21,7 +21,8 @@
             "Ascensore": "no",
             "Arredamento": "completamente arredato",
             "Stato al rogito": "libero",
-            "Altre caratteristiche": "balcone"
+            "Altre caratteristiche": "balcone",
+            "Balcone": "Sì"
         },
         "energy": {
             "Anno di costruzione": "1935",

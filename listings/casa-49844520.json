@@ -20,7 +20,8 @@
             "Piano": "2°",
             "Ascensore": "sì",
             "Stato al rogito": "libero",
-            "Altre caratteristiche": "balconeportineria"
+            "Altre caratteristiche": "balcone, portineria",
+            "Balcone": "Sì"
         },
         "energy": {
             "Anno di costruzione": "1800",

@@ -323,8 +323,6 @@ class ImmobiliareScraper():
                     listing_id = f"immobiliare-{listing['url'].split('annunci/')[1].replace('/', '')}"
                     f.write(f"{listing_id}\n")
 
-        self.export_filtered()
-
         return new_listings
 
 

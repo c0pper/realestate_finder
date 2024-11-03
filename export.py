@@ -44,7 +44,7 @@ def extract_date(date_str):
 
 def normalize(key, value):
     if key == "url":
-        if value == "https://www.immobiliare.it/annunci/113576599/":
+        if value == "https://www.casa.it/immobili/49563499/":
             return key, value
     to_int_words = ["piano", "locali"]
     if any([word in key for word in to_int_words]) or key == "superficie":
@@ -68,11 +68,19 @@ def normalize(key, value):
         key = "descrizione"
         return key, value
     elif key == "price":
+        value = value.split(",")[0]
         digits = re.findall(r'\d+', value)
         return key, int("".join(digits))
     elif key == "spese condominio" or key == "spese condominiali":
-        key = "spese condominiali"
-        return key, value
+        key = "spese condominiali / mese"
+        value = value.split(",")[0]
+        if not value:
+            return key, "Unknown"
+        if "nessun" in value.lower():
+            value = "uknown"
+            return key, 0
+        digits = re.findall(r'\d+', value)
+        return key, int("".join(digits))
     elif key == "riscaldamento" or key == "aria condizionata" or key == "climatizzazione":
         key = "climatizzazione"
         return key, value
@@ -152,7 +160,11 @@ if __name__ == "__main__":
     combined_df = pd.concat([immo_scraper.df, casa_scraper.df], ignore_index=True)
 
     # Export to Excel
-    combined_df.drop("prezzo", axis=1, inplace=True)
+    try:
+        combined_df.drop("prezzo", axis=1, inplace=True)
+    except KeyError:
+        pass
+
     combined_df.drop("reference", axis=1, inplace=True)
     combined_df.to_excel("combined_listings.xlsx", index=False)
     logger.info('Exported combined listings to Excel')

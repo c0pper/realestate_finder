@@ -92,13 +92,26 @@ class CasaScraper():
             data = {}
             for item in container.find_all("li", class_="chars_item"):
                 label = item.find("p", class_="chars__lbl").get_text(strip=True)
-                value = item.find("div", class_="chars__cnt").get_text(strip=True)
+        
+                # Collect text from each <span> inside chars__cnt
+                value_container = item.find("div", class_="chars__cnt")
+                # Check for multiple tags, otherwise get single element text
+                if value_container.find_all("span", class_="chars__tag"):
+                    # Join all chars__tag elements' text if multiple spans are found
+                    value = ", ".join(span.get_text(strip=True) for span in value_container.find_all("span", class_="chars__tag"))
+                else:
+                    # Fall back to retrieving text directly if no chars__tag spans are present
+                    value = value_container.get_text(strip=True)
+
+                # value = item.find("div", class_="chars__cnt").get_text(strip=True)
                 data[label] = value
             return data
 
         # Extract "Caratteristiche" section
         general_features = main_features_container.find("ul", class_="chars__list mb--ml tp-s--m c-txt--f0 bt--s")
         general = extract_feature(general_features)
+        if "balcone" in general.get("Altre caratteristiche", ""):
+            general["Balcone"] = "Sì"
 
         # Extract "Efficienza energetica" section
         efficienza_energetica = main_features_container.find_all("ul", class_="chars__list mb--ml tp-s--m c-txt--f0 bt--s")[1]
@@ -256,8 +269,6 @@ class CasaScraper():
                 for listing in new_listings:
                     listing_id = f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}"
                     f.write(f"{listing_id}\n")
-
-        self.export_filtered()
 
         return new_listings
 

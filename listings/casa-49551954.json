@@ -20,7 +20,8 @@
             "Piano": "4°",
             "Ascensore": "no",
             "Stato al rogito": "libero",
-            "Altre caratteristiche": "balconeterrazzo"
+            "Altre caratteristiche": "balcone, terrazzo",
+            "Balcone": "Sì"
         },
         "energy": {
             "Anno di costruzione": "1800",

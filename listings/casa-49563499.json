@@ -20,7 +20,8 @@
             "Piano": "6°",
             "Ascensore": "sì",
             "Stato al rogito": "libero",
-            "Altre caratteristiche": "balconeterrazzo"
+            "Altre caratteristiche": "balcone, terrazzo",
+            "Balcone": "Sì"
         },
         "energy": {
             "Stato": "abitabile",

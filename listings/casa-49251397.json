@@ -22,7 +22,8 @@
             "Ascensore": "no",
             "Arredamento": "non arredato",
             "Stato al rogito": "libero",
-            "Altre caratteristiche": "balconeterrazzo"
+            "Altre caratteristiche": "balcone, terrazzo",
+            "Balcone": "Sì"
         },
         "energy": {
             "Anno di costruzione": "500",
