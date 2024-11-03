@@ -137,7 +137,7 @@ class CasaScraper():
 
     def scrape_listings(self):
         page_num = 1  # Start from the first page
-        logger.info(f"Checking page {page_num}")
+        logger.info(f"{self.__class__.__name__} - Checking page {page_num}")
 
         while True:
             # Update the URL with the current page number
