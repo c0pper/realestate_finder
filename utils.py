@@ -5,6 +5,7 @@ import json
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 import json
 from pathlib import Path
 from dotenv import load_dotenv
@@ -40,12 +41,20 @@ def is_raspberry_pi():
 def get_driver():
     options = Options()
     if is_raspberry_pi():
-        ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
-        options.profile = ff_profile
-        options.headless = True  # Run in headless mode
+        profile = FirefoxProfile("/app/ff_profile/17ruxrsh.fake_prof")
+        
+        profile.set_preference("browser.cache.disk.enable", False)
+        profile.set_preference("browser.cache.memory.enable", False)
+        profile.set_preference("browser.cache.offline.enable", False)
+        profile.set_preference("network.http.use-cache", False)
+        profile.set_preference("browser.privatebrowsing.autostart", True)
+        
+        options.profile = profile
+        options.headless = True
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
         options.add_argument('--disable-gpu')
+
         service = Service(executable_path='/usr/local/bin/geckodriver')
         driver = webdriver.Firefox(options=options, service=service)
     else:

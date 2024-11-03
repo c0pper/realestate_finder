@@ -994,3 +994,156 @@
 2024-11-03 11:44:30,882 - logging_setup - INFO - CasaScraper - Checking page 1
 2024-11-03 11:44:32,216 - logging_setup - INFO - No 'Continue without accepting' button found
 2024-11-03 11:44:35,774 - logging_setup - WARNING - Captcha triggered by CasaScraper
+2024-11-03 12:00:02,100 - logging_setup - INFO - Getting driver
+2024-11-03 12:00:08,863 - logging_setup - INFO - Getting Immo Scraper
+2024-11-03 12:00:08,864 - logging_setup - INFO - Getting Casa Scraper
+2024-11-03 12:00:08,864 - logging_setup - INFO - Getting Immo listings
+2024-11-03 12:00:08,864 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-03 12:00:16,479 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-03 12:00:16,479 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109382821/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,480 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115104443/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,480 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111126337/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,480 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115573049/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,480 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114230087/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,480 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,480 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112971349/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113331423/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114456163/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112564737/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110130753/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,481 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114268167/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,482 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113066197/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,482 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115761095/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,482 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110885209/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,482 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114604669/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,482 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113416711/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,482 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114970559/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,483 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115602613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,483 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112330843/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,483 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112751187/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,483 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114530483/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,483 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109176157/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,484 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115136729/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,484 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114258879/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,484 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114430739/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,484 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115385649/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,484 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114432479/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,485 - logging_setup - WARNING - https://www.immobiliare.it/annunci/108707291/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,485 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115511785/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,485 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115747377/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,485 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113388095/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,485 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115563463/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,485 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114411147/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114431663/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115250743/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115540905/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115498897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115550891/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114548697/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114763661/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114814163/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,486 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113416711/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,487 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113029963/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,487 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114900347/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,487 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112564737/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,487 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115678809/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,487 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114517537/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,487 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,488 - logging_setup - WARNING - https://www.immobiliare.it/annunci/103764852/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,488 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115520271/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,488 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110997025/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,488 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114993019/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,488 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115162891/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,488 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115449357/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,489 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,489 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112287259/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,489 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112074993/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,489 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,490 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110404527/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,490 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114790723/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,490 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115377893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,490 - logging_setup - WARNING - https://www.immobiliare.it/annunci/90752467/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,490 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115548351/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,490 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111815949/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113707549/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112912133/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114082991/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112891613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/104575081/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112540391/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,491 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113027595/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 12:00:16,492 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110130753/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,492 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,492 - logging_setup - WARNING - https://www.immobiliare.it/annunci/107378029/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,492 - logging_setup - WARNING - https://www.immobiliare.it/annunci/103547130/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,492 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112314641/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,492 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114463067/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115540905/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115698971/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115229615/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114714283/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114795289/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112666755/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,493 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114258879/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115505819/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112257519/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113575613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115632727/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,494 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114939523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115509361/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110689657/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114923181/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114579437/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/107035573/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114575369/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115518619/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,495 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295135/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/108966661/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112546007/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/91677044/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115213643/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112287259/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,496 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114590705/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,497 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110054081/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,497 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112237951/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,497 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114960935/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,498 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114923181/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,498 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110850037/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,498 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114409577/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,498 - logging_setup - WARNING - https://www.immobiliare.it/annunci/98701354/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,498 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115385649/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115227773/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115785861/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114590705/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114960935/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/94291126/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113165505/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115774017/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112914637/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113575613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114790723/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113708537/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114776341/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111832365/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114430739/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115760855/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115636803/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112242005/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115209021/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109715673/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114672385/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,503 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115108173/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,503 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112314641/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:00:16,503 - logging_setup - INFO - Getting Casa listings
+2024-11-03 12:00:16,503 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:00:17,733 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:00:17,734 - logging_setup - WARNING - Captcha triggered by CasaScraper
