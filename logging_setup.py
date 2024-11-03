@@ -1,10 +1,14 @@
 import logging
 import os
 from logging.handlers import RotatingFileHandler
+from utils import is_raspberry_pi
 
 def setup_logging():
     # Create logs directory if it doesn't exist
-    log_dir = '/home/simo/code/realestate_finder/logs'
+    if is_raspberry_pi():
+        log_dir = '/app/logs'
+    else:
+        log_dir = '/home/simo/code/realestate_finder/logs'
     os.makedirs(log_dir, exist_ok=True)
     
     # Create a formatter

@@ -5,6 +5,7 @@ docker stop real-estate-finder && docker rm real-estate-finder && docker build -
 -v /home/pi/docker/bots/realestate_finder/listings:/app/listings \
 -v /home/pi/docker/bots/realestate_finder/old_listings.txt:/app/old_listings.txt \
 -v /home/pi/docker/bots/realestate_finder/ff_profile:/app/ff_profile \
+-v /home/pi/docker/bots/realestate_finder/logs:/app/logs \
 --user $(id -u):$(id -g) \
 real-estate-finder
 
