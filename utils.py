@@ -40,8 +40,8 @@ def is_raspberry_pi():
 def get_driver():
     options = Options()
     if is_raspberry_pi():
-        ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
-        options.profile = ff_profile
+        # ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
+        # options.profile = ff_profile
         options.headless = True  # Run in headless mode
         driver = webdriver.Firefox(options=options, service=Service(executable_path='/usr/local/bin/geckodriver'))
     else:
