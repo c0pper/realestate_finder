@@ -1,7 +1,6 @@
 import logging
 import os
 from logging.handlers import RotatingFileHandler
-from utils import is_raspberry_pi
 
 def setup_logging():
     # Create logs directory if it doesn't exist
@@ -10,6 +9,8 @@ def setup_logging():
         with open('/proc/cpuinfo', 'r') as cpuinfo:
             if 'Raspberry Pi' in cpuinfo.read():
                 log_dir = '/app/logs'
+            else:
+                log_dir = '/home/simo/code/realestate_finder/logs'
     except FileNotFoundError:
         log_dir = '/home/simo/code/realestate_finder/logs'
 

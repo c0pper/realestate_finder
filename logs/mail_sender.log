@@ -1147,3 +1147,4 @@
 2024-11-03 12:00:16,503 - logging_setup - INFO - CasaScraper - Checking page 1
 2024-11-03 12:00:17,733 - logging_setup - INFO - No 'Continue without accepting' button found
 2024-11-03 12:00:17,734 - logging_setup - WARNING - Captcha triggered by CasaScraper
+2024-11-03 12:16:27,879 - logging_setup - INFO - @NewHorizons started the task

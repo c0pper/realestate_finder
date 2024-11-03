@@ -118,6 +118,7 @@ def run_bot() -> None:
     app.add_handler(CommandHandler("deletejobs", delete_jobs))
     app.add_handler(CommandHandler("showcurrentjobs", show_current_jobs))
 
+    logger.info(f"Bot inizialized")
     app.run_polling()
 
 
