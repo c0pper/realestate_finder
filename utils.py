@@ -43,7 +43,11 @@ def get_driver():
         # ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
         # options.profile = ff_profile
         options.headless = True  # Run in headless mode
-        driver = webdriver.Firefox(options=options, service=Service(executable_path='/usr/local/bin/geckodriver'))
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--disable-gpu')
+        service = Service(executable_path='/usr/local/bin/geckodriver')
+        driver = webdriver.Firefox(options=options, service=service)
     else:
         ff_profile = "/home/simo/.mozilla/firefox/17ruxrsh.fake_prof"
         # ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
