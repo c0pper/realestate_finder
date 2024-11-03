@@ -1,6 +1,7 @@
 from datetime import date
 import re
 import time
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
@@ -12,6 +13,7 @@ import json
 from pathlib import Path
 from dotenv import load_dotenv
 import os
+from export import flatten_data
 from logging_setup import setup_logging
 from utils import get_driver
 logger = setup_logging()
@@ -32,6 +34,7 @@ class CasaScraper():
         self.listings_dir = Path(listings_dir)
         self.listings_dir.mkdir(exist_ok=True)
         self.driver = driver
+        self.df = None
 
     def get_soup_with_selenium(self, url):
         self.driver.get(url)
@@ -60,7 +63,7 @@ class CasaScraper():
 
             # Extract text from the tags if they are found
             reference = reference_tag.text if reference_tag else "N/A"
-            desc_title = title_tag.text if title_tag else "N/A"
+            desc_title = title_tag.text if title_tag else title
             desc_text = soup.select_one(".descr__desc").text
 
             last_update_text = soup.find("div", class_="updatedAt").text
@@ -134,6 +137,72 @@ class CasaScraper():
         }
         
         return listing_data
+    
+    
+    def filter_listings(self):
+        filtered_listings = []
+        
+        # Iterate through all JSON files in the given directory
+        for file_path in self.listings_dir.glob("*.json"):
+            if file_path.name.startswith("casa"):
+                with open(file_path, "r", encoding="utf-8") as file:
+                    data = json.load(file)
+                    
+                    # Get 'disponibilità' and 'stato' from 'Generale' section in 'detailed_features'
+                    general_features = data.get("detailed_features", {}).get("general", {})
+                    disponibilita = general_features.get("Stato al rogito", "").lower()
+                    stato = data.get("detailed_features", {}).get("energy", {}).get("Stato", "").lower()
+
+                    
+                    # Extract and process 'Piano' information
+                    piano = general_features.get("Piano", "0").split("°")[0]
+                    if "rialzato" in piano.lower():
+                        piano = "1"
+                    elif "ultimo" in piano.lower():
+                        piano = "999"
+                    else:
+                        match = re.search(r'\d+', piano)
+                        piano = match.group(0) if match else "0"  # Default to 0 if no number is found
+                        
+                    # Check for 'balcone' presence in 'Altre caratteristiche'
+                    balcone = "balcone" in general_features.get("Altre caratteristiche", "").lower()
+
+                    # Combine title and description for filtering keywords
+                    title = data.get("main_info", {}).get("title", "")
+                    description_text = data.get("main_info", {}).get("description", {}).get("text", "")
+                    description = f"{title}\n{description_text}"
+                    
+                
+                    # Define keywords with word boundaries for regex
+                    unwanted_keywords = [r'\bnuda\b', r'\bsoppalco\b', r'\basta\b', r'\bnon mutuabile\b']
+                    pattern = re.compile('|'.join(unwanted_keywords), re.IGNORECASE)
+
+                    # Apply filtering criteria
+                    if disponibilita == "libero" and stato != "da ristrutturare" and int(piano) > 1 and balcone:
+                        if not pattern.search(description):
+                            filtered_listings.append(data)
+                        else:
+                            logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
+                    else:
+                        logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
+            
+        return filtered_listings
+    
+
+    def export_filtered(self):
+        all_flat_data = []
+        filtered_listings = self.filter_listings()
+        for j in filtered_listings:
+            flattened_data = flatten_data(j)
+            all_flat_data.append(flattened_data)
+
+        # Create DataFrame from the flattened data
+        df = pd.DataFrame(all_flat_data)
+        self.df = df
+
+        # Export to Excel
+        # df.to_excel("listings.xlsx", index=False)
+        # print(df)
 
 
     def scrape_listings(self):
@@ -188,56 +257,9 @@ class CasaScraper():
                     listing_id = f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}"
                     f.write(f"{listing_id}\n")
 
+        self.export_filtered()
+
         return new_listings
-    
-    def filter_listings(self):
-        filtered_listings = []
-        
-        # Iterate through all JSON files in the given directory
-        for file_path in self.listings_dir.glob("*.json"):
-            if file_path.name.startswith("casa"):
-                with open(file_path, "r", encoding="utf-8") as file:
-                    data = json.load(file)
-                    
-                    # Get 'disponibilità' and 'stato' from 'Generale' section in 'detailed_features'
-                    general_features = data.get("detailed_features", {}).get("general", {})
-                    disponibilita = general_features.get("Stato al rogito", "").lower()
-                    stato = data.get("detailed_features", {}).get("energy", {}).get("Stato", "").lower()
-
-                    
-                    # Extract and process 'Piano' information
-                    piano = general_features.get("Piano", "0").split("°")[0]
-                    if "rialzato" in piano.lower():
-                        piano = "1"
-                    elif "ultimo" in piano.lower():
-                        piano = "999"
-                    else:
-                        match = re.search(r'\d+', piano)
-                        piano = match.group(0) if match else "0"  # Default to 0 if no number is found
-                        
-                    # Check for 'balcone' presence in 'Altre caratteristiche'
-                    balcone = "balcone" in general_features.get("Altre caratteristiche", "").lower()
-
-                    # Combine title and description for filtering keywords
-                    title = data.get("main_info", {}).get("title", "")
-                    description_text = data.get("main_info", {}).get("description", {}).get("text", "")
-                    description = f"{title}\n{description_text}"
-                    
-                
-                    # Define keywords with word boundaries for regex
-                    unwanted_keywords = [r'\bnuda\b', r'\bsoppalco\b', r'\basta\b', r'\bnon mutuabile\b']
-                    pattern = re.compile('|'.join(unwanted_keywords), re.IGNORECASE)
-
-                    # Apply filtering criteria
-                    if disponibilita == "libero" and stato != "da ristrutturare" and int(piano) > 1 and balcone:
-                        if not pattern.search(description):
-                            filtered_listings.append(data)
-                        else:
-                            logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
-                    else:
-                        logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
-            
-        return filtered_listings
 
 
 

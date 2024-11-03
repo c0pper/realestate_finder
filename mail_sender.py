@@ -5,6 +5,8 @@ from email.mime.text import MIMEText
 from dotenv import load_dotenv
 import os
 
+import pandas as pd
+
 from casa import CasaScraper
 from immobiliare import ImmobiliareScraper
 from llm import json_to_human
