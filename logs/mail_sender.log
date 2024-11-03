@@ -1148,3 +1148,27 @@
 2024-11-03 12:00:17,733 - logging_setup - INFO - No 'Continue without accepting' button found
 2024-11-03 12:00:17,734 - logging_setup - WARNING - Captcha triggered by CasaScraper
 2024-11-03 12:16:27,879 - logging_setup - INFO - @NewHorizons started the task
+2024-11-03 12:21:16,356 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:21:18,156 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:21:18,175 - logging_setup - WARNING - https://www.casa.it/immobili/48997206/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 12:21:18,176 - logging_setup - WARNING - https://www.casa.it/immobili/48839109/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 12:21:18,176 - logging_setup - WARNING - https://www.casa.it/immobili/49471912/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 12:21:18,176 - logging_setup - WARNING - https://www.casa.it/immobili/49551954/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 12:21:18,178 - logging_setup - WARNING - https://www.casa.it/immobili/49923416/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 12:22:01,607 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:22:31,078 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:22:52,024 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:22:59,492 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:23:05,457 - logging_setup - WARNING - Captcha triggered by CasaScraper
+2024-11-03 12:33:47,292 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:33:49,506 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:39:00,025 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:39:01,398 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:39:58,884 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 12:40:00,749 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:40:08,649 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-03 12:40:15,026 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:40:25,253 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-03 12:40:37,255 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 12:40:46,996 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-03 13:00:01,858 - logging_setup - INFO - Getting driver

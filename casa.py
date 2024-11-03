@@ -138,9 +138,9 @@ class CasaScraper():
 
     def scrape_listings(self):
         page_num = 1  # Start from the first page
-        logger.info(f"{self.__class__.__name__} - Checking page {page_num}")
 
         while True:
+            logger.info(f"{self.__class__.__name__} - Checking page {page_num}")
             paginated_url = self.search_url.replace("page=1", f"page={page_num}")
 
             soup = self.get_soup_with_selenium(paginated_url)
@@ -172,23 +172,23 @@ class CasaScraper():
                 
                 page_num += 1
 
-            # Filter the listings
-            filtered_data = self.filter_listings()
+        # Filter the listings
+        filtered_data = self.filter_listings()
 
-            # Check if there are any new listings
-            with open("old_listings.txt", "r") as f:
-                old_listings = f.read().splitlines()
+        # Check if there are any new listings
+        with open("old_listings.txt", "r") as f:
+            old_listings = f.read().splitlines()
 
-            new_listings = [listing for listing in filtered_data if not f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}" in old_listings]
+        new_listings = [listing for listing in filtered_data if not f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}" in old_listings]
 
-            # Append new listing IDs to old_listings.txt
-            if new_listings:
-                with open("old_listings.txt", "a") as f:
-                    for listing in new_listings:
-                        listing_id = f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}"
-                        f.write(f"{listing_id}\n")
+        # Append new listing IDs to old_listings.txt
+        if new_listings:
+            with open("old_listings.txt", "a") as f:
+                for listing in new_listings:
+                    listing_id = f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}"
+                    f.write(f"{listing_id}\n")
 
-            return new_listings
+        return new_listings
     
     def filter_listings(self):
         filtered_listings = []

@@ -214,9 +214,9 @@ class ImmobiliareScraper():
 
     def scrape_listings(self):
         page_num = 1  # Start from the first page
-        logger.info(f"{self.__class__.__name__} - Checking page {page_num}")
 
         while True:
+            logger.info(f"{self.__class__.__name__} - Checking page {page_num}")
             # Update the URL with the current page number
             paginated_url = f"{self.search_url}&pag={page_num}"
 
