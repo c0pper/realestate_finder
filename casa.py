@@ -13,6 +13,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 import os
 from logging_setup import setup_logging
+from utils import get_driver
 logger = setup_logging()
 
 load_dotenv()
@@ -140,51 +141,54 @@ class CasaScraper():
         logger.info(f"{self.__class__.__name__} - Checking page {page_num}")
 
         while True:
-            # Update the URL with the current page number
             paginated_url = self.search_url.replace("page=1", f"page={page_num}")
 
             soup = self.get_soup_with_selenium(paginated_url)
             self.refuse_cookies()
             listings = soup.find_all("div", class_="csaSrpcard__cnt-card")
-            if not listings:
-                logger.info("No more listings found. Exiting pagination.")
-                break
+            if self.driver.title == 'casa.it':
+                logger.warning(f"Captcha triggered by {self.__class__.__name__}")
+                return []
+            else:
+                if not listings:
+                    logger.info("No more listings found. Exiting pagination.")
+                    break
 
-            for idx, listing in enumerate(listings, start=1):
-                listing_url = "https://www.casa.it" + listing.find("a", class_="csaSrpcard__det__title--a")["href"]
-                listing_id = listing_url.split('immobili/')[1].replace("/", "") 
-                listing_file = self.listings_dir / f"casa-{listing_id}.json"
+                for idx, listing in enumerate(listings, start=1):
+                    listing_url = "https://www.casa.it" + listing.find("a", class_="csaSrpcard__det__title--a")["href"]
+                    listing_id = listing_url.split('immobili/')[1].replace("/", "") 
+                    listing_file = self.listings_dir / f"casa-{listing_id}.json"
 
-                if not listing_file.exists():
-                    logger.info(f"Scraping listing data for {listing_url} [{idx}/{len(listings)} listings on page {page_num}]")
-                    listing_data = self.scrape_listing(listing_url)
+                    if not listing_file.exists():
+                        logger.info(f"Scraping listing data for {listing_url} [{idx}/{len(listings)} listings on page {page_num}]")
+                        listing_data = self.scrape_listing(listing_url)
 
-                    with open(listing_file, 'w', encoding='utf-8') as f:
-                        json.dump(listing_data, f, ensure_ascii=False, indent=4)
-                        logger.info(f"\tSaved listing data for {self.__class__.__name__}-{listing_id} to {listing_file}")
-                else:
-                    pass
-                    # logger.info(f"Listing data for {self.__class__.__name__}-{listing_id} already exists, skipping.")
-            
-            page_num += 1
+                        with open(listing_file, 'w', encoding='utf-8') as f:
+                            json.dump(listing_data, f, ensure_ascii=False, indent=4)
+                            logger.info(f"\tSaved listing data for {self.__class__.__name__}-{listing_id} to {listing_file}")
+                    else:
+                        pass
+                        # logger.info(f"Listing data for {self.__class__.__name__}-{listing_id} already exists, skipping.")
+                
+                page_num += 1
 
-        # Filter the listings
-        filtered_data = self.filter_listings()
+            # Filter the listings
+            filtered_data = self.filter_listings()
 
-        # Check if there are any new listings
-        with open("old_listings.txt", "r") as f:
-            old_listings = f.read().splitlines()
+            # Check if there are any new listings
+            with open("old_listings.txt", "r") as f:
+                old_listings = f.read().splitlines()
 
-        new_listings = [listing for listing in filtered_data if not f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}" in old_listings]
+            new_listings = [listing for listing in filtered_data if not f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}" in old_listings]
 
-        # Append new listing IDs to old_listings.txt
-        if new_listings:
-            with open("old_listings.txt", "a") as f:
-                for listing in new_listings:
-                    listing_id = f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}"
-                    f.write(f"{listing_id}\n")
+            # Append new listing IDs to old_listings.txt
+            if new_listings:
+                with open("old_listings.txt", "a") as f:
+                    for listing in new_listings:
+                        listing_id = f"casa-{listing['url'].split('immobili/')[1].replace('/', '')}"
+                        f.write(f"{listing_id}\n")
 
-        return new_listings
+            return new_listings
     
     def filter_listings(self):
         filtered_listings = []
@@ -239,6 +243,7 @@ class CasaScraper():
 
 
 if __name__ == "__main__":
-    casa_scraper = CasaScraper(search_url=search_url, listings_dir="listings")
+    driver = get_driver()
+    casa_scraper = CasaScraper(search_url=search_url, listings_dir="listings", driver=driver)
     casa_scraper.scrape_listings()
     

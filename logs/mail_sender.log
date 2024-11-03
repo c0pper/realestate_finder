@@ -984,3 +984,13 @@
 2024-11-03 11:00:48,008 - logging_setup - WARNING - https://www.casa.it/immobili/49471912/ is either nuda proprietà, has soppalco or is an auction
 2024-11-03 11:00:48,009 - logging_setup - WARNING - https://www.casa.it/immobili/49551954/ is either nuda proprietà, has soppalco or is an auction
 2024-11-03 11:00:48,011 - logging_setup - WARNING - https://www.casa.it/immobili/49923416/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 11:36:02,602 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 11:36:17,630 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 11:36:27,044 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 11:40:33,687 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 11:42:50,022 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 11:42:51,223 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 11:42:54,981 - logging_setup - WARNING - Captcha triggered by CasaScraper
+2024-11-03 11:44:30,882 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 11:44:32,216 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 11:44:35,774 - logging_setup - WARNING - Captcha triggered by CasaScraper

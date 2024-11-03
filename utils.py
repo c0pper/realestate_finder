@@ -49,10 +49,10 @@ def get_driver():
         service = Service(executable_path='/usr/local/bin/geckodriver')
         driver = webdriver.Firefox(options=options, service=service)
     else:
-        ff_profile = "/home/simo/.mozilla/firefox/17ruxrsh.fake_prof"
         # ff_profile = "/app/ff_profile/17ruxrsh.fake_prof"
-        options.profile = ff_profile
-        options.headless = True
+        # ff_profile = "/home/simo/.mozilla/firefox/17ruxrsh.fake_prof"
+        # options.profile = ff_profile
+        # options.headless = True
         driver = webdriver.Firefox(options=options)
     return driver
 
