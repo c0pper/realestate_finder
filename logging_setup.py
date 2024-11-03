@@ -5,10 +5,14 @@ from utils import is_raspberry_pi
 
 def setup_logging():
     # Create logs directory if it doesn't exist
-    if is_raspberry_pi():
-        log_dir = '/app/logs'
-    else:
+
+    try:
+        with open('/proc/cpuinfo', 'r') as cpuinfo:
+            if 'Raspberry Pi' in cpuinfo.read():
+                log_dir = '/app/logs'
+    except FileNotFoundError:
         log_dir = '/home/simo/code/realestate_finder/logs'
+
     os.makedirs(log_dir, exist_ok=True)
     
     # Create a formatter
