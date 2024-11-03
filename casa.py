@@ -12,16 +12,11 @@ import json
 from pathlib import Path
 from dotenv import load_dotenv
 import os
-import logging
+from logging_setup import setup_logging
+logger = setup_logging()
 
 load_dotenv()
 
-logging.basicConfig(
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
-)
-logger = logging.getLogger(__name__)
-httpx_logger = logging.getLogger("httpx")
-httpx_logger.setLevel(logging.WARNING)
 
 search_url = os.getenv("SEARCH_URL_CASA")
 
@@ -166,9 +161,10 @@ class CasaScraper():
 
                     with open(listing_file, 'w', encoding='utf-8') as f:
                         json.dump(listing_data, f, ensure_ascii=False, indent=4)
-                        logger.info(f"\tSaved listing data for {listing_id} to {listing_file}")
+                        logger.info(f"\tSaved listing data for {self.__class__.__name__}-{listing_id} to {listing_file}")
                 else:
-                    logger.info(f"Listing data for {listing_id} already exists, skipping.")
+                    pass
+                    # logger.info(f"Listing data for {self.__class__.__name__}-{listing_id} already exists, skipping.")
             
             page_num += 1
 

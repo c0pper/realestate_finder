@@ -12,16 +12,11 @@ import os
 import logging
 
 from selenium import webdriver
+from logging_setup import setup_logging
+logger = setup_logging()
 
 load_dotenv()
 
-
-logging.basicConfig(
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
-)
-logger = logging.getLogger(__name__)
-httpx_logger = logging.getLogger("httpx")
-httpx_logger.setLevel(logging.WARNING)
 
 search_url = os.getenv("SEARCH_URL_IMMOBILIARE")
 

@@ -9,14 +9,12 @@ from casa import CasaScraper
 from immobiliare import ImmobiliareScraper
 from llm import json_to_human
 from utils import get_driver
+from logging_setup import setup_logging
+logger = setup_logging()
+
 load_dotenv()
 
-logging.basicConfig(
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
-)
-logger = logging.getLogger(__name__)
-httpx_logger = logging.getLogger("httpx")
-httpx_logger.setLevel(logging.WARNING)
+
 
 def send_email(subject, body, to_email, from_email, password):
     # Set up the email server
@@ -63,8 +61,9 @@ if __name__ == "__main__":
     logger.info(f'Getting Casa listings')
     new_listings.extend(casa_scraper.scrape_listings())
 
-    if new_listings:
+    driver.quit()
 
+    if new_listings:
         logger.info(f'New listings: {[l["main_info"]["title"] for l in new_listings]}')
 
         body = ""
