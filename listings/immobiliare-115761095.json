@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115761095/",
     "main_info": {
         "title": "Quadrilocale Vico I Portapiccola a Montecalvario, 23, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 200.000"
+        "price": "€ 200.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento",
+            "text": "GRIMALDI MUSEO - AGENZIA NAPOLI CENTRO - Propone in vendita appartamento di circa 100 mq oltre 30 mq di soppalchi, posto ad un primo piano di uno stabile dotato di ascensore. L’unità immobiliare, si compone di ingresso, salone , una camera da letto, due cucine , due bagni  e due camere su soppalchi . L’immobile è dotato di riscaldamento autonomo e gode di una tripla esposizione con balconi e finestre . La proprietà si trova a pochi metri da Via Toledo, la zona  oltre ad essere centralissima  è ben servita da mezzi di trasporto pubblico come le fermate della metropolitana linea 1 e 2  e la Funicolare di  Via Toledo ed è  a poca distanza dalla stazione marittima di Napoli . La nostra proposta immobiliare oltre ad essere un ottima soluzione abitativa è adatta anche per attività di b&b o casa vacanze . Il prezzo richiesto per la vendita è di € 200.000,00(Euro Duecentomila/00). Classe Energetica G (133,74 kWh/mqa). Al fine di garantirti un servizio eccellente, ti proponiamo di passare in ufficio e incontrare il nostro consulente del credito che ti assisterà nell’acquisto della tua casa. Fissa subito il tuo appuntamento al 081.19522337 o al 329.1934617 l'ufficio vendite in via Enrico Pessina, 84, a pochi passi da Piazza Dante, è aperto dal lunedì al venerdì dalle ore 9:30 alle 13:30 e dalle 15:30 alle 19:30; il sabato dalle 9:30 alle 13:00. Metti “mi piace” alla nostra pagina Facebook Agenzia GrimaldiMuseoviaPessina e sarai continuamente aggiornato sulle nostre proposte immobiliari. Puoi anche seguirci su Instagram: Grimaldimuseo. Invia la tua richiesta, sarà premura del nostro personale qualificato contattarti per sottoporti le migliori offerte selezionate in base alle tue esigenze. Fissa un appuntamento presso la nostra sede, dove troverai un ambiente cordiale e accogliente e professionisti in grado di offrirti una consulenza qualificata, continuamente aggiornata sull’evoluzione del mercato. Mail: agenzia.grimaldi1@gmail.com"
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {
@@ -51,5 +57,7 @@
         "Porta blindata",
         "Impianto tv centralizzato"
     ],
-    "cost_details": null
+    "cost_details": {
+        "Spese condominio": "€ 1/mese"
+    }
 }

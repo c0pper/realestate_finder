@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-30",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112287259/",
     "main_info": {
         "title": "Trilocale corso Vittorio Emanuele, Piazza Canneto - Salvator Rosa, Napoli",
         "location": "",
-        "price": "€ 280.000"
+        "price": "€ 280.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "AMPIO TRILOCALE CON ASCENSORE E POSTO AUTO",
+            "text": "Sei alla ricerca di un appartamento in un contesto di assoluto pregio, con la comodità di un posto auto e un comodo ascensore? La tua nuova casa ti aspetta al Corso Vittorio Emanuele, a pochi passi dalla centralissima Piazza Mazzini. In un elegante palazzo d'epoca con servizio di portineria, ti presentiamo questo splendido immobile al secondo piano molto luminoso. Varcata la soglia, sarai accolto da un ampio ingresso che introduce a un generoso soggiorno, un ambiente accogliente e raffinato. Proseguendo, troverai altri due ambienti distribuiti in una camera ed una zona tinello/soggiorno che conduce all'angolo cottura.  L'appartamento è completato da un ampio ripostiglio verandato, doppi servizi e due balconi, che regalano una piacevole sensazione di luminosità e apertura. Considerata la sua pianta e la divisione interna, l'immobile si presta ad una diversa disposizione degli ambienti in base alle proprie esigenze, creando ambienti diversi da quelli esistenti attualmente. Ma ciò che rende questo appartamento davvero unico è la sua posizione strategica, a due passi dal cuore pulsante della città. Immerso in un contesto residenziale di assoluto prestigio, godi della tranquillità di un'oasi di charme, senza rinunciare alla comodità dei principali servizi ed un comodo posto auto assegnato all'interno della corte condominiale, che ti permetterà di vivere la città con totale agio e indipendenza. Non aspettare oltre, vieni a visitare questa splendida proprietà. Contattaci al numero 081 19 48 52 79, anche su WhatsApp, o all'indirizzo email napolivittorioemanuele@tempocasa.it per fissare un appuntamento e lasciarti incantare dalla tua nuova casa. Per chi avesse intenzione di acquistare l'immobile, offriamo inoltre una consulenza gratuita e senza impegno sui servizi e prodotti di finanziamento più adatti alle tue esigenze, grazie ai nostri professionisti della PIÙ MUTUI CASA."
+        },
+        "last_update": "Annuncio aggiornato il 26/10/2024"
     },
     "detailed_features": {
         "Generale": {

@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114552479/",
     "main_info": {
         "title": "Quadrilocale via Salvator Rosa, Piazza Canneto - Salvator Rosa, Napoli",
         "location": "",
-        "price": "€ 265.000"
+        "price": "€ 265.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "VIA SALVATOR ROSA (ALTEZZA METROPOLITANA)",
+            "text": "via salvator rosa immediate adiacenze metropolitana proponiamo in vendita appartamento finemente ristrutturato con possibilita' di arredo, sito al 2 piano senza ascensore composto da ingresso in ampio salone singolo, cucina abitabile, camera da letto, 2 camere ragazzi, 2 bagni, 2 balconi. frimm ag. vomero 081.7141305"
+        },
+        "last_update": "Annuncio aggiornato il 16/10/2024"
     },
     "detailed_features": {
         "Generale": {

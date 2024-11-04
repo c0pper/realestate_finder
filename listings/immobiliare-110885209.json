@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/110885209/",
     "main_info": {
         "title": "Trilocale via E. A. Mario 15, Arenella, Napoli",
         "location": "",
-        "price": "€ 270.000"
+        "price": "€ 270.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Via E. A. Mario (tratto centrale), proponiamo in vendita, LIBERO, immobile in stabile in contesto signorile con servizio di portierato e di ascensore, internamente composto da ingresso in soggiorno con angolo cottura, camera da letto matrimoniale, cameretta e servizio. DOPPIA ESPOSIZIONE con ampie balconate. ll cespite in oggetto deriverà da un frazionamento e si presenta DA RISTRUTTURARE. Possibilità di acquisto di BOX AUTO. Zona centrale, nelle immediate adiacenze di negozi di ogni genere, scuole (elementari, medie e superiori), bar e supermercati. Le visite sono gradite previo appuntamento telefonico."
+        },
+        "last_update": "Annuncio aggiornato il 28/08/2024"
     },
     "detailed_features": {
         "Generale": {

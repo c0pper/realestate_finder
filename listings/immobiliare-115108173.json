@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115108173/",
     "main_info": {
         "title": "Appartamento all'asta via Giuseppe Orsi   36 - 80128 Napoli 36, Napoli",
         "location": "",
-        "price": "da € 273.750,00"
+        "price": "da € 273.750,00",
+        "description": {
+            "reference": "riferimento",
+            "title": "Piena proprietà dell'appartamento in Napoli alla via Gius...",
+            "text": "Piena proprietà dell'appartamento in Napoli alla via Giuseppe Orsi n. 36, piano secondo oltre l'ammezzato, costituito da ingresso-soggiorno, cucina abitabile, due camere, uno studio e due bagni per una superficie interna calpestabile di circa 135 mq ed una superficie lorda commerciabile di circa 152 mq. Astaflash è il Brand Professionale che accompagna ogni cliente interessato ad acquistare un immobile all'asta. Tre partner (AvvocatoFlash, Euroansa e Malo HR) ed un unico scopo: la cura del cliente. Registrati subito per cercare l’immobile dei tuoi sogni in asta sul sito www.astaflash.net In cosa ci distinguiamo dagli altri servizio di consulenza professionale all'asta? Siamo gli unici che supportiamo il cliente a 360 gradi con: • creazione di un'area riservata personale per il monitoraggio delle aste migliori con possibilità di prenotazione immobile e consulenza assistente personale h24; • assegnazione di un consulente asta dedicato h24 fin dalla fase di ricerca; • attribuzione di un avvocato personale per ogni questione legale legata all'acquisto. • Pre – fattibilità di Mutuo fino al 100%"
+        },
+        "last_update": "Annuncio aggiornato il 10/09/2024"
     },
     "detailed_features": {
         "Generale": {

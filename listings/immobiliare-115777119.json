@@ -1,5 +1,5 @@
 {
-    "date_scraped": "2024-11-02",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115777119/",
     "main_info": {
         "title": "Trilocale Gradoni Santa Maria Apparente, Vomero, Napoli",
@@ -10,7 +10,7 @@
             "title": "CENTRO – Gradoni Santa Maria Apparente, 3 vani con piccolo",
             "text": "a 50mt dal Corso Vittorio Emanuele, precisamente Gradoni di Santa Maria Apparente, perfettamente inserito nella suggestiva cornice della “Napoli antica” e, soprattutto, in uno dei contesti (quello del Petraio) più amati dai Napoletani e dai Turisti. In fabbricato in stile liberty con scale in piperno e cortiletti interni, proponiamo in vendita un grazioso appartamento composto da ingresso in soggiorno living, camera da letto con piccolo bagnetto privato, camera da letto matrimoniale, sala da bagno e cucina abitabile con accesso diretto al terrazzo a livello (con particolare vista su Capri). Internamente l’immobile si presenta in ottimo stato di manutenzione. Interessante soluzione anche per uso “casa vacanza”."
         },
-        "last_update": "Annuncio aggiornato il 31/10/2024"
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {
@@ -35,6 +35,7 @@
             "Cantina": "No"
         },
         "Informazioni edificio": {
+            "Anno di costruzione": "1950",
             "Piani edificio": "4",
             "Ascensore": "No",
             "Accesso disabili": "No"
@@ -61,5 +62,7 @@
         "Impianto tv singolo",
         "VideoCitofono"
     ],
-    "cost_details": null
+    "cost_details": {
+        "Spese condominio": "Nessuna spesa condominiale"
+    }
 }

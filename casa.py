@@ -15,7 +15,9 @@ from dotenv import load_dotenv
 import os
 from export import flatten_data
 from logging_setup import setup_logging
-from utils import get_driver
+from utils import get_driver, copy_ff_profile
+
+
 logger = setup_logging()
 
 load_dotenv()
@@ -195,9 +197,11 @@ class CasaScraper():
                         if not pattern.search(description):
                             filtered_listings.append(data)
                         else:
-                            logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
+                            pass
+                            # logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
                     else:
-                        logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
+                        pass
+                        # logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
             
         return filtered_listings
     
@@ -276,6 +280,7 @@ class CasaScraper():
 
 
 if __name__ == "__main__":
+    copy_ff_profile()
     driver = get_driver()
     casa_scraper = CasaScraper(search_url=search_url, listings_dir="listings", driver=driver)
     casa_scraper.scrape_listings()

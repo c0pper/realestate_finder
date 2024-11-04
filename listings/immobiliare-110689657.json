@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/110689657/",
     "main_info": {
         "title": "Appartamento via a.minichini 33, Sanità, Napoli",
         "location": "",
-        "price": "€ 259.000"
+        "price": "€ 259.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "VIA ABATE MINICHINI Vi proponiamo in zona residenziale appartamento libero posto ad un primo piano con ascensore in stabile di cemento. La sua quadratura interna è di 140 mq più tre balconate che circondano l'intero immobile con affaccio su strada principale. L'interno è diviso in ingresso in disimpegno, cinque ampie camere di cui quattro con accesso su balcone, cucia abitabile con balcone, servizio con vasca e ripostiglio. L'immoibile si presente luminoso grazie alla sua doppia esposizione e affaccio libero, mentre le condizioni interne sono in stato da ristrutturare. Nei pressi del cespite troviamo attività commerciali e servizi di ogni genere come, banche, posta, scuole, supermercati, palestre... Questa soluzione è ideale per chi cerca ampi spazi interni ed un'ottimo contesto abitativo e residenziale ma allo stesso tempo centrale. E' POSSIBILE VISIONARLO TUTTI I GIORNI PREVIO AVVISO TELEFONICO."
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

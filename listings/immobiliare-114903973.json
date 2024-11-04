@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114903973/",
     "main_info": {
         "title": "Trilocale salita San Raffaele, Stella - Materdei, Napoli",
         "location": "",
-        "price": "€ 260.000"
+        "price": "€ 260.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Salita San Raffaele",
+            "text": "In Salita San Raffaele, strada di collegamento tra Via Santa Teresa degli Scalzi e piazzetta San Gennaro a Materdei, zona ricca di attività commerciali di ogni genere e tipo, proponiamo in vendita un appartamento di 90 più 75 mq di terrazzo di copertura. L'immobile è sito al terzo piano di uno stabile d'epoca in tufo ed è così composto: ingresso in corridoio, soggiorno, cucina abitabile, due camere, bagno e terrazzo. Esso gode di ottima luminosità grazie alla presenza di balconi e finestre in tutti gli ambienti, con affacci esterni e panoramici e grazie alla presenza del terrazzo di copertura, con vista aperta e panoramica. L'appartamento è ideale sia per uso proprio che per uso investimento, data la centralità della zona. Oggi, la nostra struttura dedica ai propri clienti un servizio di consulenza totale, affiancando le parti (Acquirente e Venditore), offrendo loro le garanzie sullo stato dell'immobile e sulle conformità di legge, eseguendo le ispezioni ipotecarie e catastali in via preliminare e senza alcun aggravio di spese, affinché si possa giungere al rogito notarile di compravendita con tranquillità e trasparenza. I nostri clienti hanno sempre un interlocutore, pronto a rispondere e a offrire l'adeguata assistenza alle richieste ricevute in tutte le fasi della trattativa e fino al giorno del rogito notarile. Pensiamo che il mercato immobiliare in questo periodo abbia bisogno di professionisti qualificati, esperti, motivati e dinamici, inoltre i nostri consulenti finanziari sono disponibili su appuntamento presso il nostro ufficio per consulenze creditizie completamente gratuite e senza impegno .Se fosse interessato ad una valutazione gratuita del suo immobile siamo a sua completa disposizione! Le ricordiamo inoltre che la nostra struttura offre consulenze di mutuo gratuite."
+        },
+        "last_update": "Annuncio aggiornato il 12/10/2024"
     },
     "detailed_features": {
         "Generale": {

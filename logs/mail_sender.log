@@ -6733,3 +6733,957 @@
 2024-11-03 17:43:02,413 - logging_setup - WARNING - https://www.casa.it/immobili/49923416/ is either nuda proprietà, has soppalco or is an auction
 2024-11-03 17:43:02,419 - logging_setup - INFO - Concatenating dataframes
 2024-11-03 17:43:02,741 - logging_setup - INFO - Exported combined listings to Excel
+2024-11-03 18:19:01,984 - logging_setup - INFO - Getting driver
+2024-11-03 18:19:13,112 - logging_setup - INFO - Getting Immo Scraper
+2024-11-03 18:19:13,119 - logging_setup - INFO - Getting Casa Scraper
+2024-11-03 18:19:13,119 - logging_setup - INFO - Getting Immo listings
+2024-11-03 18:19:13,119 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-03 18:19:16,390 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-03 18:19:17,410 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-03 18:19:18,638 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-03 18:19:19,996 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-03 18:19:21,215 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-03 18:19:22,013 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-03 18:19:22,014 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109382821/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,015 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115104443/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,015 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111126337/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,016 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115573049/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,016 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114230087/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,016 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,017 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112971349/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,017 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113331423/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,017 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114456163/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,017 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,017 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112564737/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,018 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,018 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110130753/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,018 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114268167/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,019 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113066197/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,019 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115761095/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,019 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110885209/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,020 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114604669/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,020 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113416711/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,021 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114970559/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,021 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115602613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,021 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112330843/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,022 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112751187/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,022 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114530483/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,022 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109176157/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,023 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115136729/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,024 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114258879/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,024 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114430739/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,024 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115385649/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,025 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114432479/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,025 - logging_setup - WARNING - https://www.immobiliare.it/annunci/108707291/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,025 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115511785/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,025 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115747377/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,026 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113388095/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,026 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115563463/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,026 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114411147/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,027 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114431663/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,027 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115250743/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,028 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115540905/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,028 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115498897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,028 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115550891/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,028 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114548697/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,029 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114763661/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,029 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114814163/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,029 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113416711/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,029 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113029963/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,030 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114900347/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,030 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112564737/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,030 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115678809/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,031 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114517537/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,031 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,031 - logging_setup - WARNING - https://www.immobiliare.it/annunci/103764852/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,032 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115520271/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,032 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110997025/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,032 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114993019/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,033 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115162891/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,033 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115449357/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,034 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,034 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112287259/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,035 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112074993/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,035 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,036 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110404527/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,036 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114790723/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,037 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115377893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,037 - logging_setup - WARNING - https://www.immobiliare.it/annunci/90752467/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,037 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115548351/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,038 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111815949/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,038 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113707549/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,038 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112912133/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,039 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114082991/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,039 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112891613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,039 - logging_setup - WARNING - https://www.immobiliare.it/annunci/104575081/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,039 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112540391/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,039 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113027595/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 18:19:22,040 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110130753/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,040 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,040 - logging_setup - WARNING - https://www.immobiliare.it/annunci/107378029/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,041 - logging_setup - WARNING - https://www.immobiliare.it/annunci/103547130/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,041 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112314641/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,041 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114463067/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,041 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115540905/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,042 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115698971/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,042 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115229615/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,043 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114714283/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,043 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114795289/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,043 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112666755/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,044 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114258879/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,044 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115505819/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,044 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112257519/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,045 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113575613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,045 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115632727/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,045 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,046 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,046 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114939523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,047 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115509361/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,047 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110689657/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,047 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114923181/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,048 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114579437/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,048 - logging_setup - WARNING - https://www.immobiliare.it/annunci/107035573/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,048 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114575369/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,049 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115518619/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,049 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295135/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,049 - logging_setup - WARNING - https://www.immobiliare.it/annunci/108966661/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,049 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112546007/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,050 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,050 - logging_setup - WARNING - https://www.immobiliare.it/annunci/91677044/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,050 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115213643/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,051 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112287259/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,051 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114590705/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,052 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110054081/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,053 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112237951/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,053 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114960935/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,054 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114923181/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,054 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110850037/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,054 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114409577/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,055 - logging_setup - WARNING - https://www.immobiliare.it/annunci/98701354/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,055 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115385649/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,055 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115227773/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,056 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115785861/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,056 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114590705/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,056 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114960935/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,057 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,057 - logging_setup - WARNING - https://www.immobiliare.it/annunci/94291126/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,058 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113165505/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,058 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115774017/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,058 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112914637/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,058 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113575613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,059 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,059 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114790723/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,059 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113708537/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,060 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114776341/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,060 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111832365/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,060 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114430739/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,061 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115760855/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,061 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,061 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115636803/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,061 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,062 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112242005/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,062 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115209021/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,062 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109715673/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,063 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114672385/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,063 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115108173/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,064 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112314641/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-03 18:19:22,065 - logging_setup - INFO - Getting Casa listings
+2024-11-03 18:19:22,065 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-03 18:19:23,678 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 18:19:23,689 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-03 18:19:24,976 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 18:19:24,995 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-03 18:19:26,069 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-03 18:19:26,071 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-03 18:19:26,072 - logging_setup - WARNING - https://www.casa.it/immobili/48997206/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 18:19:26,073 - logging_setup - WARNING - https://www.casa.it/immobili/49471912/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 18:19:26,074 - logging_setup - WARNING - https://www.casa.it/immobili/49551954/ is either nuda proprietà, has soppalco or is an auction
+2024-11-03 18:19:26,076 - logging_setup - WARNING - https://www.casa.it/immobili/49923416/ is either nuda proprietà, has soppalco or is an auction
+2024-11-04 18:19:02,232 - logging_setup - INFO - Getting driver
+2024-11-04 18:19:12,201 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 18:19:12,202 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 18:19:12,202 - logging_setup - INFO - Getting Immo listings
+2024-11-04 18:19:12,202 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 18:19:43,904 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115837721/ [6/25 listings on page 1]
+2024-11-04 18:19:47,638 - logging_setup - INFO - No cookies consent button found
+2024-11-04 18:19:49,760 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115837721 to listings/immobiliare-115837721.json
+2024-11-04 18:19:49,761 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 18:19:50,710 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115850741/ [6/25 listings on page 2]
+2024-11-04 18:19:54,230 - logging_setup - INFO - No cookies consent button found
+2024-11-04 18:19:56,272 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115850741 to listings/immobiliare-115850741.json
+2024-11-04 18:19:56,273 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 18:19:57,214 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 18:19:58,227 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115843689/ [7/25 listings on page 4]
+2024-11-04 18:20:01,760 - logging_setup - INFO - No cookies consent button found
+2024-11-04 18:20:03,787 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115843689 to listings/immobiliare-115843689.json
+2024-11-04 18:20:03,790 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 18:20:04,723 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 18:20:05,497 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 18:20:05,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109382821/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,499 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115104443/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111126337/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,500 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115573049/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,501 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114230087/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112971349/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113331423/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,502 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114456163/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,503 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,503 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112564737/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,503 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,503 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110130753/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,504 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114268167/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,504 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113066197/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,504 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115761095/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,504 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110885209/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,505 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114604669/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,506 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113416711/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,506 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114970559/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,506 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115602613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,507 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112330843/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,507 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112751187/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,508 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114530483/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,508 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109176157/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,509 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115837721/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,509 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115136729/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,510 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114258879/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,510 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114430739/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,511 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115385649/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,511 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114432479/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,512 - logging_setup - WARNING - https://www.immobiliare.it/annunci/108707291/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,512 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115511785/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,512 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115747377/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,512 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113388095/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,512 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115563463/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,513 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114411147/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,513 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114431663/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,513 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115250743/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,514 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115540905/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,514 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115498897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,514 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115550891/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,514 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114548697/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,515 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114763661/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,515 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114814163/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,515 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113416711/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,515 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113029963/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,515 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114900347/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,516 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112564737/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,516 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115678809/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,517 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114517537/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,517 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,517 - logging_setup - WARNING - https://www.immobiliare.it/annunci/103764852/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,518 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115520271/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,518 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110997025/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,518 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114993019/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,518 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115162891/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,519 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115449357/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,519 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,520 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112287259/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,520 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112074993/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,521 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,521 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110404527/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,521 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114790723/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,522 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115377893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,522 - logging_setup - WARNING - https://www.immobiliare.it/annunci/90752467/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,522 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115548351/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,523 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111815949/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,523 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113707549/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,523 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112912133/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,523 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114082991/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,524 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112891613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,524 - logging_setup - WARNING - https://www.immobiliare.it/annunci/104575081/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,524 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112540391/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,524 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113027595/ is either nuda proprietà, has soppalco or is an auction
+2024-11-04 18:20:05,525 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110130753/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,525 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,525 - logging_setup - WARNING - https://www.immobiliare.it/annunci/107378029/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,525 - logging_setup - WARNING - https://www.immobiliare.it/annunci/103547130/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,526 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112314641/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,526 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114463067/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,526 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115540905/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,527 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115698971/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,527 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115229615/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,527 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114714283/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,527 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114795289/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,527 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115850741/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,528 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112666755/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,528 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114258879/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,528 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115505819/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,529 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112257519/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,529 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113575613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,529 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115632727/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,529 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,530 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,530 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114939523/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,531 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115509361/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,531 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110689657/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,531 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114923181/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,532 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114579437/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,532 - logging_setup - WARNING - https://www.immobiliare.it/annunci/107035573/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,532 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114575369/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,532 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115518619/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,532 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114295135/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,533 - logging_setup - WARNING - https://www.immobiliare.it/annunci/108966661/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,533 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112546007/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,533 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115843689/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,533 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109331893/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,533 - logging_setup - WARNING - https://www.immobiliare.it/annunci/91677044/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,533 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115213643/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,534 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112287259/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,534 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114590705/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,535 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110054081/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,535 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112237951/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,536 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114960935/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,537 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114923181/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,537 - logging_setup - WARNING - https://www.immobiliare.it/annunci/110850037/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,537 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114409577/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,538 - logging_setup - WARNING - https://www.immobiliare.it/annunci/98701354/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,538 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115385649/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,538 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115227773/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,538 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115785861/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,539 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114590705/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,539 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114960935/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,539 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113056909/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,540 - logging_setup - WARNING - https://www.immobiliare.it/annunci/94291126/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,540 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113165505/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,541 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115774017/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,541 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112914637/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,541 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113575613/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,541 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115434897/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,542 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114790723/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,542 - logging_setup - WARNING - https://www.immobiliare.it/annunci/113708537/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,542 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114776341/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,542 - logging_setup - WARNING - https://www.immobiliare.it/annunci/111832365/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,543 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114430739/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,543 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115760855/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,544 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,544 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115636803/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,544 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114679795/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,544 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112242005/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,545 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115209021/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,545 - logging_setup - WARNING - https://www.immobiliare.it/annunci/109715673/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,545 - logging_setup - WARNING - https://www.immobiliare.it/annunci/114672385/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,545 - logging_setup - WARNING - https://www.immobiliare.it/annunci/115108173/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,546 - logging_setup - WARNING - https://www.immobiliare.it/annunci/112314641/ is either not libero, da ristrutturare, piano <= 1 or no balcone
+2024-11-04 18:20:05,546 - logging_setup - INFO - Getting Casa listings
+2024-11-04 18:20:05,546 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 18:20:07,101 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 18:20:07,115 - logging_setup - INFO - Scraping listing data for https://www.casa.it/immobili/50189134/ [5/20 listings on page 1]
+2024-11-04 18:20:07,643 - logging_setup - INFO - Failed to extract main info: 'NoneType' object has no attribute 'text'
+2024-11-04 18:37:22,995 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 18:37:24,841 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 18:37:34,022 - logging_setup - INFO - Scraping listing data for https://www.casa.it/immobili/50189134/ [5/20 listings on page 1]
+2024-11-04 18:37:34,678 - logging_setup - INFO - 	Saved listing data for CasaScraper-50189134 to listings/casa-50189134.json
+2024-11-04 18:37:34,680 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 18:37:36,082 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 18:37:39,964 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 18:37:41,205 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 18:37:41,207 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 18:37:41,210 - logging_setup - WARNING - https://www.casa.it/immobili/48997206/ is either nuda proprietà, has soppalco or is an auction
+2024-11-04 18:37:41,212 - logging_setup - WARNING - https://www.casa.it/immobili/49471912/ is either nuda proprietà, has soppalco or is an auction
+2024-11-04 18:37:41,213 - logging_setup - WARNING - https://www.casa.it/immobili/49551954/ is either nuda proprietà, has soppalco or is an auction
+2024-11-04 18:37:41,216 - logging_setup - WARNING - https://www.casa.it/immobili/49923416/ is either nuda proprietà, has soppalco or is an auction
+2024-11-04 19:00:02,246 - logging_setup - INFO - Refreshing FF fake profile
+2024-11-04 19:14:32,689 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:15:53,871 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 19:15:56,075 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 19:15:56,120 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 19:15:57,424 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 19:15:57,453 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 19:15:58,506 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 19:15:58,508 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 19:18:12,591 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:18:24,680 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:18:24,724 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 19:18:24,830 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 19:18:40,221 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 19:20:01,742 - logging_setup - INFO - Refreshing FF fake profile
+2024-11-04 19:20:01,745 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:20:01,789 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 19:20:01,824 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 19:20:05,149 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 19:20:05,377 - logging_setup - INFO - Getting driver
+2024-11-04 19:21:06,796 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 19:21:06,799 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 19:21:06,799 - logging_setup - INFO - Getting Immo listings
+2024-11-04 19:21:06,799 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 19:21:08,209 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 19:21:08,258 - logging_setup - INFO - Getting Casa listings
+2024-11-04 19:21:08,258 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 19:21:09,620 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 19:21:09,637 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 19:21:10,717 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 19:21:10,727 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 19:21:11,933 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 19:21:11,935 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 19:39:05,401 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:39:05,546 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 19:39:05,627 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 19:39:20,233 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 19:41:47,174 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-04 19:41:47,185 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:41:47,374 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 19:41:47,484 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 19:42:03,816 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 19:42:06,965 - logging_setup - INFO - Getting driver
+2024-11-04 19:43:28,067 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 19:44:07,227 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114679795/ [1/25 listings on page 1]
+2024-11-04 19:44:10,736 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:12,802 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114679795 to listings/immobiliare-114679795.json
+2024-11-04 19:44:12,802 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113056909/ [2/25 listings on page 1]
+2024-11-04 19:44:16,308 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:18,360 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113056909 to listings/immobiliare-113056909.json
+2024-11-04 19:44:18,361 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114295523/ [3/25 listings on page 1]
+2024-11-04 19:44:21,847 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:23,884 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114295523 to listings/immobiliare-114295523.json
+2024-11-04 19:44:23,885 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115434897/ [4/25 listings on page 1]
+2024-11-04 19:44:27,431 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:29,494 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:44:29,495 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115434897 to listings/immobiliare-115434897.json
+2024-11-04 19:44:29,496 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/109331893/ [5/25 listings on page 1]
+2024-11-04 19:44:32,953 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:34,995 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:44:34,996 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-109331893 to listings/immobiliare-109331893.json
+2024-11-04 19:44:34,997 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115837721/ [6/25 listings on page 1]
+2024-11-04 19:44:38,719 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:40,771 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115837721 to listings/immobiliare-115837721.json
+2024-11-04 19:44:40,771 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112287259/ [7/25 listings on page 1]
+2024-11-04 19:44:44,264 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:46,346 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112287259 to listings/immobiliare-112287259.json
+2024-11-04 19:44:46,346 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112546007/ [8/25 listings on page 1]
+2024-11-04 19:44:49,821 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:51,849 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112546007 to listings/immobiliare-112546007.json
+2024-11-04 19:44:51,850 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114579437/ [9/25 listings on page 1]
+2024-11-04 19:44:55,324 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:44:57,295 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:44:57,300 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:44:57,306 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114579437 to listings/immobiliare-114579437.json
+2024-11-04 19:44:57,306 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115540905/ [10/25 listings on page 1]
+2024-11-04 19:45:00,787 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:02,725 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115540905 to listings/immobiliare-115540905.json
+2024-11-04 19:45:02,725 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113575613/ [11/25 listings on page 1]
+2024-11-04 19:45:06,184 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:08,185 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:45:08,189 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113575613 to listings/immobiliare-113575613.json
+2024-11-04 19:45:08,190 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114960935/ [12/25 listings on page 1]
+2024-11-04 19:45:11,717 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:13,730 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114960935 to listings/immobiliare-114960935.json
+2024-11-04 19:45:13,730 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114587623/ [13/25 listings on page 1]
+2024-11-04 19:45:17,239 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:19,247 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114587623 to listings/immobiliare-114587623.json
+2024-11-04 19:45:19,247 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114430739/ [14/25 listings on page 1]
+2024-11-04 19:45:22,732 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:24,715 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:45:24,716 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114430739 to listings/immobiliare-114430739.json
+2024-11-04 19:45:24,717 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115299739/ [15/25 listings on page 1]
+2024-11-04 19:45:28,297 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:30,315 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115299739 to listings/immobiliare-115299739.json
+2024-11-04 19:45:30,316 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114548697/ [16/25 listings on page 1]
+2024-11-04 19:45:33,832 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:35,923 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:45:35,928 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114548697 to listings/immobiliare-114548697.json
+2024-11-04 19:45:35,928 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114624969/ [17/25 listings on page 1]
+2024-11-04 19:45:39,488 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:41,562 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:45:41,563 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114624969 to listings/immobiliare-114624969.json
+2024-11-04 19:45:41,563 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115523061/ [18/25 listings on page 1]
+2024-11-04 19:45:45,095 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:47,133 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:45:47,134 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115523061 to listings/immobiliare-115523061.json
+2024-11-04 19:45:47,134 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112802197/ [19/25 listings on page 1]
+2024-11-04 19:45:50,656 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:52,748 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:45:52,750 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112802197 to listings/immobiliare-112802197.json
+2024-11-04 19:45:52,750 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115761095/ [20/25 listings on page 1]
+2024-11-04 19:45:56,232 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:45:58,275 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115761095 to listings/immobiliare-115761095.json
+2024-11-04 19:45:58,275 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113066197/ [21/25 listings on page 1]
+2024-11-04 19:46:01,804 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:46:03,883 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113066197 to listings/immobiliare-113066197.json
+2024-11-04 19:46:03,884 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114814163/ [22/25 listings on page 1]
+2024-11-04 19:46:07,328 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:46:09,352 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114814163 to listings/immobiliare-114814163.json
+2024-11-04 19:46:09,352 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112103337/ [23/25 listings on page 1]
+2024-11-04 19:46:12,872 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:46:14,969 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112103337 to listings/immobiliare-112103337.json
+2024-11-04 19:46:14,969 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113331423/ [24/25 listings on page 1]
+2024-11-04 19:46:18,506 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:46:20,626 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113331423 to listings/immobiliare-113331423.json
+2024-11-04 19:46:20,626 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112178865/ [25/25 listings on page 1]
+2024-11-04 19:46:24,136 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:46:26,180 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112178865 to listings/immobiliare-112178865.json
+2024-11-04 19:46:26,180 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 19:47:34,600 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114970559/ [1/25 listings on page 2]
+2024-11-04 19:47:38,130 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:47:40,161 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114970559 to listings/immobiliare-114970559.json
+2024-11-04 19:47:40,162 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/111126337/ [2/25 listings on page 2]
+2024-11-04 19:47:43,668 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:47:45,800 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-111126337 to listings/immobiliare-111126337.json
+2024-11-04 19:47:45,801 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115760855/ [3/25 listings on page 2]
+2024-11-04 19:47:49,336 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:47:51,295 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115760855 to listings/immobiliare-115760855.json
+2024-11-04 19:47:51,296 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115316135/ [4/25 listings on page 2]
+2024-11-04 19:47:54,709 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:47:56,703 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115316135 to listings/immobiliare-115316135.json
+2024-11-04 19:47:56,703 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114922991/ [5/25 listings on page 2]
+2024-11-04 19:48:00,307 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:02,412 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114922991 to listings/immobiliare-114922991.json
+2024-11-04 19:48:02,412 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114790723/ [6/25 listings on page 2]
+2024-11-04 19:48:05,822 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:07,876 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114790723 to listings/immobiliare-114790723.json
+2024-11-04 19:48:07,876 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115850741/ [7/25 listings on page 2]
+2024-11-04 19:48:11,347 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:13,390 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115850741 to listings/immobiliare-115850741.json
+2024-11-04 19:48:13,391 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115377893/ [8/25 listings on page 2]
+2024-11-04 19:48:16,747 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:18,719 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115377893 to listings/immobiliare-115377893.json
+2024-11-04 19:48:18,719 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115478605/ [9/25 listings on page 2]
+2024-11-04 19:48:22,162 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:24,183 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115478605 to listings/immobiliare-115478605.json
+2024-11-04 19:48:24,184 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113029963/ [10/25 listings on page 2]
+2024-11-04 19:48:27,516 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:29,518 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113029963 to listings/immobiliare-113029963.json
+2024-11-04 19:48:29,518 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114903973/ [11/25 listings on page 2]
+2024-11-04 19:48:32,923 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:35,050 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114903973 to listings/immobiliare-114903973.json
+2024-11-04 19:48:35,051 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115678809/ [12/25 listings on page 2]
+2024-11-04 19:48:38,463 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:40,506 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115678809 to listings/immobiliare-115678809.json
+2024-11-04 19:48:40,506 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115601341/ [13/25 listings on page 2]
+2024-11-04 19:48:43,923 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:45,943 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115601341 to listings/immobiliare-115601341.json
+2024-11-04 19:48:45,943 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113388095/ [14/25 listings on page 2]
+2024-11-04 19:48:49,401 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:51,414 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113388095 to listings/immobiliare-113388095.json
+2024-11-04 19:48:51,415 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114795289/ [15/25 listings on page 2]
+2024-11-04 19:48:54,784 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:48:56,753 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:48:56,758 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114795289 to listings/immobiliare-114795289.json
+2024-11-04 19:48:56,758 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115229615/ [16/25 listings on page 2]
+2024-11-04 19:49:00,168 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:02,225 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115229615 to listings/immobiliare-115229615.json
+2024-11-04 19:49:02,226 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113248879/ [17/25 listings on page 2]
+2024-11-04 19:49:05,766 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:07,849 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113248879 to listings/immobiliare-113248879.json
+2024-11-04 19:49:07,850 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114428775/ [18/25 listings on page 2]
+2024-11-04 19:49:11,212 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:13,202 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114428775 to listings/immobiliare-114428775.json
+2024-11-04 19:49:13,202 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115602613/ [19/25 listings on page 2]
+2024-11-04 19:49:16,666 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:18,725 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115602613 to listings/immobiliare-115602613.json
+2024-11-04 19:49:18,726 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115565267/ [20/25 listings on page 2]
+2024-11-04 19:49:22,165 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:24,203 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115565267 to listings/immobiliare-115565267.json
+2024-11-04 19:49:24,204 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115374045/ [21/25 listings on page 2]
+2024-11-04 19:49:27,624 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:29,686 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115374045 to listings/immobiliare-115374045.json
+2024-11-04 19:49:29,687 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112599611/ [22/25 listings on page 2]
+2024-11-04 19:49:33,138 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:35,243 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112599611 to listings/immobiliare-112599611.json
+2024-11-04 19:49:35,244 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112330843/ [23/25 listings on page 2]
+2024-11-04 19:49:38,716 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:40,731 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:49:40,738 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:49:40,743 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112330843 to listings/immobiliare-112330843.json
+2024-11-04 19:49:40,744 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/110689657/ [24/25 listings on page 2]
+2024-11-04 19:49:44,161 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:46,181 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:49:46,186 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 19:49:46,190 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-110689657 to listings/immobiliare-110689657.json
+2024-11-04 19:49:46,190 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115777119/ [25/25 listings on page 2]
+2024-11-04 19:49:49,615 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:49:51,683 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115777119 to listings/immobiliare-115777119.json
+2024-11-04 19:49:51,684 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 19:49:52,402 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 19:51:03,134 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-04 19:51:03,140 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:51:03,312 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 19:51:03,408 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 19:51:18,415 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 19:51:25,227 - logging_setup - INFO - Getting driver
+2024-11-04 19:52:28,666 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 19:52:44,578 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-04 19:52:44,589 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 19:52:44,777 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 19:52:44,884 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 19:53:00,781 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 19:53:01,188 - logging_setup - INFO - Getting driver
+2024-11-04 19:54:03,205 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 19:54:10,752 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 19:54:16,301 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 19:54:29,686 - logging_setup - INFO - Getting driver
+2024-11-04 19:55:40,634 - logging_setup - INFO - Getting driver
+2024-11-04 19:56:50,611 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 19:57:01,453 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 19:57:08,231 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 19:57:25,938 - logging_setup - INFO - Getting driver
+2024-11-04 19:58:37,595 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 19:58:56,671 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 19:59:27,230 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 19:59:51,197 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112876587/ [1/25 listings on page 3]
+2024-11-04 19:59:54,828 - logging_setup - INFO - No cookies consent button found
+2024-11-04 19:59:56,885 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112876587 to listings/immobiliare-112876587.json
+2024-11-04 19:59:56,886 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/110850037/ [2/25 listings on page 3]
+2024-11-04 20:00:00,396 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:02,400 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-110850037 to listings/immobiliare-110850037.json
+2024-11-04 20:00:02,401 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115509361/ [3/25 listings on page 3]
+2024-11-04 20:00:06,017 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:08,045 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115509361 to listings/immobiliare-115509361.json
+2024-11-04 20:00:08,046 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115518619/ [4/25 listings on page 3]
+2024-11-04 20:00:12,028 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:14,010 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:00:14,012 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115518619 to listings/immobiliare-115518619.json
+2024-11-04 20:00:14,012 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112074993/ [5/25 listings on page 3]
+2024-11-04 20:00:17,584 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:19,655 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112074993 to listings/immobiliare-112074993.json
+2024-11-04 20:00:19,655 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114989645/ [6/25 listings on page 3]
+2024-11-04 20:00:23,289 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:25,358 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114989645 to listings/immobiliare-114989645.json
+2024-11-04 20:00:25,359 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114230087/ [7/25 listings on page 3]
+2024-11-04 20:00:28,880 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:30,877 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114230087 to listings/immobiliare-114230087.json
+2024-11-04 20:00:30,877 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115633903/ [8/25 listings on page 3]
+2024-11-04 20:00:34,341 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:36,310 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115633903 to listings/immobiliare-115633903.json
+2024-11-04 20:00:36,311 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114268167/ [9/25 listings on page 3]
+2024-11-04 20:00:39,888 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:41,949 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114268167 to listings/immobiliare-114268167.json
+2024-11-04 20:00:41,950 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115563463/ [10/25 listings on page 3]
+2024-11-04 20:00:45,341 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:47,335 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115563463 to listings/immobiliare-115563463.json
+2024-11-04 20:00:47,335 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/90752467/ [11/25 listings on page 3]
+2024-11-04 20:00:50,721 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:52,770 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-90752467 to listings/immobiliare-90752467.json
+2024-11-04 20:00:52,770 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115747377/ [12/25 listings on page 3]
+2024-11-04 20:00:56,192 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:00:58,204 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115747377 to listings/immobiliare-115747377.json
+2024-11-04 20:00:58,204 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/110997025/ [13/25 listings on page 3]
+2024-11-04 20:01:01,688 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:03,732 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-110997025 to listings/immobiliare-110997025.json
+2024-11-04 20:01:03,732 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115774017/ [14/25 listings on page 3]
+2024-11-04 20:01:07,188 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:09,245 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115774017 to listings/immobiliare-115774017.json
+2024-11-04 20:01:09,245 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/108767853/ [15/25 listings on page 3]
+2024-11-04 20:01:12,685 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:14,733 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-108767853 to listings/immobiliare-108767853.json
+2024-11-04 20:01:14,733 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114776341/ [16/25 listings on page 3]
+2024-11-04 20:01:18,280 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:20,219 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114776341 to listings/immobiliare-114776341.json
+2024-11-04 20:01:20,219 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/110885209/ [17/25 listings on page 3]
+2024-11-04 20:01:23,683 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:25,738 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:01:25,743 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:01:25,748 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-110885209 to listings/immobiliare-110885209.json
+2024-11-04 20:01:25,749 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112912133/ [18/25 listings on page 3]
+2024-11-04 20:01:29,255 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:31,295 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:01:31,300 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:01:31,304 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112912133 to listings/immobiliare-112912133.json
+2024-11-04 20:01:31,305 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114796967/ [19/25 listings on page 3]
+2024-11-04 20:01:34,764 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:36,816 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:01:36,820 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114796967 to listings/immobiliare-114796967.json
+2024-11-04 20:01:36,821 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114842389/ [20/25 listings on page 3]
+2024-11-04 20:01:40,267 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:42,271 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114842389 to listings/immobiliare-114842389.json
+2024-11-04 20:01:42,272 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115785861/ [21/25 listings on page 3]
+2024-11-04 20:01:45,784 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:47,821 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115785861 to listings/immobiliare-115785861.json
+2024-11-04 20:01:47,821 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114552479/ [22/25 listings on page 3]
+2024-11-04 20:01:51,351 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:53,383 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114552479 to listings/immobiliare-114552479.json
+2024-11-04 20:01:53,383 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114900347/ [23/25 listings on page 3]
+2024-11-04 20:01:56,854 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:01:58,930 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114900347 to listings/immobiliare-114900347.json
+2024-11-04 20:01:58,930 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115108173/ [24/25 listings on page 3]
+2024-11-04 20:02:02,448 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:02:04,551 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:02:04,552 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115108173 to listings/immobiliare-115108173.json
+2024-11-04 20:02:04,552 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115344553/ [25/25 listings on page 3]
+2024-11-04 20:02:08,420 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:02:10,413 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115344553 to listings/immobiliare-115344553.json
+2024-11-04 20:02:13,895 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:02:48,934 - logging_setup - INFO - Getting driver
+2024-11-04 20:03:59,321 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 20:04:02,206 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 20:04:04,188 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 20:04:05,881 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:04:07,591 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/108966661/ [1/25 listings on page 4]
+2024-11-04 20:04:11,379 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:13,420 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-108966661 to listings/immobiliare-108966661.json
+2024-11-04 20:04:13,420 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115104443/ [2/25 listings on page 4]
+2024-11-04 20:04:16,919 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:19,125 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115104443 to listings/immobiliare-115104443.json
+2024-11-04 20:04:19,126 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115498897/ [3/25 listings on page 4]
+2024-11-04 20:04:22,680 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:24,831 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:04:24,832 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115498897 to listings/immobiliare-115498897.json
+2024-11-04 20:04:24,833 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/103764852/ [4/25 listings on page 4]
+2024-11-04 20:04:28,443 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:30,546 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-103764852 to listings/immobiliare-103764852.json
+2024-11-04 20:04:30,547 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114456163/ [5/25 listings on page 4]
+2024-11-04 20:04:34,468 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:36,495 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:04:36,496 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114456163 to listings/immobiliare-114456163.json
+2024-11-04 20:04:36,496 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/102932016/ [6/25 listings on page 4]
+2024-11-04 20:04:40,037 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:42,129 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-102932016 to listings/immobiliare-102932016.json
+2024-11-04 20:04:42,130 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115511785/ [7/25 listings on page 4]
+2024-11-04 20:04:46,039 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:48,158 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:04:48,159 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115511785 to listings/immobiliare-115511785.json
+2024-11-04 20:04:48,160 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115607381/ [8/25 listings on page 4]
+2024-11-04 20:04:52,103 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:54,213 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:04:54,214 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115607381 to listings/immobiliare-115607381.json
+2024-11-04 20:04:54,215 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115698971/ [9/25 listings on page 4]
+2024-11-04 20:04:57,924 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:04:59,888 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115698971 to listings/immobiliare-115698971.json
+2024-11-04 20:04:59,888 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115573049/ [10/25 listings on page 4]
+2024-11-04 20:05:03,511 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:05,534 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:05:05,535 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115573049 to listings/immobiliare-115573049.json
+2024-11-04 20:05:05,536 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115843689/ [11/25 listings on page 4]
+2024-11-04 20:05:09,783 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:11,801 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115843689 to listings/immobiliare-115843689.json
+2024-11-04 20:05:11,801 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112666755/ [12/25 listings on page 4]
+2024-11-04 20:05:15,215 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:17,229 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112666755 to listings/immobiliare-112666755.json
+2024-11-04 20:05:17,229 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112540391/ [13/25 listings on page 4]
+2024-11-04 20:05:20,780 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:22,876 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112540391 to listings/immobiliare-112540391.json
+2024-11-04 20:05:22,877 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114248389/ [14/25 listings on page 4]
+2024-11-04 20:05:26,420 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:28,449 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:05:28,459 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114248389 to listings/immobiliare-114248389.json
+2024-11-04 20:05:28,460 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114432479/ [15/25 listings on page 4]
+2024-11-04 20:05:32,091 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:34,165 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:05:34,166 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114432479 to listings/immobiliare-114432479.json
+2024-11-04 20:05:34,167 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113708537/ [16/25 listings on page 4]
+2024-11-04 20:05:37,703 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:39,777 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113708537 to listings/immobiliare-113708537.json
+2024-11-04 20:05:39,777 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114374453/ [17/25 listings on page 4]
+2024-11-04 20:05:43,285 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:45,314 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114374453 to listings/immobiliare-114374453.json
+2024-11-04 20:05:45,315 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115209021/ [18/25 listings on page 4]
+2024-11-04 20:05:48,791 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:50,800 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:05:50,801 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115209021 to listings/immobiliare-115209021.json
+2024-11-04 20:05:50,802 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114463067/ [19/25 listings on page 4]
+2024-11-04 20:05:54,344 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:05:56,426 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114463067 to listings/immobiliare-114463067.json
+2024-11-04 20:05:56,426 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112751187/ [20/25 listings on page 4]
+2024-11-04 20:05:59,896 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:01,949 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112751187 to listings/immobiliare-112751187.json
+2024-11-04 20:06:01,949 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114575369/ [21/25 listings on page 4]
+2024-11-04 20:06:05,523 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:07,556 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:06:07,557 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114575369 to listings/immobiliare-114575369.json
+2024-11-04 20:06:07,558 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115632727/ [22/25 listings on page 4]
+2024-11-04 20:06:11,141 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:13,198 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115632727 to listings/immobiliare-115632727.json
+2024-11-04 20:06:13,199 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/113711453/ [23/25 listings on page 4]
+2024-11-04 20:06:16,631 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:18,651 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-113711453 to listings/immobiliare-113711453.json
+2024-11-04 20:06:18,652 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/108707291/ [24/25 listings on page 4]
+2024-11-04 20:06:22,168 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:24,222 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-108707291 to listings/immobiliare-108707291.json
+2024-11-04 20:06:24,222 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114295135/ [25/25 listings on page 4]
+2024-11-04 20:06:27,793 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:29,752 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114295135 to listings/immobiliare-114295135.json
+2024-11-04 20:06:29,752 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 20:06:31,446 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114763661/ [1/25 listings on page 5]
+2024-11-04 20:06:34,878 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:36,871 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:06:36,875 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:06:36,876 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114763661 to listings/immobiliare-114763661.json
+2024-11-04 20:06:36,877 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/109715673/ [2/25 listings on page 5]
+2024-11-04 20:06:40,426 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:42,511 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-109715673 to listings/immobiliare-109715673.json
+2024-11-04 20:06:42,513 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/109767941/ [3/25 listings on page 5]
+2024-11-04 20:06:46,031 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:48,118 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-109767941 to listings/immobiliare-109767941.json
+2024-11-04 20:06:48,119 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112891613/ [4/25 listings on page 5]
+2024-11-04 20:06:51,568 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:53,595 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:06:53,599 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112891613 to listings/immobiliare-112891613.json
+2024-11-04 20:06:53,599 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112971349/ [5/25 listings on page 5]
+2024-11-04 20:06:57,084 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:06:59,158 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112971349 to listings/immobiliare-112971349.json
+2024-11-04 20:06:59,158 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/110404527/ [6/25 listings on page 5]
+2024-11-04 20:07:02,652 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:04,640 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-110404527 to listings/immobiliare-110404527.json
+2024-11-04 20:07:04,640 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112719875/ [7/25 listings on page 5]
+2024-11-04 20:07:08,131 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:10,164 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112719875 to listings/immobiliare-112719875.json
+2024-11-04 20:07:10,165 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/92642944/ [8/25 listings on page 5]
+2024-11-04 20:07:13,639 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:15,631 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-92642944 to listings/immobiliare-92642944.json
+2024-11-04 20:07:15,631 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115548351/ [9/25 listings on page 5]
+2024-11-04 20:07:19,165 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:21,277 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115548351 to listings/immobiliare-115548351.json
+2024-11-04 20:07:21,277 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/103547130/ [10/25 listings on page 5]
+2024-11-04 20:07:24,741 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:26,795 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-103547130 to listings/immobiliare-103547130.json
+2024-11-04 20:07:26,795 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115550891/ [11/25 listings on page 5]
+2024-11-04 20:07:30,263 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:32,214 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:07:32,218 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115550891 to listings/immobiliare-115550891.json
+2024-11-04 20:07:32,219 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115412867/ [12/25 listings on page 5]
+2024-11-04 20:07:35,644 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:37,676 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115412867 to listings/immobiliare-115412867.json
+2024-11-04 20:07:37,677 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115356239/ [13/25 listings on page 5]
+2024-11-04 20:07:41,124 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:43,185 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:07:43,189 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115356239 to listings/immobiliare-115356239.json
+2024-11-04 20:07:43,190 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114517537/ [14/25 listings on page 5]
+2024-11-04 20:07:46,673 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:48,587 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114517537 to listings/immobiliare-114517537.json
+2024-11-04 20:07:48,588 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114993019/ [15/25 listings on page 5]
+2024-11-04 20:07:52,057 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:54,064 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:07:54,065 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114993019 to listings/immobiliare-114993019.json
+2024-11-04 20:07:54,066 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115449357/ [16/25 listings on page 5]
+2024-11-04 20:07:57,619 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:07:59,687 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115449357 to listings/immobiliare-115449357.json
+2024-11-04 20:07:59,688 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115568053/ [17/25 listings on page 5]
+2024-11-04 20:08:03,146 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:05,151 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115568053 to listings/immobiliare-115568053.json
+2024-11-04 20:08:05,152 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112257519/ [18/25 listings on page 5]
+2024-11-04 20:08:08,592 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:10,533 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112257519 to listings/immobiliare-112257519.json
+2024-11-04 20:08:10,533 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115730217/ [19/25 listings on page 5]
+2024-11-04 20:08:14,049 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:15,992 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:15,997 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:15,999 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115730217 to listings/immobiliare-115730217.json
+2024-11-04 20:08:15,999 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115162891/ [20/25 listings on page 5]
+2024-11-04 20:08:19,486 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:21,482 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:21,483 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115162891 to listings/immobiliare-115162891.json
+2024-11-04 20:08:21,484 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115136729/ [21/25 listings on page 5]
+2024-11-04 20:08:25,094 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:27,073 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:27,074 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115136729 to listings/immobiliare-115136729.json
+2024-11-04 20:08:27,074 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115227773/ [22/25 listings on page 5]
+2024-11-04 20:08:30,606 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:32,502 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:32,506 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:32,510 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:08:32,511 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115227773 to listings/immobiliare-115227773.json
+2024-11-04 20:08:32,511 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/114672385/ [23/25 listings on page 5]
+2024-11-04 20:08:35,944 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:37,946 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-114672385 to listings/immobiliare-114672385.json
+2024-11-04 20:08:37,947 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/94291126/ [24/25 listings on page 5]
+2024-11-04 20:08:41,387 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:43,378 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-94291126 to listings/immobiliare-94291126.json
+2024-11-04 20:08:43,379 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/107035573/ [25/25 listings on page 5]
+2024-11-04 20:08:46,882 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:48,887 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-107035573 to listings/immobiliare-107035573.json
+2024-11-04 20:08:48,887 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 20:08:50,534 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/112237951/ [1/4 listings on page 6]
+2024-11-04 20:08:53,959 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:08:55,925 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-112237951 to listings/immobiliare-112237951.json
+2024-11-04 20:08:55,926 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/110725049/ [2/4 listings on page 6]
+2024-11-04 20:08:59,651 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:09:01,631 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-110725049 to listings/immobiliare-110725049.json
+2024-11-04 20:09:01,632 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115024049/ [3/4 listings on page 6]
+2024-11-04 20:09:05,135 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:09:07,148 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115024049 to listings/immobiliare-115024049.json
+2024-11-04 20:09:07,148 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/107378029/ [4/4 listings on page 6]
+2024-11-04 20:09:10,632 - logging_setup - INFO - No cookies consent button found
+2024-11-04 20:09:10,634 - logging_setup - WARNING - 	[!] No detailed features found for https://www.immobiliare.it/annunci/107378029/
+2024-11-04 20:09:10,639 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-04 20:09:10,640 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-107378029 to listings/immobiliare-107378029.json
+2024-11-04 20:09:10,640 - logging_setup - INFO - ImmobiliareScraper - Checking page 7
+2024-11-04 20:09:12,199 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:12:57,448 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-04 20:12:57,455 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 20:12:57,652 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 20:12:57,744 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 20:13:12,213 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 20:13:12,655 - logging_setup - INFO - Getting driver
+2024-11-04 20:14:16,380 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 20:14:16,381 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 20:14:16,381 - logging_setup - INFO - Getting Immo listings
+2024-11-04 20:14:16,381 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 20:14:19,409 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 20:14:21,113 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 20:14:22,848 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:14:24,569 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 20:14:26,268 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 20:14:27,892 - logging_setup - INFO - ImmobiliareScraper - Checking page 7
+2024-11-04 20:14:29,483 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:14:29,507 - logging_setup - INFO - Getting Casa listings
+2024-11-04 20:14:29,508 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 20:14:31,207 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:14:31,240 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 20:14:32,517 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:14:32,545 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 20:14:33,740 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:14:33,743 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:19:10,951 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-04 20:19:10,962 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-04 20:19:11,191 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-04 20:19:11,299 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-04 20:19:27,743 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-04 20:19:28,177 - logging_setup - INFO - Getting driver
+2024-11-04 20:20:01,656 - logging_setup - INFO - Already refreshed for today.
+2024-11-04 20:20:01,656 - logging_setup - INFO - Getting driver
+2024-11-04 20:20:31,159 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 20:20:31,166 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 20:20:31,167 - logging_setup - INFO - Getting Immo listings
+2024-11-04 20:20:31,168 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 20:20:34,134 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 20:20:35,806 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 20:20:37,501 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:20:39,171 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 20:20:40,827 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 20:20:42,386 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:20:42,417 - logging_setup - INFO - Getting Casa listings
+2024-11-04 20:20:42,417 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 20:20:43,881 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:20:43,919 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 20:20:45,047 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:20:45,069 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 20:20:46,111 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:20:46,114 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:21:11,052 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 20:21:11,055 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 20:21:11,055 - logging_setup - INFO - Getting Immo listings
+2024-11-04 20:21:11,055 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 20:21:13,771 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 20:21:15,368 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 20:21:17,027 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:21:18,637 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 20:21:20,209 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 20:21:21,746 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:21:21,767 - logging_setup - INFO - Getting Casa listings
+2024-11-04 20:21:21,767 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 20:21:23,127 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:21:23,138 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 20:21:24,232 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:21:24,239 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 20:21:25,378 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:21:25,380 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:22:33,626 - logging_setup - INFO - Already refreshed for today.
+2024-11-04 20:22:33,626 - logging_setup - INFO - Getting driver
+2024-11-04 20:23:41,676 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 20:23:41,677 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 20:23:41,677 - logging_setup - INFO - Getting Immo listings
+2024-11-04 20:23:41,677 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 20:23:44,316 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 20:23:45,994 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 20:23:47,702 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:23:49,361 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 20:23:51,000 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 20:23:52,574 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:23:52,597 - logging_setup - INFO - Getting Casa listings
+2024-11-04 20:23:52,598 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 20:23:54,055 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:23:54,127 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 20:23:55,339 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:23:55,367 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 20:23:56,397 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:23:56,399 - logging_setup - INFO - No more listings found. Exiting pagination.

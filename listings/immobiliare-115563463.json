@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115563463/",
     "main_info": {
         "title": "Quadrilocale via Bernardo Celentano 9, Sanità, Napoli",
         "location": "",
-        "price": "€ 225.000"
+        "price": "€ 225.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento locato ad. Museo",
+            "text": "Museo, nelle immediate adiacenze di via S. Teresa degli Scalzi, in via Bernardo Celentano, proponiamo in vendita in uno stabile d'epoca un appartamento in ottimo stato interno. L'immobile è posto ad un terzo piano e gode di un'ottima esposizione solare risultando pertanto soleggiato e luminoso per gran parte della giornata. Si compone di ingresso, un ampio e stretto corridoio che accede al soggiorno living con una cucina semi abitabile ed un servizio, un disimpegno divide la zona giorno dalla zona notte dove si trovano due camere da letto con il secondo bagno; E' presente poi una zona soppalcata ( urbanisticamente e catastalmente regolare) con una vano a giorno oltre due spazi adibiti a studiolo e ripostiglio. L'immobile è attualmente locato con un contratto stipulato di recente, con una rendita annua di € 8.800, 00. Prezzo richiesto è di € 225.000, 00. Visitabile previo appuntamento telefonico. Rif. T319."
+        },
+        "last_update": "Annuncio aggiornato il 23/10/2024"
     },
     "detailed_features": {
         "Generale": {

@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-30",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112546007/",
     "main_info": {
         "title": "Attico Vico Verde Monteoliveto 9, Centro Storico, Napoli",
         "location": "",
-        "price": "€ 275.000"
+        "price": "€ 275.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Monteoliveto (Posta Centrale) Vico Verde",
+            "text": "Monteoliveto Via adiacenze Palazzo Gravina (Facoltà di Architettura) di fronte all'edificio della Posta Centrale esattamente in Vico Verde a Monteoliveto Bellacasa vende piano attico senza ascensore (c'è spazio interno scala a partire dal primo piano) affaccio esterno veduta aperta sui tetti della città dal Vesuvio al Castel Sant'Elmo palazzo ristrutturato e ben abitato libero e luminosissimo appartamento composto di ingresso tre vani cucina bagno e terrazzo a livello completamente da ristrutturare oltre al calpestio del terrazzo condominiale prezzo richiesto euro 275.000,00 cle G per info e visite telefonare a: Bellacasa Studio Immobiliare Via Tommaso Caravita, 5   0812525540 Via Giulio Palermo, 23  0815455534"
+        },
+        "last_update": "Annuncio aggiornato il 25/10/2024"
     },
     "detailed_features": {
         "Generale": {

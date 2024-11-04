@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/103764852/",
     "main_info": {
         "title": "Trilocale corso Vittorio Emanuele, Piazza Amedeo - Parco Margherita, Napoli",
         "location": "",
-        "price": "€ 198.000"
+        "price": "€ 198.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Chiaia-Appartamento di 70mq",
+            "text": "Chiaia-Corso Vittorio Emanuele,a pochi passi da Piazzetta Mercadante, si propone in vendita appartamento di 70mq circa, sito in uno stabile di edilizia privata. L'immobile si presenta all'interno cosi composto: Ingresso, soggiorno, cucinino, camera da letto matrimoniale, cameretta e bagno. La soluzione gode di una doppia esposizione con finestre e un piccolo balcone. Il cespite è locato con una rendita di 670 euro mensili con contratto 4+4 con scadenza contratto nel mese di maggio del 2025 e si presenta in buono stato. L'immobile è visionabile previo appuntamento telefonico Ciotola Immobiliare Via Epomeo 159 0813772460-3491267001 Via Antonino Pio 93 0817280101-3939123247 info@ciotolaimmobiliare.com Per maggiori informazioni consulta il sito: www.ciotolaimmobiliare"
+        },
+        "last_update": "Annuncio aggiornato il 21/10/2024"
     },
     "detailed_features": {
         "Generale": {

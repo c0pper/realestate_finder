@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115633903/",
     "main_info": {
         "title": "Trilocale Vicoletto 2 Politi 9, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 189.000"
+        "price": "€ 189.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Nel Cuore dei Quartieri Spagnoli Appartamento 100 MQ",
+            "text": "Proponiamo in vendita: Nel cuore del centro di Napoli, esattamente in Vicoletto II Politi. Appartamento di 100 Mq, luminoso, con Balconi e finestre con esposizione esterna ed interna. sito in un edificio storico caratteristico e molto apprezzato dai turisti in quanto dispone di due ingressi separati, uno dai quartieri Spagnoli a soli 350 metri dalla metro Toledo, l'altro dal Corso Vittorio Emanuele, in prossimità delle due linee di funicolari \"Centrale\" e \"Montesanto\". Ideale per investimento, BeB, Casa Vacanza o per Uso Proprio. Prezzo Richiesto: € 189.000, 00. Per informazioni o\\e appuntamenti rivolgersi a: 324/0538093 anche whatsapp o al 081/3650596, visita il nostro sito: \"limmobiliarenapoli.it\" SEGUTECI ANCHE SUI NOSTRI SOCIAL: INSTAGRAM: limmobiliarenapoli FACEBOOK: L’immobiliare Napoli Sede: in Via Generale Enrico Cosenz 29\\A."
+        },
+        "last_update": "Annuncio aggiornato il 28/10/2024"
     },
     "detailed_features": {
         "Generale": {

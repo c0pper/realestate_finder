@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114900347/",
     "main_info": {
         "title": "Trilocale via Santa Maria Ognibene, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 169.000"
+        "price": "€ 169.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Nel cuore dei quartieri spagnoli, la posizione strategica garantisce un facile accesso alle principali vie della città e a tutti i servizi. L'immobile è posto al primo piano di uno stabile d'epoca senza servizio d'ascensore. L'appartamento è composto da due camere da letto spaziose, soggiorno luminoso, cucina funzionale e bagno. Attualmente locato fino a Febbraio 2025, l'appartamento offre una rendita mensile di 600, escluse le spese condominiali, rendendolo un'opzione ideale per chi cerca un investimento sicuro e redditizio, ma data la la centralità potrebbe essere adatta a vari tipi di nuclei familiari. Chiama in agenzia al numero 081 18197460 oppure contattaci tramite Whatsapp salvando in rubrica il numero riportato precedentemente. Per restare sempre aggiornato con le nostre ultime novità, seguici sui nostri canali social, scrivendo su Instagram e Facebook Tecnocasa Napoli Toledo'."
+        },
+        "last_update": "Annuncio aggiornato il 28/09/2024"
     },
     "detailed_features": {
         "Generale": {

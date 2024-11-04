@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114790723/",
     "main_info": {
         "title": "Trilocale piazza Camillo Benso di Cavour, Sanità, Napoli",
         "location": "",
-        "price": "€ 220.000"
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento in Vendita in Posizione Centralissima",
+            "text": "In una delle zone più centrali e ben servite di Napoli, a pochi passi dal cuore del centro storico e comodamente collegata grazie alle Linee 1 e 2 della Metropolitana, proponiamo in vendita un appartamento di 80 mq commerciali (72 mq interni) situato in un elegante stabile d’epoca con ascensore. L’immobile, posto al 4° piano, si trova all'interno di un edificio signorile con suggestiva corte interna, ed è composto da: ingresso, soggiorno, cucina, 2 camere da letto, bagno e ripostiglio. Esposizione luminosa e ariosa: Sebbene l’affaccio sia interno, l’appartamento gode di una piacevole ariosità e di un’esposizione Sud-Est che consente di vedere i tetti della città, conferendo una piacevole sensazione di apertura e luminosità. Un contesto tranquillo, lontano dai rumori della strada, ma al contempo a pochi passi da esercizi commerciali di ogni tipo, uffici pubblici e privati. A chi si rivolge: Questo immobile è perfetto per chi cerca un appartamento in una posizione centrale ma tranquilla, ideale per coppie, professionisti o famiglie che desiderano vivere in un contesto ben servito e signorile. È inoltre un’ottima opportunità per chi desidera un'abitazione con una disposizione funzionale e un affaccio riservato e arioso. Open Day: Realizza la Tua Casa Ideale! Unisciti a noi per scoprire come un team di architetti può trasformare la tua visione in realtà, offrendo progettazione preliminare completa, rendering grafici e realtà virtuale, insieme a soluzioni di ristrutturazione chiavi in mano e consulenze di interior design per aiutarti nella scelta degli arredi. Ti aspettiamo! Alcune delle foto presenti in questo annuncio sono state elaborate in chiave home staging per aiutarti a immaginare il pieno potenziale di questa proprietà. Questi interventi visivi sono pensati per mostrarti come l'appartamento può essere arredato e decorato per valorizzare al meglio gli spazi e creare un ambiente accogliente e funzionale."
+        },
+        "last_update": "Annuncio aggiornato il 14/10/2024"
     },
     "detailed_features": {
         "Generale": {

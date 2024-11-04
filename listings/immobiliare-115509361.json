@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115509361/",
     "main_info": {
         "title": "Trilocale via Po 1, Vomero, Napoli",
         "location": "",
-        "price": "€ 255.000"
+        "price": "€ 255.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "VIA PO: PARCO CUSTODITO CON POSTO AUTO",
+            "text": "Il termine Parva Domus deriva dal latino e significa: una piccola casa. Ed è proprio nel parco Parva Domus, situato precisamente in via Po, che proponiamo in vendita un appartamento di 90 mq commerciali, posto ad un sesto piano con ascensore, servizio di portineria e guardiania notturna. Il cespite risulta in buono stato interno ed è così composto: ingresso in corridoio, soggiorno, due camere da letto, cucina abitabile e due bagni. L’immobile dispone di tre balconi che lo rendono costantemente soleggiato e luminoso. Completa la soluzione una cantinola ed un posto auto assegnato all’interno del parco. Attualmente l’immobile è locato con rendita annua di 7.200€. TI INDICO 5 BUONI MOTIVI PER ACQUISTARE QUESTO IMMOBILE: 1° INTERNO PARCO 2° POSTO AUTO ASSEGNATO 3° BUONO STATO 4° LOCATO 5° SERVIZIO DI PORTINERIA E GUARDIANIA Visionabile previo avviso telefonico. E se vuoi rimanere sempre aggiornato seguici anche su Instagram: casae_napolivomero e su Facebook: Affiliato Casaè Vomero. Ogni agenzia ha un proprio titolare ed è autonoma. Le presenti non costituiscono elemento contrattuale."
+        },
+        "last_update": "Annuncio aggiornato il 31/10/2024"
     },
     "detailed_features": {
         "Generale": {

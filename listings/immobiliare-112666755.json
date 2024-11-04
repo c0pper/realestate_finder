@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112666755/",
     "main_info": {
         "title": "Trilocale via Sanità, Vomero, Napoli",
         "location": "",
-        "price": "€ 278.000"
+        "price": "€ 278.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Sanità",
+            "text": "Direzione Casa propone nella zona Sanità, un luminosissimo appartamento con ingresso ed affaccio sulla via principale. L’appartamento è di 110 mq, ed è posto al primo piano di un palazzo d’epoca. Ed è composto  da ingresso da due ampie camere, salone, cucina abitabile , ripostiglio e servizio igienico. Questa soluzione si presenta molto luminosa grazie alla presenza di tre balconi con affaccio esterno. Classe energetica dichiarata G (175 kWh/m² anno). Per prenotare una visita chiamare al: 08119575205 - 08119575076 - 3737107425 oppure contattare via email all’indirizzo info@direzionecasa.it. Visita il nostro sito web www.direzionecasa.it o segui le nostre pagine social su Facebook (Immobiliare Direzionecasa) e Instagram (immobiliaredirezionecasa)."
+        },
+        "last_update": "Annuncio aggiornato il 20/06/2024"
     },
     "detailed_features": {
         "Generale": {

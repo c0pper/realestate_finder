@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/102932016/",
     "main_info": {
         "title": "Trilocale via Marino e Cotronei 4, Arenella, Napoli",
         "location": "",
-        "price": "€ 245.000"
+        "price": "€ 245.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Marino e Cotronei  vendesi 3 vani e accessori.",
+            "text": "Rif: VG02 - Rif: gG02 - Nelle immediate adiacenze di Via Giacinto Gigante, in VIA MARINO E COTRONEI, (adiacente Tangenziale Arenella), disponiamo, in un piccolo condominio, un appartamento di circa 80 mq sito al 2° piano senza ascensore. L'immobile si presenta da ristrutturare. Il cespite è composto da: ingresso, disimpegno, corridoio, ampio salone, cucinotto, due camere da letto, bagno  e due soppigni. Per fissare un appuntamento potete contattarci al nostro numero di WhatsApp 3492221616 - e sarete ricontattati al più presto per ricevere maggiori informazioni, oppure recarvi presso il nostro ufficio in Piazzetta Arenella 6/e. Operiamo su tutta la zona del Vomero-Arenella in cui si raggruppano asili nido, scuole materne, elementari, medie inferiori, medie superiori, chiese, banche, supermercati, negozi di abbigliamento, ristoranti, farmacie, edicole e mercati rionali. SEGUICI E RESTA AGGIORNATO ANCHE SU FACEBOOK ED INSTAGRAM. - TEMPOCASA VOMERO - PIAZZETTA ARENELLA 6/E, - 80128 NAPOLI (NA) - 0815783395 mail napolivomero@tempocasa.it. Se fosse interessato ad una valutazione GRATUITA e SENZA IMPEGNO del Suo immobile, siamo a Sua completa disposizione! Le ricordiamo, inoltre, che la nostra struttura offre CONSULENZE DI MUTUO GRATUITE CON TASSI AGEVOLATI!"
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112330843/",
     "main_info": {
         "title": "Quadrilocale Cupa Caiafa 11, Mergellina - Piedigrotta, Napoli",
         "location": "",
-        "price": "€ 175.000"
+        "price": "€ 175.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "In una traversa che ben collega Corso Vittorio Emanuele altezza Stazione metropolitana di Mergellina con la Riviera di Chiaia, precisamente in Via Cupa Caiafa, Tecnorete propone in vendita soluzione molto luminosa dotata di 5 finestre ed un balcone soleggiato. L' immobile è composto da 4 vani che occupano una superficie calpestabile di circa 75 metri quadri, così disposti: Ingresso, soggiorno, cucinotto, camera da letto, cameretta e bagno. Le condizioni interne del cespite sono da ristrutturare mentre allo stabile d' epoca in tufo, sono già stati deliberati lavori di ristrutturazione."
+        },
+        "last_update": "Annuncio aggiornato il 29/10/2024"
     },
     "detailed_features": {
         "Generale": {

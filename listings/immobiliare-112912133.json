@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112912133/",
     "main_info": {
         "title": "Trilocale Vico Solitaria, Santa Lucia, Napoli",
         "location": "",
-        "price": "€ 260.000"
+        "price": "€ 260.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "In vendita un ampio appartamento di 3 vani situato in Vico Solitaria, a pochi passi dal rinomato lungomare di Napoli. L'immobile, posto al primo piano, offre una superficie di 100 mq e si compone di: -Cucina abitabile -Soggiorno -Due camere da letto -Bagno L'appartamento necessita di ristrutturazione, permettendo così di personalizzare gli spazi secondo i propri gusti e necessità. La posizione è ideale per chi desidera vivere in una zona centrale e suggestiva di Napoli o per chi volesse avviare un investimento, con tutti i servizi e le attrazioni del lungomare facilmente raggiungibili. Non perdere questa opportunità di investimento in una delle zone più affascinanti della città! Visionabile tutti i giorni previo avviso telefonico. Per maggiori informazioni e appuntamenti, contattaci al seguente numero: 081/7645323 o tramite Whatsapp 3476181401. Presso la nostra agenzia Tecnorete, è possibile su richiesta ricevere una consulenza gratuita ed accedere ad un'ampia gamma di prodotti creditizi e assicurativi come: Mutui prima casa, seconda casa e mutuo per ristrutturazione. Sostituzione o Surroga del Mutuo Prodotti Assicurativi per la Famiglia, ramo Danni e Vita. LA CONSULENZA È GRATUITA"
+        },
+        "last_update": "Annuncio aggiornato il 11/09/2024"
     },
     "detailed_features": {
         "Generale": {

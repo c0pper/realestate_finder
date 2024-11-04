@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114989645/",
     "main_info": {
         "title": "Quadrilocale via Matteo Renato Imbriani, Piazza Canneto - Salvator Rosa, Napoli",
         "location": "",
-        "price": "€ 280.000"
+        "price": "€ 280.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "In Via Matteo Renato Imbriani (Parte Alta) In una delle vie più centrali e servite, proponiamo in vendita un ampio e luminoso appartamento di 100 MQ, situato in un contesto residenziale tranquillo e ben collegato, a pochi passi dalla Metropolitana linea 1 di Materdei e Piazza de Leva. L'immobile si trova al 2° piano di uno stabile in tufo dotato di ascensore e internamente è così composto: ampio ingresso, soggiorno, due camere da letto ( di cui una doppia), cucina abitabile, zona lavanderia con ripostiglio e bagno. Possibilità posto motorino nel cortile del fabbricato. Visionabile previo avviso telefonico al numero 0815642892, WhatsApp sempre allo stesso numero, o tramite email naceo@tecnocasa.it . Per chi avesse l'intenzione di acquistarlo attraverso l'ottenimento del mutuo è possibile inoltre, su richiesta, ricevere una consulenza gratuita grazie ai nostri professionisti della Kiron (società di mediazione creditizia del gruppo), i quali offrono servizi e prodotti su misura per ogni tipo di necessità finanziara."
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

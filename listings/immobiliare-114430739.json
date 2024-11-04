@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114430739/",
     "main_info": {
         "title": "Quadrilocale vico solitaria, Santa Lucia, Napoli",
         "location": "",
-        "price": "€ 250.000"
+        "price": "€ 250.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "AD. PIAZZA DEL PLEBISCITO- 4 VANI+2ACC.",
+            "text": "Nelle immediate adiacenze di piazza del Plebiscito e a pochi passi dal rinomato lungomare di Napoli, precisamente in Vico Solitaria, proponiamo in vendita ampio appartamento di mq 100 posto al secondo piano di uno stabile senza ascensore composto da: ingresso in disimpegno, salone, cucina semiabitabile, tre camere e bagno. L’immobile risulta luminoso grazie alla doppia esposizione con un balcone e finestre in ogni ambiente e si presenta da ristrutturare, permettendo così di personalizzare gli spazi secondo i propri gusti e necessità. Data la posizione strategica in cui è ubicato, ne consigliamo l’acquisto sia per uso proprio per chi desidera vivere in una zona centrale e suggestiva, sia per investimento per la creazione di b&b, affittacamere, e/o casa-vacanze. Inoltre è possibile raggiungere in pochi minuti la metropolitana L6 Piazza Santa Maria degli Angeli che consente di arrivare in vari punti della città. Non perdere questa opportunità di investimento in una delle zone più affascinanti di Napoli. Il prezzo richiesto è di €250.000,00. C.E=G."
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

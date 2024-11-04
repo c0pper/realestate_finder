@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/113029963/",
     "main_info": {
         "title": "Quadrilocale via Nuova Santa Maria Ogni Bene, Monte Santo, Napoli",
         "location": "",
-        "price": "€ 165.000"
+        "price": "€ 165.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Via Nuova Santa Maria Ognibene - Quadrilocale con ascensore A pochi passi da Via Francesco Girardi, precisamente in Via Nuova Santa Maria Ognibene, Tecnorete dei Quartieri Spagnoli propone in vendita un immobile di circa 85 mq situato al terzo piano in uno stabile in cemento armato in ottime condizioni sia interne che esterne. Il cespite è composto da: ingresso in disimpegno, ampio soggiorno con angolo cottura, due camere da letto matrimoniali spaziose, cameretta e bagno. Attualmente locato con contratto 4 + 4 con scadenza dicembre 2025 e una rendita annua di €6.000,00, è ideale per uso investimento data la sua posizione nel centro nevralgico dei Quartieri Spagnoli, vicina ai mezzi pubblici e punti di interesse. L'appartamento, luminoso e arioso, dispone di infissi in doppio vetro camera, tapparelle oscuranti, napoletane in ferro e condizionatore caldo/freddo. Visionabile previo avviso telefonico chiamando il numero 08119338043 oppure contattandoci via mail all'indirizzo: na1ep@tecnorete.it VISIONABILE PREVIO AVVISO TELEFONICO."
+        },
+        "last_update": "Annuncio aggiornato il 25/10/2024"
     },
     "detailed_features": {
         "Generale": {

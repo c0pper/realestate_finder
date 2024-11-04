@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/113331423/",
     "main_info": {
         "title": "Trilocale via Concordia 41, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 229.000"
+        "price": "€ 229.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Attico panoramico al centro di Napoli!",
+            "text": "SmartZero presenta in vendita un luminoso attico con vista sul Vesuvio, sito in stabile con ascensore, nella zona alta dei Quartieri Spagnoli, a 300 mt dalla funicolare centrale del Corso Vittorio Emanuele! Non perdere l’opportunità di prenotare il nostro esclusivo servizio \"SMART VIRTUAL TOUR\", una Visita guidata in remoto da effettuare comodamente dal divano di casa tua con Pc, Tablet o Smartphone in cui un nostro Consulente esperto potrà rispondere ad ogni tua domanda o curiosità sull'immobile e permetterti di risparmiare tempo prezioso prima di effettuare la visita Live! L’IMMOBILE Scopri quest’attico, di circa 95 mq, sito al quinto piano di uno stabile con ascensore. L'immobile, in buono stato, offre due bagni, due camere da letto, una zona soggiorno accogliente e versatile, e uno spazioso angolo cottura. Ogni ambiente è dotato di un punto luce che garantisce luminosità naturale in tutta la casa. Inoltre, per accedere all’attico, si attraversa un terrazzo panoramico ad uso condominiale, con vista sul Vesuvio. Attualmente locato con contratto in scadenza a giugno 2026, con canone annuo di euro 7.470, rappresenta un’ottima opportunità per un investimento! LA ZONA E IL FABBRICATO Situato in Via Concordia, nella parte alta dei Quartieri Spagnoli, questo immobile offre una posizione strategica a 300 mt dal Corso vittorio Emanuele e dalla stazione della funicolare centrale. La zona circostante è ricca di servizi, mezzi pubblici e istituti scolastici di prestigio, come l’Università degli Studi Suor Orsola Benincasa e l’istituto Pontano, rendendo questa proprietà ideale per chi cerca comfort e praticità nel cuore di Napoli. Visita il nostro sito smartzero.it per maggiori informazioni ed iniziare il viaggio verso la tua nuova casa!"
+        },
+        "last_update": "Annuncio aggiornato il 22/10/2024"
     },
     "detailed_features": {
         "Generale": {

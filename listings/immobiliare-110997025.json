@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/110997025/",
     "main_info": {
         "title": "Trilocale via Pigna 106, Pigna - Omodeo, Napoli",
         "location": "",
-        "price": "€ 190.000"
+        "price": "€ 190.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Gruppo Casadream con sede in Via Luigi Caldieri 156, Propone in vendita: appartamento sito nella parte centrale Via Pigna , nelle immediate adiacenze di Via Caldieri , a pochi passi dalla stazione della metropolitana di Piazza Quattro Giornate – Linea 1, dalla fermata dell’autobus e dai principali servizi e negozi di vario genere. In stabile signorile  composto  nel seguente modo: al 1 livello abbiamo ingresso in ampio salone con accesso alla cucina semi abitabile, bagno , al 2 secondo livello troviamo la camera da letto e cameretta  . Il cespite gode di un unica esposizione attraverso un balcone . La soluzione internamente si presenta in ottimo stato e completamente arredata. Ottimo anche ad uso investimento in quanto attualmente locato con ottima rendita mensile fino al 30/11/2024, data di scadenza della locazione. Nonostante la presenza di un soppalco, l'immobile risulta completamente regolare e mutuabile. Visionabile previo appuntamento telefonico. Email: info@gruppocasadream.it"
+        },
+        "last_update": "Annuncio aggiornato il 04/09/2024"
     },
     "detailed_features": {
         "Generale": {

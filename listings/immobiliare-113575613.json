@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/113575613/",
     "main_info": {
         "title": "Appartamento via Montesilvano 8, Sanità, Napoli",
         "location": "",
-        "price": "€ 189.000"
+        "price": "€ 189.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Nel cuore pulsante del quartiere Stella, in via Montesilvano, a pochi passi dai rinomati punti di riferimento locali come la Pizzeria Concettina ai Tre Santi e la Pasticceria Poppella, proponiamo in vendita una straordinaria opportunità immobiliare. Si tratta di una soluzione divisa in due unità immobiliari, entrambe attualmente locate con contratti regolari, garantendo una rendita mensile complessiva di 1.150,00. Situata al secondo piano, questa proprietà gode di una doppia esposizione che assicura luminosità e una ventilazione naturale eccellente. Le unità sono dotate di finestre e balconi, offrendo agli inquilini uno spazio esterno dove rilassarsi e godere della vista sulla vivace zona circostante. Gli ambienti interni sono stati recentemente ristrutturati, garantendo uno standard abitativo moderno e confortevole. Questa proposta immobiliare non è solo un investimento solido con una rendita sicura, ma rappresenta anche una rara occasione di entrare a far parte di una delle comunità più autentiche e vivaci di Napoli. Con la sua posizione strategica e le sue caratteristiche attrattive, questa soluzione si presenta come un'opportunità imperdibile per chi desidera coniugare qualità della vita e rendimento economico."
+        },
+        "last_update": "Annuncio aggiornato il 25/07/2024"
     },
     "detailed_features": {
         "Generale": {

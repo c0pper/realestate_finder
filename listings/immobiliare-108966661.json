@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/108966661/",
     "main_info": {
         "title": "Trilocale via Fontanelle 134, Stella - Materdei, Napoli",
         "location": "",
-        "price": "€ 190.000"
+        "price": "€ 180.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Fontanelle",
+            "text": "Direzione Casa propone in vendita un appartamento situato in Via Fontanelle, nella vivace zona di Sanità a Napoli. L'immobile si trova al quarto piano di uno stabile in tufo  senza ascensore ed è composto da  due unità immobiliari la prima di una camera cucina e bagno di circa 30 mq  è l'altra da due  vani oltre accessori di circa 65 mq, con un giardino di circa 400 mq e un terrazzo di circa 80 mq. La posizione centrale offre comodità per raggiungere il Corso Amedeo di Savoia e Santa Teresa Degli Scalzi. Classe energetica dichiarata G (175 kWh/m² anno).Visionabile previo avviso telefonico tutti i giorni ai seguenti recapiti 08119575076 - 08119575205 - 3926037317 MAIL: info@direzionecasa.it VISITA IL SITO: www.direzionecasa.it FACEBOOK: Immobiliare Direzionecasa INSTAGRAM: immobiliaredirezionecasa"
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

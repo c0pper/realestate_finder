@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114587623/",
     "main_info": {
         "title": "Trilocale via Piazzi 61, San Carlo All'Arena, Napoli",
         "location": "",
-        "price": "€ 230.000"
+        "price": "€ 230.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "VIA GIUSEPPE PIAZZI: siamo lieti di presentarvi un eccezionale appartamento con terrazzo a breve distanza da via Foria e dalla caserma Garibaldi, in posizione strategica ben collegata ai mezzi di trasporto (linea 1 e 2), dalla fermata dell'autobus e dalle numerose attività commerciali nelle vicinanze. Si tratta di un trilocale di 110 mq, ubicato ad un quarto piano senza ascensore di un edificio in tufo. L'appartamento è particolarmente luminoso per i numerosi balconi e finestre. La chicca di questo immobile è il terrazzo di copertura che regala una vista magnifica, l'appartamento è composto da:ampio ingresso, cucina abitabile, salone, due camere e bagno. Ideale per uso investimento e per uso proprio."
+        },
+        "last_update": "Annuncio aggiornato il 17/09/2024"
     },
     "detailed_features": {
         "Generale": {

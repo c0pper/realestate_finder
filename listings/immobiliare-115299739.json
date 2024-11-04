@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115299739/",
     "main_info": {
         "title": "Quadrilocale Vico dei Maiorani 19n, Centro Storico, Napoli",
         "location": "",
-        "price": "€ 235.000"
+        "price": "€ 235.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Vico Maiorani",
+            "text": "Vico Maiorani: Traversa principale che collega Via San Biagio dei Librai e Via Tribunali lato Piazza San Gaetano, zona centralissima e privilegiata da numerosi punti d'interesse storico grazie alla sua eccezionale posizione strategica nel cuore del centro storico di Napoli e alla vicinanza ai principali siti culturali e archeologici della città. Tecnorete Corso Umberto I propone in vendita un interessante appartamento Con Doppio Ingresso ubicato in stabile d'epoca in tufo posto al piano terzo di ampia quadratura di 130mq con terrazzo a livello. Il cespite è cosi composto: doppio ingresso, tre camere da letto, due cucine abitabili, due bagni, balcone e terrazzo, inoltre presenta impianto condizionamento autonomo caldo/freddo. Una occasione imperdibile per chi cerca un investimento immobiliare con un solido rendimento, ma anche per chi cerca un nido per cui vivere necessitando di tutti i comfort di un ambiente unico, vivace e accogliente. Contattateci per ulteriori dettagli e per organizzare una visita; saremo lieti di assistervi con professionalità, trasparenza e un approccio orientato alle vostre esigenze. Numero di telefono:081.55.39.143."
+        },
+        "last_update": "Annuncio aggiornato il 14/10/2024"
     },
     "detailed_features": {
         "Generale": {

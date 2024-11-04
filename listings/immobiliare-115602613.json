@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115602613/",
     "main_info": {
         "title": "Quadrilocale Cupa dei Gerolomini alle Due Porte 27, Arenella, Napoli",
         "location": "",
-        "price": "€ 179.000"
+        "price": "€ 179.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "NUDA PROPRIETA' In Via Cupa dei gerolomini, traversa di via Domenico Fontana, all'interno di un condominio di due scale con servizio di portineria, proponiamo in vendita NUDA PROPRIETA' (età usufruttuari 78 e 80 anni) di 105 mq. L'immobile è posto al secondo piano di un fabbricato in cemento armato dotato di ascensore ed è composto da ingresso in ampio disimpegno, cucina con balcone, salone con balcone, due camerette di cui una con finestra, camera da letto conbalcone, ripostiglio, anoglo studio e doppi servizi. Il cespite dispone di POSTO AUTO FISSO E POSTO MOTO, risulta in buone condizioni interne e ogni camera presenta il proprio punto luce (finestra e/o balcone), doppia esposizione, panoramico sulla città, zona industriale e parte del Vesuvio per tanto l'immobile risulta essere arioso e luminoso. La zona risulta essere ben servita da ogni tipo di servizio, dalle scuole ai supermercati, dalle farmacie ai negozi di vario genere. Nelle immediate vicinanze sono reperibili tutti i mezzi di trasporto come, Metropolitana e Bus. Per qualsiasi altra informazione ed per eventuali richieste di sopralluogo, rivolgersi a: Tecnocasa Via Domenico Fontana 95d orari ufficio: 09.00 - 20.00 L'immobile è visionabile previo appuntamento telefonico."
+        },
+        "last_update": "Annuncio aggiornato il 25/10/2024"
     },
     "detailed_features": {
         "Generale": {

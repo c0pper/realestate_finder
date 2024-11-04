@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/107378029/",
     "main_info": {
         "title": "Palazzo - Edificio in Vendita",
         "location": "",
-        "price": "€ 170.000"
+        "price": "€ 170.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Trilocale con posto auto e cantinola in parco 70 mq in via Enrico Arlotta nr.21 senza ascensore"
+        },
+        "last_update": "Annuncio aggiornato il 13/08/2024"
     },
     "detailed_features": {
         "error": "no features found"

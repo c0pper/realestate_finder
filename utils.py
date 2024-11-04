@@ -1,6 +1,8 @@
+from datetime import datetime
 import re
 from pathlib import Path
 import json
+import shutil
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
@@ -39,6 +41,7 @@ def is_raspberry_pi():
 
 
 def get_driver():
+    logger.info(f'Getting driver')
     options = Options()
     if is_raspberry_pi():
         profile = FirefoxProfile("/app/ff_profile/17ruxrsh.fake_prof")
@@ -66,38 +69,59 @@ def get_driver():
     return driver
 
 
-def filter_listings(directory_path):
-    filtered_listings = []
+def check_already_refreshed():
+    """Check if the profile has already been refreshed today."""
+    executions_path = Path("/home/simo/code/realestate_finder/executions.json")
+    today_str = datetime.now().strftime("%Y-%m-%d")
     
-    # Iterate through all JSON files in the given directory
-    for file_path in Path(directory_path).glob("*.json"):
-        with open(file_path, "r", encoding="utf-8") as file:
-            data = json.load(file)
-            
-            # Get 'disponibilità' and 'stato' from 'Generale' section in 'detailed_features'
-            disponibilita = data.get("detailed_features", {}).get("Generale", {}).get("Disponibilità", "").lower()
-            stato = data.get("detailed_features", {}).get("Generale", {}).get("Stato", "").lower()
-            piano = data.get("detailed_features", {}).get("Panoramica", {}).get("Piano", "0").split(",")[0]
-            if "rialzato" in piano:
-                piano = "1"
-            match = re.search(r'\d+', piano)
-            if match:
-                piano = match.group(0)
-            else:
-                piano = 0  # or handle cases where no number is found
-            balcone = data.get("detailed_features", {}).get("Composizione dell'immobile", {}).get("Balcone", "").lower()
+    # Load existing executions or create a new file if it doesn't exist
+    if executions_path.exists():
+        with executions_path.open("r") as f:
+            executions = json.load(f)
+    else:
+        executions = {}
 
-            description = data.get("main_info", {}).get("description", {}).get("title", "") + "\n" + data.get("main_info", {}).get("description", {}).get("text", "")
-            
-            # Check if 'disponibilità' is 'libero' and 'stato' is not 'da ristrutturare'
-            if disponibilita == "libero" and stato != "da ristrutturare" and int(piano) > 1 and balcone == "sì":
-                if not any(word in description for word in ["nuda", "soppalco", "asta"]):
-                    filtered_listings.append(data)
-                else:
-                    logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is asta')
-            else:
-                logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
-    
-    return filtered_listings
+    # Check if today's date is already in executions
+    if today_str in executions:
+        logger.info("Already refreshed for today.")
+        return False
+    else:
+        # Update executions.json with today’s date
+        executions[today_str] = "refreshed"
+        with executions_path.open("w") as f:
+            json.dump(executions, f)
+        return True
 
 
+def copy_ff_profile():
+    if not check_already_refreshed():
+        return
+    logger.info(f"Refreshing fake FF profile...")
+    # Define source and destination paths
+    src = Path("/home/simo/.mozilla/firefox/auq1dm16.default-release/")
+    dest = Path("/home/simo/.mozilla/firefox/17ruxrsh.fake_prof/")
+
+    counter = 0
+    excluded_folders = {"chrome", "storage"}
+    items = [item for item in src.iterdir() if item.name not in excluded_folders]
+
+    # Copy each file and directory from src to dest, overwriting existing files
+    items = list(src.iterdir())
+    for item in items:
+        dest_item = dest / item.name
+        if item.is_dir():
+            # If it's a directory, copy it and overwrite if it exists
+            if dest_item.exists():
+                shutil.rmtree(dest_item)
+            shutil.copytree(item, dest_item)
+        else:
+            # If it's a file, copy and overwrite it
+            try:
+                shutil.copy2(item, dest_item)
+            except FileNotFoundError as e:
+                logger.warning(e)
+
+        # Increment the counter and log every 20 items
+        counter += 1
+        if counter % 20 == 0:
+            logger.info(f"Copied {counter}/{len(items)} items so far...")

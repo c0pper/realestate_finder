@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115747377/",
     "main_info": {
         "title": "Trilocale salita Sant'Antonio Ai Monti 58, Monte Santo, Napoli",
         "location": "",
-        "price": "€ 210.000"
+        "price": "€ 210.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "APPARTAMENTO CON GIARDINO Salita Sant'Antonio ai Monti, zona di collegamento tra il Corso Vittorio Emanuele e Montesanto, ma al tempo stesso tranquilla dato che non è accessibile ad auto e motorini, appartamento con ampio giardino a livello di 300 mq. L'immobile ha una quadratura interna di 60 mq composta da ingresso in disimpegno, soggiorno con accesso al giardino, cucina, due camere da letto e bagno. Posta al terzo piano, la soluzione gode anche di esposizione semi panoramica verso il mare. Ideale per ogni tipo di esigenza, che sia uso personale o investimento. Visionabile previo appuntamento telefonico, chiama in agenzia al numero 0814203200 oppure contattaci tramite Whatsapp salvando in rubrica il numero riportato precedentemente. Per restare sempre aggiornati seguici sui nostri canali social: Instagram - @tecnocasa_napoli_montesanto Facebook - Gruppo Tecnocasa Napoli Montesanto Tiktok - @tecnocasamontesanto"
+        },
+        "last_update": "Annuncio aggiornato il 31/10/2024"
     },
     "detailed_features": {
         "Generale": {

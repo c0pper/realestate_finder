@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114428775/",
     "main_info": {
         "title": "Trilocale salita Sant'Elia, Sanità, Napoli",
         "location": "",
-        "price": "€ 200.000"
+        "price": "€ 200.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Salita Sant'Elia Ai Miracoli - Trilocale con terrazzo",
+            "text": "Presentiamo in vendita un incantevole appartamento situato in una delle zone più centrali e servite di Napoli, precisamente in Via Salita Sant'Elia ai Miracoli. La soluzione è ubicata al terzo ed ultimo piano, in buone condizioni interne e presenta una quadratura di circa 60mq. Si compone di ingresso in corridoio, ampia camera da letto, cucina living, cameretta e bagno. Inoltre è presente uno spazioso terrazzo di circa 30 mq, accessibile da tutte le camere, che offre una luminosità straordinaria in ogni ora del giorno e di una doppia esposizione per una migliore ventilazione. Infine è dotato di condizionatori caldo/freddo per maggiori confort in ogni stagione. L'immobile è in una posizione centralissima, con ottima accessibilità a tutte le comodità, tra cui negozi, servizi e scuole. Questo appartamento rappresenta una soluzione ideale per chi cerca un ambiente confortevole in una posizione strategica. Non perdere l'occasione di visitarlo! Per ulteriori informazioni o per organizzare una visita, ti invitiamo a contattarci."
+        },
+        "last_update": "Annuncio aggiornato il 02/11/2024"
     },
     "detailed_features": {
         "Generale": {

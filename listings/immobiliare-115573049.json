@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115573049/",
     "main_info": {
         "title": "Appartamento all'asta corso Vittorio Emanuele 211, Napoli",
         "location": "",
-        "price": "da € 236.250,00"
+        "price": "da € 236.250,00",
+        "description": {
+            "reference": "riferimento",
+            "title": "APPARTAMENTO AL PRIMO PIANO",
+            "text": "Appartamento sito in Napoli al Corso Vittorio Emanuele n. 211, piano 1° con ascensore. L'unità abitativa ha una superficie utile di 94 mq ed è composta da ingresso, n.ro 4 vani, n.ro 2 soppalchi, disimpegno corridoio, ripostiglio, n.ro 2 bagni e angolo cucina. Il fabbricato è dotato di servizio di portierato e di impianto citofonico. Esiste la possibilità di usufruire di un posto auto a rotazione annuale offerta dal Condominio, all’interno dell’area cortilizia del fabbricato. L'immobile si trova nel quartiere Chiaia, uno dei quartieri più eleganti della città di Napoli, dotato di tutte le urbanizzazioni primarie e secondarie, uffici pubblici, scuole, svariate attività commerciali e di servizio, nonché mercatini all’aperto. La zona in questione è agevolmente raggiungibile dalle altre zone della città anche mediante trasporto pubblico. Con noi la certezza di fare un affare. Chiama ora per parlare gratuitamente con un consulente specializzato in aste immobiliari. Cosa faremo per te: - Approfondimento sulle tematiche giuridiche riguardanti le modalità di acquisto di un immobile tramite vendita giudiziaria; - Compilazione e presentazione della domanda di partecipazione effettuata dai nostri professionisti; - Esame della perizia e di ogni altro documento accessorio; - Richiesta e prenotazione della visita dell’immobile tramite custode giudiziario delegato; - Consulenza e assistenza anche in via telematica; - Partecipazione in asta in nome e nell’interesse del cliente; - Gestione rilanci attraverso gara telematica in real time. Il nostro team di consulenti e avvocati è specializzato anche in acquisto in pre-asta."
+        },
+        "last_update": "Annuncio aggiornato il 23/10/2024"
     },
     "detailed_features": {
         "Generale": {

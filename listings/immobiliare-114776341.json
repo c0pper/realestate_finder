@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114776341/",
     "main_info": {
         "title": "Trilocale vico TOFA, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 280.000"
+        "price": "€ 280.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "RISTRUTTURATO CON TERRAZZO PANORAMICO",
+            "text": "Via Toledo - adiacenze - e precisamente in vico tofa - a pochi passi dalla funicolare - via toledo e via roma, in stabile d'epoca senza ascensore posto ad un quinto ed ultimo piano, proponiamo  in vendita un immobile ristrutturato con ottima rendita annua ( locato fino a dicembre 2025 ) - composto da ingresso - salone - due vani - cucina - servizio oltre balconcino e ampia balconata mediante la quale, tramite una scala, si accede direttamente ad uno splendido terrazzo panoramico di 100 mq . Per ulteriori informazioni puoi contattarci, visitare il nostro sito www.centrocasa.it o la nostra pagina facebook https://www.facebook.com/centrocasa.it"
+        },
+        "last_update": "Annuncio aggiornato il 24/09/2024"
     },
     "detailed_features": {
         "Generale": {

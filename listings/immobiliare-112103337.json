@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112103337/",
     "main_info": {
         "title": "Trilocale Supportico Lopez 16, Sanità, Napoli",
         "location": "",
-        "price": "€ 245.000"
+        "price": "€ 245.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Supportico Lopez, tre vani, cucina abitabile e doppi servizi",
+            "text": "SUPPORTICO LOPEZ, precisamente a 210 metri (3 minuti a piedi) da Via Foria, 350 metri (4 minuti a piedi) dalla fermata della METROPOLITANA (linea 2) e 100 metri (1 minuto a piedi) da VIA VERGINI, soluzione di 100 mq composta da ingresso, cucina abitabile con terrazzino interno, 2 bagni, ampio salone, disimpegno, cameretta e camera da letto, soluzione caratterizzata da BEN 4 BALCONI con affaccio su strada oltre il terrazzino interno. L’immobile è dotato di riscaldamento autonomo e condizionatori in tutti gli ambienti, si trova al secondo piano (ultimo) in fabbricato sprovvisto di ascensore, abitazione completamente ristrutturata nel 2014, comoda e ideale per chi cerca al centro della città e in zone ben collegate con i mezzi di trasporto e per chi cerca un sicuro INVESTIMENTO.  Classe energetica “F” Home Intermediazioni Via Francesco Cilea,165 – 80127 Napoli 0810145579 - 3393037430"
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

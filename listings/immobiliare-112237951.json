@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112237951/",
     "main_info": {
         "title": "Mansarda via San Vincenzo 12, Stella - Materdei, Napoli",
         "location": "",
-        "price": "€ 250.000"
+        "price": "€ 250.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Bellissima mansarda nel cuore del quartiere sanità. Si estende su due terrazzi a livello,comprende un open space, due camere da letto,due bagni,annessa la presenza di una depandace con camera da letto e bagno ottima anche come investimento,da vedere. No agenzia Visionabile solo il sabato previo appuntamento"
+        },
+        "last_update": "Annuncio aggiornato il 03/09/2024"
     },
     "detailed_features": {
         "Generale": {

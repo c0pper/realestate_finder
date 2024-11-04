@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115540905/",
     "main_info": {
         "title": "Trilocale via San Mandato 67, Piazza Canneto - Salvator Rosa, Napoli",
         "location": "",
-        "price": "€ 185.000"
+        "price": "€ 185.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Luminoso Appartamento di 75MQ",
+            "text": "Sei alla ricerca di una Soluzione ad uso personale nelle vicinanze del centro ? Abbiamo la soluzione che fa per te. Napoli: nelle immediate adiacenze di via Salvator Rosa e a pochi passi da Piazza Mazzini, disponiamo in vendita di un Appartamento di circa 75MQ in buone condizioni interne. L'immobile è situato al 3° piano (SENZA ASCENSORE) ed è così composto: ingresso in corridoio, ampia cucina, cameretta, camera da letto, ampio bagno con lavanderia, ripostiglio e ampio disimpegno che conduce fuori al balcone con affaccio nel cortile. L'appartamento risulta essere molto luminoso grazie alle due balconate. Se questo Immobile non soddisfa le tue esigenze, contattaci e lascia una richiesta d'acquisto/affitto presso il nostro ufficio permettendoci così di chiamarti ogni qualvolta acquisiamo un nuova soluzione che potenzialmente si avvicina ai tuoi criteri di ricerca. DFC Immobiliare di Casoria."
+        },
+        "last_update": "Annuncio aggiornato il 31/10/2024"
     },
     "detailed_features": {
         "Generale": {

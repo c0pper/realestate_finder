@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114230087/",
     "main_info": {
         "title": "Trilocale via San Mandato, Piazza Canneto - Salvator Rosa, Napoli",
         "location": "",
-        "price": "€ 199.000"
+        "price": "€ 199.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Ad Salvator Rosa, appartamento con terrazzo panoramico",
+            "text": "Via San Mandato, nelle immediate adiacenze di Salvator Rosa e Piazza Mazzini, non distante dalla Metropolitana Linea 1 e Linea 2, in zona centrale e ben servita, proponiamo in vendita luminoso appartamento. L’immobile posto al quarto piano di uno stabile in tufo privo di ascensore, è composto da: cucina, due camere e bagno oltre soppalco con accesso al terrazzo di copertura con vista panoramica sulla Certosa di San Martino e sul Vesuvio. Luminoso con affaccio esterno. Prezzo richiesto EURO 199.000,00 Per info contattaci allo 081/5571129 o al 379/1354338 anche Whatsapp, oppure visita il nostro sito showcasenapoli. it. \"Showcase, assistenza all-inclusive per chi cerca casa\"."
+        },
+        "last_update": "Annuncio aggiornato il 23/10/2024"
     },
     "detailed_features": {
         "Generale": {

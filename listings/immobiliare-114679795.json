@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-29",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114679795/",
     "main_info": {
         "title": "Trilocale Vico Giardinetto, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 209.000"
+        "price": "€ 209.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Quartieri Spagnoli, luminosa soluzione da ristrutturare",
+            "text": "Nel cuore dei Quartieri Spagnoli, a pochi passi dal Murales di Maradona e dalla rinomata via Toledo, e più precisamente in Vico Giardinetto, proponiamo in vendita soluzione completamente da ristrutturare. L'immobile posto al quarto piano di uno stabile privo di ascensore, è composto da: cucinotto, salone, due camere e bagno. Luminoso con affaccio esterno con balcone e finestre. Ideale per uso proprio e/0 investimento. Prezzo richiesto euro 209.000,00. ePr info contattaci allo 081/5571129 o al 379/1354338 anche whatsapp, oppure visita il nostro sito showcasenapoli.it. \"Showcase, assistenza all-inclusive per chi cerca casa\"."
+        },
+        "last_update": "Annuncio aggiornato il 03/10/2024"
     },
     "detailed_features": {
         "Generale": {

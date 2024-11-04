@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115229615/",
     "main_info": {
         "title": "Trilocale via Salvator Rosa, Piazza Canneto - Salvator Rosa, Napoli",
         "location": "",
-        "price": "€ 235.000"
+        "price": "€ 235.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Salvator Rosa",
+            "text": "Nella centralissima Via Salvator Rosa, a pochi passi dal Museo Archeologico Nazionale e poco distante dal cuore del Centro Storico, proponiamo in vendita un appartamento di 70 mq. L'immobile è sito al 1° piano di uno stabile d'epoca in tufo ristrutturato ed è così composto: ingresso in cucina cucina living, camera da letto con balcone, cameretta e bagno. Esso, finemente ristrutturato, si presenta arioso e luminoso grazie alla presenza del balcone con affaccio su strada principale e di punti luce in tutti gli ambienti. Ideale sia per uso proprio che per uso investimento, data la centralità della zona ben collegata alle linee metropolitane 1 e 2, ricca di attività commerciali di ogni genere e tipo. Visionabile previo avviso telefonico al numero 08118284514 o whatsapp 081. 18284514 o posta elettronica casanetworkmuseo@gmail.com Oggi, la nostra struttura dedica ai propri clienti un servizio di consulenza totale, affiancando le parti (Acquirente e Venditore), offrendo loro le garanzie sullo stato dell'immobile e sulle conformità di legge, eseguendo le ispezioni ipotecarie e catastali in via preliminare e senza alcun aggravio di spese, affinché si possa giungere al rogito notarile di compravendita con tranquillità e trasparenza. I nostri clienti hanno sempre un interlocutore, pronto a rispondere e a offrire l'adeguata assistenza alle richieste ricevute in tutte le fasi della trattativa e fino al giorno del rogito notarile. Pensiamo che il mercato immobiliare in questo periodo abbia bisogno di professionisti qualificati, esperti, motivati e dinamici, inoltre i nostri consulenti finanziari sono disponibili su appuntamento presso il nostro ufficio per consulenze creditizie completamente gratuite e senza impegno .Se fosse interessato ad una valutazione gratuita del suo immobile siamo a sua completa disposizione! Le ricordiamo inoltre che la nostra struttura offre consulenze di mutuo gratuite."
+        },
+        "last_update": "Annuncio aggiornato il 11/10/2024"
     },
     "detailed_features": {
         "Generale": {

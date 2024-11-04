@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115024049/",
     "main_info": {
         "title": "Trilocale via Daniele Manin, Fuorigrotta, Napoli",
         "location": "",
-        "price": "€ 218.000"
+        "price": "€ 218.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "Casa libera , luminosa, doppia esposizione, in parco tranquillo, con posto auto e cantina, esposizione libera. No Agenzie. Grazie"
+        },
+        "last_update": "Annuncio aggiornato il 14/10/2024"
     },
     "detailed_features": {
         "Generale": {

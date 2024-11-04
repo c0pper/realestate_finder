@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/112599611/",
     "main_info": {
         "title": "Trilocale via Alfredo Vittorio Russo, Arenella, Napoli",
         "location": "",
-        "price": "€ 245.000"
+        "price": "€ 245.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Alfredo Vittorio Russo 3 vani+acc tripla esposizione",
+            "text": "Via Alfredo Vittorio Russo, adiacenza di Via Domenico Fontana in ottimo stabile antecedente 67 ICONACASA NAPOLI ARENELLA, propone in vendita meraviglioso tre vani più accessori di una metratura di 84 mq, sito ad un terzo piano senza ascensore. le spese condominiali ammontano a euro 30 mensili. INTERNO: L'immobile è composto da ingresso in corridoio, soggiorno da cui si ha accesso diretto sul primo balcone che affaccia su  Via Domenico fontana, cucina semi abitabile con accesso al secondo balcone, bagno padronale finestrato, camera padronale e cameretta con uscita al terzo balcone. Il cespite gode di un ottima luminosità in quanto usufruisce di una tripla esposizione sia con affaccio interno lo stabile che su Via Domenico Fontana. ESTERNO: Stabile in buone condizioni manutentive! POSIZIONE: La zona è servita da mezzi pubblici, vicinanza alla metropolitana linea 1 fermata Piazza Medaglie D'Oro, a 550 m da Piazzetta Arenella. Sono inoltre presenti supermercati, scuole, tabacchi e vicinanza alla zona ospedaliera. QUATTRO BUONI MOTIVI PER SCEGLIERE QUESTO IMMOBILE: STABILE ESTERNAMENTE RISTRUTTURATO BUON CONTESTO VICINANZA A PIAZZETTA ARENELLA E ZONA OSPEDALIERA LUMINOSO Per ulteriori informazioni o per fissare un appuntamento può chiamarci al numero 081.18337950 oppure al 351.67.08.906 anche tramite WHATSAPP, Dal Lunedi al Venerdì dalle 09.00 alle 13.30 e dalle 15.30 alle 20.00, il Sabato dalle 09.00 alle 13.30 Se fosse interessato ad una valutazione GRATUITA del Suo immobile, siamo a Sua completa disposizione! Le ricordiamo, inoltre che la nostra la struttura offre CONSULENZE DI MUTUO GRATUITA."
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
     },
     "detailed_features": {
         "Generale": {

@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114268167/",
     "main_info": {
         "title": "Trilocale Strada dell'Anticaglia, Centro Storico, Napoli",
         "location": "",
-        "price": "€ 248.000"
+        "price": "€ 248.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Centro Storico, appartamento con affaccio sul Teatro Romano",
+            "text": "Nel Cuore dei Centro Storico e più precisamente in Strada Dell' Anticaglia, a pochi passi da Via Tribunali e Via Duomo, in zona centrale e ben servita, proponiamo in vendita appartamento con vista sullo storico Teatro Romano. L'immobile, sito primo piano con ingresso indipendente da piano terra interno al cortile dello storico Palazzo Capece Zurlo, è composto da: zona living con angolo cottura, camera da letto, cameretta, ripostiglio e bagno. Luminoso con doppia esposizione di cui una sul Teatro Romano. Attualmente la soluzione è locata con una rendita annua di 7.500, 00 euro. Prezzo richiesto per questa soluzione EURO 248.000, 00. Per info contattaci allo 081/5571129 o al 379/1354338 anche whatsapp, oppure visita il nostro sito showcasenapoli. it. \"Showcase, assistenza all-inclusive per chi cerca casa\"."
+        },
+        "last_update": "Annuncio aggiornato il 03/09/2024"
     },
     "detailed_features": {
         "Generale": {

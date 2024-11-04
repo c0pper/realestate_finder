@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/115774017/",
     "main_info": {
         "title": "Appartamento salita Cinesi, Sanità, Napoli",
         "location": "",
-        "price": "€ 220.000"
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "ADZ. BASILICA DI SAN SEVERO - AMPIO APPARTAMENTO LUMINOSO",
+            "text": "Rif: 00472 - Zona Sanità , a pochi passi dalla Basilica di San Severo , e precisamente in Salita Cinesi, proponiamo in vendita ampio appartamento di 100 mq ca . sito a primo piano di uno stabile d'epoca. L'immobile al suo interno e' così composto : ingresso in ampio salone , camera con balcone ed affaccio su via principale,  camera da letto , vano studio , cameretta , cucina e bagno . Giardino di pertinenza di 70 mq ca. La soluzione gode di ottima luminosità data dalla presenza di punti un o piu' punti luce in ogni ambiente. DA RISTRUTTURARE. A soli 5 minuti dalle Catacombe di San Gaudioso; tra i principali luoghi di interesse nelle vicinanze troviamo il Museo Cappella Sansevero, MUSA e Real Bosco di Capodimonte. IDEALE SIA PER USO PROPRIO CHE PER INVESTIMENTO. Prezzo richiesto € 220 .000 COSA ASPETTI? NON FARTELA SCAPPARE E CHIAMACI AL NUMERO 081/0360755. Chiamaci e fissa subito il tuo appuntamento! Ricordati quando ci chiami di comunicarci il riferimento annuncio, grazie. P. S. Guarda tutti gli altri fantastici immobili della nostra agenzia. Come? semplicemente andando sul sito.\"www.tempocasaforia.it\" .Le ricordiamo, inoltre, che la nostra struttura offre CONSULENZE DI MUTUO GRATUITE CON TASSI AGEVOLATI!"
+        },
+        "last_update": "Annuncio aggiornato il 31/10/2024"
     },
     "detailed_features": {
         "Generale": {

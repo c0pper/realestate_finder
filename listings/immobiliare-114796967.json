@@ -1,10 +1,16 @@
 {
-    "date_scraped": "2024-10-31",
+    "date_scraped": "2024-11-04",
     "url": "https://www.immobiliare.it/annunci/114796967/",
     "main_info": {
         "title": "Trilocale Vico Conte di Mola, Quartieri Spagnoli, Napoli",
         "location": "",
-        "price": "€ 250.000"
+        "price": "€ 250.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "N/A",
+            "text": "VICO CONTE DI MOLA - Nel cuore dei Quartieri Spagnoli, proponiamo in vendita grazioso trilocale di 70 mq posto al quinto piano di uno stabile storico privo di ascensore. L'ubicazione dello stabile risulta vantaggiosa trovandosi a distanza ravvicinata della funicolare centrale del Corso Vittorio Emanuele e della Linea 6 della Metro di Chiaia. L'immobile è suddiviso su due livelli regolari: Al primo livello troviamo un ampio salone, camera da letto, vano lavanderia e bagno. Al secondo livello invece cucina abitabile con terrazzo e balcone panoramico. L'appartamento è finemente ristrutturato ed arredato, perfetto sia come abitazione principale sia come investimento. Non perdere questa opportunità di investimento in una delle zone più affascinanti della città! Visionabile tutti i giorni previo avviso telefonico. Per maggiori informazioni e appuntamenti, contattaci al seguente numero: 081/7645323 o tramite Whatsapp 3476181401. Presso la nostra agenzia Tecnorete, è possibile su richiesta ricevere una consulenza gratuita ed accedere ad un'ampia gamma di prodotti creditizi e assicurativi come: Mutui prima casa, seconda casa e mutuo per ristrutturazione. Sostituzione o Surroga del Mutuo Prodotti Assicurativi per la Famiglia, ramo Danni e Vita. LA CONSULENZA È GRATUITA"
+        },
+        "last_update": "Annuncio aggiornato il 04/10/2024"
     },
     "detailed_features": {
         "Generale": {

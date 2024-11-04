@@ -1,0 +1,64 @@
+{
+    "date_scraped": "2024-11-04",
+    "url": "https://www.immobiliare.it/annunci/115850741/",
+    "main_info": {
+        "title": "Trilocale Vico Santi Filippo e Giacomo, Centro Storico, Napoli",
+        "location": "",
+        "price": "€ 255.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Via Santi Filippo e Giacomo",
+            "text": "Via Santi Filippo e Giacomo: strada di interesse culturale, storico, artistico e principalmente turistico a pochissimi passi dalle piu' importanti Vie del centro antico di Napoli come: San Biagio dei Librai, San Gregorio Armeno, Via Nilo, Via Tribunali, Spacca Napoli etc. Posizione perfetta per raggiugere i principali punti di interesse della città e per usufruire di tutti i servizi necessari. TECNORETE CORSO UMBERTO I propone in vendita in stabile d'epoca signorile in tufo un prestigioso appartamento ristrutturato di una metratura calpestabile di 80mq circa posta al piano primo nobile. Il cespite è cosi composto: ingresso ampio soggiorno con balcone con affaccio libero interno al cortile del fabbricato, corridoio, due camere da letto, cucina abitabile, bagno con finestra. Inoltre, è dotato di impianto di condizionamento autonomo caldo/freddo. Una occasione imperdibile per chi cerca un investimento immobiliare con un solido rendimento, ma anche per chi cerca un nido per cui vivere necessitando di tutti i comfort di un ambiente unico, vivace e accogliente. Contattateci per ulteriori dettagli e per organizzare una visita; saremo lieti di assistervi con professionalità, trasparenza e un approccio orientato alle vostre esigenze. Numero di telefono:081.55.39.143."
+        },
+        "last_update": "Annuncio aggiornato il 04/11/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Ottimo / Ristrutturato",
+            "Disponibilità": "Libero",
+            "Arredato": "Parzialmente Arredato"
+        },
+        "Panoramica": {
+            "Piano": "1",
+            "Superficie": "80 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina angolo cottura",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        },
+        "Riscaldamento": {
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "1",
+        "Superficie": "80,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "80,0 m²"
+    },
+    "badges": [
+        "Esposizione interna",
+        "Infissi esterni in doppio vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 30/mese"
+    }
+}

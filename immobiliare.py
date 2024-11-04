@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 import os
 from export import flatten_data
 from logging_setup import setup_logging
+from utils import copy_ff_profile, get_driver
 logger = setup_logging()
 
 search_url = os.getenv("SEARCH_URL_IMMOBILIARE")
@@ -249,9 +250,11 @@ class ImmobiliareScraper():
                         if not pattern.search(description):
                             filtered_listings.append(data)
                         else:
-                            logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
+                            pass
+                            # logger.warning(f'{data["url"]} is either nuda proprietà, has soppalco or is an auction')
                     else:
-                        logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
+                        pass
+                        # logger.warning(f'{data["url"]} is either not libero, da ristrutturare, piano <= 1 or no balcone')
             
         return filtered_listings
     
@@ -281,6 +284,7 @@ class ImmobiliareScraper():
             #     logger.error(f"Failed to fetch page {page_num}. Status code: {response.status_code}")
             #     break
             self.driver.get(paginated_url)
+            time.sleep(1)
 
             soup = BeautifulSoup(self.driver.page_source, "html.parser")
             listings = soup.find_all("div", class_="in-listingCard")
@@ -329,6 +333,8 @@ class ImmobiliareScraper():
 
 
 if __name__ == "__main__":
-    immobiliare_scraper = ImmobiliareScraper(search_url=search_url, listings_dir="listings")
+    # copy_ff_profile()
+    driver = get_driver()
+    immobiliare_scraper = ImmobiliareScraper(search_url=search_url, listings_dir="listings", driver=driver)
     immobiliare_scraper.scrape_listings()
     

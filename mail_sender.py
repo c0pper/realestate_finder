@@ -10,7 +10,7 @@ import pandas as pd
 from casa import CasaScraper
 from immobiliare import ImmobiliareScraper
 from llm import json_to_human
-from utils import get_driver
+from utils import copy_ff_profile, get_driver
 from logging_setup import setup_logging
 logger = setup_logging()
 
@@ -38,7 +38,7 @@ def send_email(subject, body, to_email, from_email, password):
 
 
 if __name__ == "__main__":
-    logger.info(f'Getting driver')
+    copy_ff_profile()
     driver = get_driver()
 
     logger.info(f'Getting Immo Scraper')
