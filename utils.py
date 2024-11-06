@@ -72,9 +72,9 @@ def get_driver():
 def already_refreshed():
     """Check if the program already ran today."""
     if is_raspberry_pi():
-        executions_path = Path("/home/simo/code/realestate_finder/executions.json")
-    else:
         executions_path = Path("/home/pi/docker/bots/realestate_finder/executions.json")
+    else:
+        executions_path = Path("/home/simo/code/realestate_finder/executions.json")
     today_str = datetime.now().strftime("%Y-%m-%d")
     
     # Load existing executions or create a new file if it doesn't exist
