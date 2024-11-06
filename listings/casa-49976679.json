@@ -1,0 +1,36 @@
+{
+    "date_scraped": "2024-11-05",
+    "url": "https://www.casa.it/immobili/49976679/",
+    "main_info": {
+        "title": "Quadrilocale in Vendita in Via Laura Mancini Oliva a Napoli",
+        "location": "",
+        "price": "€ 270.000",
+        "description": {
+            "reference": "N/A",
+            "title": "Quadrilocale in Vendita in Via Laura Mancini Oliva a Napoli",
+            "text": "Nel cuore del centro storico di napoli, dove il turismo negli ultimi anni si e' incrementato per le varie bellezze artistiche e culturali, vi proponiamo in vendita un ampio appartamento ristrutturato di 142mq, in uno stabile d epoca, posto al secondo piano servito da ascensore. La soluzione e' cosi' composta: ingresso in disimpegno, cucina living, camera da letto, due camerette di cui una con bagno in camera, cabina armadio. La zona e' ben servita e' a pochi metri dalla funicolare centrale di del corso vittorio emanuele. Visita il nostro sito: progettocasa. Info i nostri recapiti sono: / ( whatsapp ) e-mail: siamo in via spirito santo, 11 somma vesuviana (na)."
+        },
+        "last_update": "Data ultimo aggiornamento 12 Ottobre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "145mq",
+            "Locali": "4",
+            "Bagni": "2",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone",
+            "Balcone": "Sì"
+        },
+        "energy": {
+            "Stato": "ristrutturato",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "FDL 192 del 19/08/05"
+        },
+        "cost_details": {
+            "Prezzo": "€270.000Calcola mutuoprezzo al mq calcolato € 1.863"
+        }
+    }
+}

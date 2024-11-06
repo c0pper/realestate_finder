@@ -1,0 +1,37 @@
+{
+    "date_scraped": "2024-11-06",
+    "url": "https://www.casa.it/immobili/50211187/",
+    "main_info": {
+        "title": "Trilocale in Vendita in Gradini Rosario a Portamedina 7 a Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "N/A",
+            "title": "Trilocale in Vendita in Gradini Rosario a Portamedina 7 a Napoli",
+            "text": "Vendesi Libero (Gradini Rosario a Portamedina) a pochi passi dalla famosa Spaccanapoli e dalla turistica Via Pignasecca, nelle immediate vicinanze della fermata della cumana e della metropolitana di Montesanto, appartamento luminoso ed arioso posto al terzo piano senza ascensore. Immobile composto da ingresso in disimpegno, cucinotto, camera da letto con balcone, stanza da pranzo, camera da letto matrimoniale e bagno. prezzo richiesto € 220.000, 00PER MAGGIORI INFORMAZIONI O PER FISSARE EVENTUALE APPUNTAMENTO TELEFONARE AI SEGUENTI NUMERI 366/... o 081/... PAPACCIO IMMOBILIARE srls."
+        },
+        "last_update": "Data ultimo aggiornamento 6 Novembre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "80mq",
+            "Locali": "3",
+            "Bagni": "1",
+            "Piano": "3°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone",
+            "Balcone": "Sì"
+        },
+        "energy": {
+            "Anno di costruzione": "1900",
+            "Stato": "abitabile",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "GD.M. 26/06/2015"
+        },
+        "cost_details": {
+            "Prezzo": "€220.000Calcola mutuoprezzo al mq calcolato € 2.750"
+        }
+    }
+}

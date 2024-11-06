@@ -1,0 +1,38 @@
+{
+    "date_scraped": "2024-11-06",
+    "url": "https://www.casa.it/immobili/50209216/",
+    "main_info": {
+        "title": "Quadrilocale in Vendita in Vico Santa Maria della Purità 52 a Napoli",
+        "location": "",
+        "price": "€ 260.000",
+        "description": {
+            "reference": "N/A",
+            "title": "Quadrilocale in Vendita in Vico Santa Maria della Purità 52 a Napoli",
+            "text": "MATERDEI, in VICO SANTA MARIA DELLA PURITA’, (strada parallela a VIA MATERDEI) ad 1 minuto a piedi da VIA SANTA TERESA DEGLI SCALZI ed a 5 minuti a piedi dalla METRO “MATERDEI”, oltre a fermate di mezzi pubblici, ad attività commerciali e scuole, in fabbricato d’epoca in BUONO STATO, immobile di 115 mq c. a, composto da ingresso, SOGGIORNO con finestra, cucina ABITABILE con BALCONCINO su VICO SANTA MARIA DELLA PURITA’, corridoio con finestra, prima cameretta con ACCESSO A BALCONE, seconda cameretta con ACCESSO A BALCONE, terza camera da letto CON ACCESSO A BALCONE, primo wc che per la zona e letto e secondo wc.L’immobile è in ottime condizioni servito da riscaldamento AUTONOMO Classe energetica \"G\" Home intermediazioni Via Francesco Cilea, 165 80127 Napoli Tel /."
+        },
+        "last_update": "Data ultimo aggiornamento 6 Novembre 2024"
+    },
+    "detailed_features": {
+        "general": {
+            "Superficie": "118mq",
+            "Locali": "4",
+            "Bagni": "2",
+            "Piano": "2°",
+            "Ascensore": "no",
+            "Stato al rogito": "libero",
+            "Altre caratteristiche": "balcone",
+            "Balcone": "Sì"
+        },
+        "energy": {
+            "Anno di costruzione": "920",
+            "Stato": "abitabile",
+            "Riscaldamento": "autonomo",
+            "Aria condizionata": "autonoma",
+            "Classe energetica": "GD.M. 26/06/2015"
+        },
+        "cost_details": {
+            "Prezzo": "€260.000Calcola mutuoprezzo al mq calcolato € 2.204",
+            "Spese condominiali": "€55/mese"
+        }
+    }
+}

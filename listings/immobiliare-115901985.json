@@ -1,0 +1,67 @@
+{
+    "date_scraped": "2024-11-06",
+    "url": "https://www.immobiliare.it/annunci/115901985/",
+    "main_info": {
+        "title": "Quadrilocale Vico Santa Maria della Purità 52, Stella - Materdei, Napoli",
+        "location": "",
+        "price": "€ 260.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Vico Santa Maria della Purità, 4 vani + 2 acc. OTTIMO STATO",
+            "text": "MATERDEI, in VICO SANTA MARIA DELLA PURITA’, (strada parallela a VIA MATERDEI) ad 1 minuto a piedi  da VIA SANTA TERESA DEGLI SCALZI ed a 5 minuti a piedi dalla METRO “MATERDEI”, oltre a fermate di mezzi pubblici, ad  attività commerciali e scuole , in fabbricato d’epoca in BUONO STATO , immobile di 115 mq c.a, composto da ingresso, SOGGIORNO con finestra , cucina ABITABILE con BALCONCINO su VICO SANTA MARIA DELLA PURITA’, corridoio con finestra, prima cameretta con ACCESSO A BALCONE, seconda cameretta con ACCESSO A BALCONE, terza camera da letto CON ACCESSO A BALCONE, primo wc che per la zona e letto e secondo wc. L’immobile è in ottime condizioni servito da  riscaldamento AUTONOMO Classe energetica \"G\" Home intermediazioni Via Francesco Cilea, 165 80127 Napoli Tel 0810145579/3388921532"
+        },
+        "last_update": "Annuncio aggiornato il 06/11/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile signorile",
+            "Contratto": "Vendita",
+            "Stato": "Buono / Abitabile",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "2",
+            "Superficie": "117 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "2",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1910",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "Sì"
+        },
+        "Riscaldamento": {
+            "Riscaldamento": "Autonomo, a radiatori, alimentato a metano",
+            "Climatizzazione": "Autonomo, freddo/caldo"
+        }
+    },
+    "surface_details": {
+        "Piano": "2",
+        "Superficie": "6,0 m²",
+        "Coefficiente": "30%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "1,0 m²"
+    },
+    "badges": [
+        "Armadio a muro",
+        "Esposizione esterna",
+        "Fibra ottica",
+        "Infissi esterni in doppio vetro / PVC",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 55/mese"
+    }
+}

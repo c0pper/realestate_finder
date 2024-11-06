@@ -1,0 +1,59 @@
+{
+    "date_scraped": "2024-11-06",
+    "url": "https://www.immobiliare.it/annunci/115374993/",
+    "main_info": {
+        "title": "Trilocale via del Formale, Monte Santo, Napoli",
+        "location": "",
+        "price": "€ 250.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "APPARTAMENTO LOCATO AD.ZE PIAZZA CARITA'",
+            "text": "Immediate adiacenze Piazza Carità (via del Formale)- proponiamo in vendita un appartamento composto da 3 vani e accessori di 90 mq c.a, questo immobile offre un'ottima opportunità di investimento. L' appartamento posto al 3° piano senza ascensore, dispone di 2 camere da letto, due balconi ed un soggiorno /cucina. Le condizioni interne sono discrete, ma il potenziale è notevole. La posizione strategica garantisce la vicinanza a tutti i servizi essenziali, come mezzi pubblici, bar, ristoranti, scuole e molto altro. Attualmente locato con un contratto in scadenza a maggio 2025 e una rendita del 4%, questo appartamento rappresenta un'opportunità interessante per chi desidera un investimento sicuro nel settore immobiliare. Euro 250.000,00. Contattaci per maggiori informazioni e per organizzare una visita."
+        },
+        "last_update": "Annuncio aggiornato il 06/11/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile economica",
+            "Contratto": "Vendita | Immobile a reddito",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Disponibile dal 31/05/2025",
+            "Arredato": "Sì"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "90 m²",
+            "Locali": "3"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "2",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1900",
+            "Piani edificio": "4",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "90,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "90,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Infissi esterni in vetro / metallo",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 50/mese"
+    }
+}

@@ -27,7 +27,7 @@ headers = {
 load_dotenv()
 
 class ImmobiliareScraper():
-    def __init__(self, search_url:str, listings_dir: str, driver) -> None:
+    def __init__(self, search_url:str, listings_dir: str, driver=None) -> None:
         self.search_url = search_url
         self.listings_dir = Path(listings_dir)
         self.listings_dir.mkdir(exist_ok=True)

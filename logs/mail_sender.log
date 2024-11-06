@@ -7687,3 +7687,129 @@
 2024-11-04 20:23:55,367 - logging_setup - INFO - CasaScraper - Checking page 3
 2024-11-04 20:23:56,397 - logging_setup - INFO - No 'Continue without accepting' button found
 2024-11-04 20:23:56,399 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:30:02,368 - logging_setup - INFO - Already refreshed for today.
+2024-11-04 20:30:02,368 - logging_setup - INFO - Getting driver
+2024-11-04 20:31:08,857 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 20:31:08,858 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 20:31:08,858 - logging_setup - INFO - Getting Immo listings
+2024-11-04 20:31:08,858 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-04 20:31:11,528 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-04 20:31:13,167 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-04 20:31:14,809 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-04 20:31:16,417 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-04 20:31:17,937 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-04 20:31:19,487 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:31:19,511 - logging_setup - INFO - Getting Casa listings
+2024-11-04 20:31:19,511 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-04 20:31:20,968 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:31:20,978 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-04 20:31:22,245 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:31:22,252 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-04 20:31:23,301 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-04 20:31:23,303 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-04 20:43:11,845 - logging_setup - INFO - Already refreshed for today.
+2024-11-04 20:44:58,545 - logging_setup - INFO - Already refreshed for today.
+2024-11-04 20:45:00,953 - logging_setup - INFO - Already checked listings today
+2024-11-04 20:45:26,810 - logging_setup - INFO - Already checked listings for today.
+2024-11-04 20:47:09,206 - logging_setup - INFO - Getting driver
+2024-11-04 20:47:09,206 - logging_setup - INFO - Getting driver
+2024-11-04 20:48:25,851 - logging_setup - INFO - Getting Immo Scraper
+2024-11-04 20:48:25,852 - logging_setup - INFO - Getting Casa Scraper
+2024-11-04 20:48:25,852 - logging_setup - INFO - Exporting from jsons
+2024-11-04 20:48:25,880 - logging_setup - INFO - Concatenating dataframes
+2024-11-04 20:48:26,122 - logging_setup - INFO - Exported combined listings to Excel
+2024-11-04 21:30:01,348 - logging_setup - INFO - Already checked listings for today.
+2024-11-05 17:30:01,670 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-05 17:30:01,675 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-05 17:30:01,773 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-05 17:30:01,847 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-05 17:30:15,322 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-05 17:30:15,654 - logging_setup - INFO - Getting driver
+2024-11-05 17:31:15,253 - logging_setup - INFO - Getting Immo Scraper
+2024-11-05 17:31:15,338 - logging_setup - INFO - Getting Casa Scraper
+2024-11-05 17:31:15,342 - logging_setup - INFO - Getting Immo listings
+2024-11-05 17:31:15,346 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-05 17:31:18,650 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-05 17:31:20,261 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115871021/ [18/25 listings on page 2]
+2024-11-05 17:31:23,828 - logging_setup - INFO - No cookies consent button found
+2024-11-05 17:31:25,782 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115871021 to listings/immobiliare-115871021.json
+2024-11-05 17:31:25,783 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-05 17:31:27,376 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115803977/ [5/25 listings on page 3]
+2024-11-05 17:31:30,944 - logging_setup - INFO - No cookies consent button found
+2024-11-05 17:31:32,898 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-05 17:31:32,898 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115803977 to listings/immobiliare-115803977.json
+2024-11-05 17:31:32,901 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-05 17:31:34,498 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-05 17:31:36,110 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/111900119/ [1/25 listings on page 5]
+2024-11-05 17:31:39,489 - logging_setup - INFO - No cookies consent button found
+2024-11-05 17:31:41,482 - logging_setup - INFO - Failed to extract cost details: 'NoneType' object has no attribute 'find_all'
+2024-11-05 17:31:41,482 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-111900119 to listings/immobiliare-111900119.json
+2024-11-05 17:31:41,488 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-05 17:31:43,035 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-05 17:31:43,060 - logging_setup - INFO - Getting Casa listings
+2024-11-05 17:31:43,060 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-05 17:31:44,782 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-05 17:31:44,799 - logging_setup - INFO - Scraping listing data for https://www.casa.it/immobili/49976679/ [20/20 listings on page 1]
+2024-11-05 17:31:45,232 - logging_setup - INFO - 	Saved listing data for CasaScraper-49976679 to listings/casa-49976679.json
+2024-11-05 17:31:45,232 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-05 17:31:46,615 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-05 17:31:46,628 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-05 17:31:47,713 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-05 17:31:47,714 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-05 17:31:49,182 - logging_setup - INFO - New listings: ['Trilocale via Mario Pagano 8, Sanità, Napoli', 'Quadrilocale in Vendita in Via Laura Mancini Oliva a Napoli']
+2024-11-05 18:00:02,337 - logging_setup - INFO - Already checked listings for today.
+2024-11-06 19:30:02,051 - logging_setup - INFO - Refreshing fake FF profile...
+2024-11-06 19:30:02,056 - logging_setup - WARNING - [Errno 2] No such file or directory: '/home/simo/.mozilla/firefox/auq1dm16.default-release/lock'
+2024-11-06 19:30:02,179 - logging_setup - INFO - Copied 20/71 items so far...
+2024-11-06 19:30:02,253 - logging_setup - INFO - Copied 40/71 items so far...
+2024-11-06 19:30:16,762 - logging_setup - INFO - Copied 60/71 items so far...
+2024-11-06 19:30:17,062 - logging_setup - INFO - Getting driver
+2024-11-06 19:31:17,102 - logging_setup - INFO - Getting Immo Scraper
+2024-11-06 19:31:17,145 - logging_setup - INFO - Getting Casa Scraper
+2024-11-06 19:31:17,147 - logging_setup - INFO - Getting Immo listings
+2024-11-06 19:31:17,147 - logging_setup - INFO - ImmobiliareScraper - Checking page 1
+2024-11-06 19:31:20,063 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115918399/ [8/25 listings on page 1]
+2024-11-06 19:31:23,490 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:31:25,535 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115918399 to listings/immobiliare-115918399.json
+2024-11-06 19:31:25,537 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115908287/ [25/25 listings on page 1]
+2024-11-06 19:31:28,949 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:31:31,036 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115908287 to listings/immobiliare-115908287.json
+2024-11-06 19:31:31,036 - logging_setup - INFO - ImmobiliareScraper - Checking page 2
+2024-11-06 19:31:32,659 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115901985/ [1/25 listings on page 2]
+2024-11-06 19:31:36,075 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:31:38,175 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115901985 to listings/immobiliare-115901985.json
+2024-11-06 19:31:38,179 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115888015/ [25/25 listings on page 2]
+2024-11-06 19:31:41,528 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:31:43,588 - logging_setup - INFO - Failed to extract surface details: 'NoneType' object has no attribute 'find_all'
+2024-11-06 19:31:43,590 - logging_setup - INFO - No badges found: 'NoneType' object has no attribute 'find_all'
+2024-11-06 19:31:43,591 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115888015 to listings/immobiliare-115888015.json
+2024-11-06 19:31:43,592 - logging_setup - INFO - ImmobiliareScraper - Checking page 3
+2024-11-06 19:31:45,264 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115385649/ [2/25 listings on page 3]
+2024-11-06 19:31:48,614 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:31:50,658 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115385649 to listings/immobiliare-115385649.json
+2024-11-06 19:31:50,663 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115374993/ [20/25 listings on page 3]
+2024-11-06 19:31:54,049 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:31:56,026 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115374993 to listings/immobiliare-115374993.json
+2024-11-06 19:31:56,028 - logging_setup - INFO - ImmobiliareScraper - Checking page 4
+2024-11-06 19:31:57,709 - logging_setup - INFO - Scraping listing data for https://www.immobiliare.it/annunci/115903597/ [2/25 listings on page 4]
+2024-11-06 19:32:01,033 - logging_setup - INFO - No cookies consent button found
+2024-11-06 19:32:02,941 - logging_setup - INFO - 	Saved listing data for ImmobiliareScraper-115903597 to listings/immobiliare-115903597.json
+2024-11-06 19:32:02,944 - logging_setup - INFO - ImmobiliareScraper - Checking page 5
+2024-11-06 19:32:04,611 - logging_setup - INFO - ImmobiliareScraper - Checking page 6
+2024-11-06 19:32:06,132 - logging_setup - INFO - ImmobiliareScraper - Checking page 7
+2024-11-06 19:32:07,657 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-06 19:32:07,686 - logging_setup - INFO - Getting Casa listings
+2024-11-06 19:32:07,686 - logging_setup - INFO - CasaScraper - Checking page 1
+2024-11-06 19:32:09,489 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-06 19:32:09,506 - logging_setup - INFO - Scraping listing data for https://www.casa.it/immobili/50209216/ [2/20 listings on page 1]
+2024-11-06 19:32:10,064 - logging_setup - INFO - 	Saved listing data for CasaScraper-50209216 to listings/casa-50209216.json
+2024-11-06 19:32:10,066 - logging_setup - INFO - CasaScraper - Checking page 2
+2024-11-06 19:32:11,301 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-06 19:32:11,314 - logging_setup - INFO - Scraping listing data for https://www.casa.it/immobili/50211187/ [1/7 listings on page 2]
+2024-11-06 19:32:11,963 - logging_setup - INFO - 	Saved listing data for CasaScraper-50211187 to listings/casa-50211187.json
+2024-11-06 19:32:11,964 - logging_setup - INFO - CasaScraper - Checking page 3
+2024-11-06 19:32:13,131 - logging_setup - INFO - No 'Continue without accepting' button found
+2024-11-06 19:32:13,133 - logging_setup - INFO - No more listings found. Exiting pagination.
+2024-11-06 19:32:14,352 - logging_setup - INFO - New listings: ['Quadrilocale Vico Santa Maria della Purità 52, Stella - Materdei, Napoli', 'Trilocale via Roberto Savarese 17, Stella - Materdei, Napoli', 'Trilocale Vico Giardinetto, Quartieri Spagnoli, Napoli', 'Trilocale Gradini Rosario a Portamedina 7, Monte Santo, Napoli', 'Quadrilocale in Vendita in Vico Santa Maria della Purità 52 a Napoli', 'Trilocale in Vendita in Gradini Rosario a Portamedina 7 a Napoli']
+2024-11-06 20:00:02,179 - logging_setup - INFO - Already checked listings for today.
+2024-11-06 20:30:01,744 - logging_setup - INFO - Already checked listings for today.

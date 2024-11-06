@@ -1,0 +1,62 @@
+{
+    "date_scraped": "2024-11-06",
+    "url": "https://www.immobiliare.it/annunci/115385649/",
+    "main_info": {
+        "title": "Quadrilocale Vico Castellina, Sanità, Napoli",
+        "location": "",
+        "price": "€ 220.000",
+        "description": {
+            "reference": "riferimento",
+            "title": "Appartamento in elegante stabile d'epoca",
+            "text": "Appartamento da Personalizzare A circa 300 metri da Via Santa Teresa degli Scalzi, in una posizione strategica tra le fermate della metropolitana Materdei e Museo (7 minuti a piedi), proponiamo in vendita un appartamento di circa 110 mq, situato al terzo ed ultimo piano di un palazzo d’epoca sprovvisto di ascensore, ben tenuto e composto da soli tre piani. L'immobile, da rimodernare, si compone di: ingresso, 3 camere da letto (di cui una con balcone affacciato su Vico Castellina), una cameretta, una cucina e un servizio. Ideale per: Famiglie che desiderano personalizzare la propria abitazione e valorizzare gli spazi interni, creando un ambiente su misura per le proprie esigenze. Investitori alla ricerca di immobili con potenziale di valorizzazione, grazie alla posizione strategica e agli ampi spazi disponibili. Professionisti che cercano una casa comoda e ben collegata, vicina al centro, ma che necessiti di lavori di ristrutturazione per realizzare la propria visione. Questo appartamento rappresenta un’ottima opportunità per chi cerca una soluzione da ristrutturare a pochi passi dal centro storico, con il potenziale di creare spazi interni accoglienti e funzionali. Non perdere l’occasione di trasformare questa proprietà in una casa unica! Alcune delle foto presenti in questo annuncio sono state elaborate in chiave home staging per aiutarti a immaginare il pieno potenziale di questa proprietà. Questi interventi visivi sono pensati per mostrarti come l'appartamento può essere arredato e decorato per valorizzare al meglio gli spazi e creare un ambiente accogliente e funzionale.le."
+        },
+        "last_update": "Annuncio aggiornato il 06/11/2024"
+    },
+    "detailed_features": {
+        "Generale": {
+            "Tipologia": "Appartamento | Intera proprietà | Classe immobile media",
+            "Contratto": "Vendita",
+            "Stato": "Da ristrutturare",
+            "Disponibilità": "Libero",
+            "Arredato": "No"
+        },
+        "Panoramica": {
+            "Piano": "3",
+            "Superficie": "121 m²",
+            "Locali": "4"
+        },
+        "Composizione dell'immobile": {
+            "Camere da letto": "3",
+            "Cucina": "Cucina abitabile",
+            "Bagni": "1",
+            "Balcone": "Sì",
+            "Terrazzo": "No",
+            "Giardino": "Nessun giardino",
+            "Cantina": "No"
+        },
+        "Informazioni edificio": {
+            "Anno di costruzione": "1930",
+            "Piani edificio": "3",
+            "Ascensore": "No",
+            "Accesso disabili": "No"
+        }
+    },
+    "surface_details": {
+        "Piano": "3",
+        "Superficie": "121,0 m²",
+        "Coefficiente": "100%",
+        "Tipo superficie": "Principale",
+        "Sup. commerciale": "121,0 m²"
+    },
+    "badges": [
+        "Esposizione doppia",
+        "Fibra ottica",
+        "Infissi esterni in vetro / metallo",
+        "Porta blindata",
+        "Cancello elettrico",
+        "Impianto tv singolo"
+    ],
+    "cost_details": {
+        "Spese condominio": "€ 60/mese"
+    }
+}

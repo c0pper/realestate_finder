@@ -1,4 +1,5 @@
 import logging
+from pathlib import Path
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -10,7 +11,7 @@ import pandas as pd
 from casa import CasaScraper
 from immobiliare import ImmobiliareScraper
 from llm import json_to_human
-from utils import copy_ff_profile, get_driver
+from utils import already_refreshed, copy_ff_profile, get_driver
 from logging_setup import setup_logging
 logger = setup_logging()
 
@@ -38,48 +39,51 @@ def send_email(subject, body, to_email, from_email, password):
 
 
 if __name__ == "__main__":
-    copy_ff_profile()
-    driver = get_driver()
+    if not already_refreshed():
+        copy_ff_profile()
+        driver = get_driver()
 
-    logger.info(f'Getting Immo Scraper')
-    immo_scraper = ImmobiliareScraper(
-        search_url=os.getenv("SEARCH_URL_IMMOBILIARE"),
-        listings_dir="listings",
-        driver=driver
-    )
+        logger.info(f'Getting Immo Scraper')
+        immo_scraper = ImmobiliareScraper(
+            search_url=os.getenv("SEARCH_URL_IMMOBILIARE"),
+            listings_dir="listings",
+            driver=driver
+        )
 
-    logger.info(f'Getting Casa Scraper')
-    casa_scraper = CasaScraper(
-        search_url=os.getenv("SEARCH_URL_CASA"),
-        listings_dir="listings",
-        driver=driver
-    )
+        logger.info(f'Getting Casa Scraper')
+        casa_scraper = CasaScraper(
+            search_url=os.getenv("SEARCH_URL_CASA"),
+            listings_dir="listings",
+            driver=driver
+        )
 
 
-    new_listings = []
-    logger.info(f'Getting Immo listings')
-    new_listings.extend(immo_scraper.scrape_listings())
+        new_listings = []
+        logger.info(f'Getting Immo listings')
+        new_listings.extend(immo_scraper.scrape_listings())
 
-    logger.info(f'Getting Casa listings')
-    new_listings.extend(casa_scraper.scrape_listings())
+        logger.info(f'Getting Casa listings')
+        new_listings.extend(casa_scraper.scrape_listings())
 
-    driver.quit()
+        driver.quit()
 
-    if new_listings:
-        logger.info(f'New listings: {[l["main_info"]["title"] for l in new_listings]}')
+        if new_listings:
+            logger.info(f'New listings: {[l["main_info"]["title"] for l in new_listings]}')
 
-        body = ""
-        for l in new_listings:
-            human_desc = json_to_human(l)
-            listing_url = l["url"]
-            title = l["main_info"]["title"]
-            body += f'{title}\n{human_desc}\n\nLink: {listing_url}\n\n------\n\n'
+            body = ""
+            for l in new_listings:
+                human_desc = json_to_human(l)
+                listing_url = l["url"]
+                title = l["main_info"]["title"]
+                body += f'{title}\n{human_desc}\n\nLink: {listing_url}\n\n------\n\n'
 
-        # Configure your details
-        from_email = "93simonster@gmail.com"
-        to_email = "93simonster@gmail.com"
-        password = os.getenv("GMAIL_APP_PW")
+            # Configure your details
+            from_email = "93simonster@gmail.com"
+            to_email = "93simonster@gmail.com"
+            password = os.getenv("GMAIL_APP_PW")
 
-        subject = "New Listings Available"
+            subject = "New Listings Available"
 
-        send_email(subject, body, to_email, from_email, password)
+            send_email(subject, body, to_email, from_email, password)
+    else:
+        pass

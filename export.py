@@ -134,22 +134,17 @@ if __name__ == "__main__":
     from casa import CasaScraper
     from immobiliare import ImmobiliareScraper
     logger = setup_logging()
-    
-    logger.info(f'Getting driver')
-    driver = get_driver()
 
     logger.info(f'Getting Immo Scraper')
     immo_scraper = ImmobiliareScraper(
         search_url=os.getenv("SEARCH_URL_IMMOBILIARE"),
         listings_dir="listings",
-        driver=driver
     )
 
     logger.info(f'Getting Casa Scraper')
     casa_scraper = CasaScraper(
         search_url=os.getenv("SEARCH_URL_CASA"),
         listings_dir="listings",
-        driver=driver
     )
 
     logger.info(f'Exporting from jsons')

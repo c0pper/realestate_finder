@@ -44,7 +44,7 @@ def get_driver():
     logger.info(f'Getting driver')
     options = Options()
     if is_raspberry_pi():
-        profile = FirefoxProfile("/app/ff_profile/17ruxrsh.fake_prof")
+        profile = FirefoxProfile("/home/pi/docker/bots/realestate_finder/ff_profile/17ruxrsh.fake_prof")
         
         profile.set_preference("browser.cache.disk.enable", False)
         profile.set_preference("browser.cache.memory.enable", False)
@@ -69,8 +69,8 @@ def get_driver():
     return driver
 
 
-def check_already_refreshed():
-    """Check if the profile has already been refreshed today."""
+def already_refreshed():
+    """Check if the program already ran today."""
     executions_path = Path("/home/simo/code/realestate_finder/executions.json")
     today_str = datetime.now().strftime("%Y-%m-%d")
     
@@ -83,19 +83,17 @@ def check_already_refreshed():
 
     # Check if today's date is already in executions
     if today_str in executions:
-        logger.info("Already refreshed for today.")
-        return False
+        logger.info("Already checked listings for today.")
+        return True
     else:
         # Update executions.json with today’s date
         executions[today_str] = "refreshed"
         with executions_path.open("w") as f:
             json.dump(executions, f)
-        return True
+        return False
 
 
 def copy_ff_profile():
-    if not check_already_refreshed():
-        return
     logger.info(f"Refreshing fake FF profile...")
     # Define source and destination paths
     src = Path("/home/simo/.mozilla/firefox/auq1dm16.default-release/")
