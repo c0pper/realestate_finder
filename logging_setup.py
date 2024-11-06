@@ -8,7 +8,7 @@ def setup_logging():
     try:
         with open('/proc/cpuinfo', 'r') as cpuinfo:
             if 'Raspberry Pi' in cpuinfo.read():
-                log_dir = '/app/logs'
+                log_dir = '/home/pi/docker/bots/realestate_finder/logs'
             else:
                 log_dir = '/home/simo/code/realestate_finder/logs'
     except FileNotFoundError:
